@@ -1,7 +1,7 @@
 {
   "brief_date": "2026 · 08 · 17",
   "last_updated": "2026-08-17",
-  "match_score": 96,
+  "match_score": 0,
   "trackers": [
     {
       "name": "Ni electrocarboxylation",
@@ -39,7 +39,7 @@
       ],
       "score": 99,
       "url": "https://doi.org/10.1007/s11581-026-07391-5",
-      "archive": false,
+      "archive": true,
       "impact_factor": null,
       "quartile": "Q —"
     },
@@ -61,7 +61,7 @@
       ],
       "score": 90,
       "url": "https://doi.org/10.1007/s44373-026-00161-y",
-      "archive": false,
+      "archive": true,
       "impact_factor": null,
       "quartile": "Q —"
     },
@@ -83,7 +83,7 @@
       ],
       "score": 86,
       "url": "https://doi.org/10.1007/s44373-026-00160-z",
-      "archive": false,
+      "archive": true,
       "impact_factor": null,
       "quartile": "Q —"
     },
@@ -105,7 +105,7 @@
       ],
       "score": 84,
       "url": "https://doi.org/10.1038/s41598-026-64705-3",
-      "archive": false,
+      "archive": true,
       "impact_factor": null,
       "quartile": "Q —"
     },
@@ -127,7 +127,7 @@
       ],
       "score": 77,
       "url": "https://doi.org/10.1007/s12161-026-03223-4",
-      "archive": false,
+      "archive": true,
       "impact_factor": null,
       "quartile": "Q —"
     },
@@ -149,7 +149,7 @@
       ],
       "score": 77,
       "url": "https://doi.org/10.1007/s44469-026-00022-9",
-      "archive": false,
+      "archive": true,
       "impact_factor": null,
       "quartile": "Q —"
     },
@@ -171,7 +171,7 @@
       ],
       "score": 77,
       "url": "https://doi.org/10.1016/j.apsadv.2026.101031",
-      "archive": false,
+      "archive": true,
       "impact_factor": null,
       "quartile": "Q —"
     },
@@ -193,7 +193,7 @@
       ],
       "score": 77,
       "url": "https://doi.org/10.1007/s10008-026-06674-1",
-      "archive": false,
+      "archive": true,
       "impact_factor": null,
       "quartile": "Q —"
     },
@@ -215,7 +215,7 @@
       ],
       "score": 77,
       "url": "https://doi.org/10.1016/j.nxmate.2026.103163",
-      "archive": false,
+      "archive": true,
       "impact_factor": null,
       "quartile": "Q —"
     },
@@ -237,7 +237,7 @@
       ],
       "score": 74,
       "url": "https://doi.org/10.1016/j.rser.2026.117395",
-      "archive": false,
+      "archive": true,
       "impact_factor": null,
       "quartile": "Q —"
     },
@@ -259,7 +259,7 @@
       ],
       "score": 71,
       "url": "https://doi.org/10.26599/nre.2026.9120266",
-      "archive": false,
+      "archive": true,
       "impact_factor": null,
       "quartile": "Q —"
     },
@@ -281,7 +281,7 @@
       ],
       "score": 71,
       "url": "https://doi.org/10.3389/fchem.2026.1913683",
-      "archive": false,
+      "archive": true,
       "impact_factor": null,
       "quartile": "Q —"
     },
@@ -303,7 +303,7 @@
       ],
       "score": 71,
       "url": "https://doi.org/10.1007/s10791-026-10458-6",
-      "archive": false,
+      "archive": true,
       "impact_factor": null,
       "quartile": "Q —"
     },
@@ -325,7 +325,7 @@
       ],
       "score": 68,
       "url": "https://doi.org/10.1002/smll.75253",
-      "archive": false,
+      "archive": true,
       "impact_factor": null,
       "quartile": "Q —"
     },
@@ -347,7 +347,7 @@
       ],
       "score": 68,
       "url": "https://doi.org/10.1002/anie.7556352",
-      "archive": false,
+      "archive": true,
       "impact_factor": null,
       "quartile": "Q —"
     },
@@ -369,7 +369,7 @@
       ],
       "score": 68,
       "url": "https://doi.org/10.1038/s41467-026-76659-1",
-      "archive": false,
+      "archive": true,
       "impact_factor": "15.7",
       "quartile": "JCR Q1"
     },
@@ -391,7 +391,7 @@
       ],
       "score": 68,
       "url": "https://doi.org/10.1038/s44456-026-00012-6",
-      "archive": false,
+      "archive": true,
       "impact_factor": null,
       "quartile": "Q —"
     },
@@ -413,7 +413,7 @@
       ],
       "score": 68,
       "url": "https://doi.org/10.1002/smtd.70915",
-      "archive": false,
+      "archive": true,
       "impact_factor": null,
       "quartile": "Q —"
     },
