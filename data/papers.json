@@ -22,6 +22,402 @@
   ],
   "papers": [
     {
+      "id": "W7202347705",
+      "topic": "analysis",
+      "badge": "最新研究",
+      "read_minutes": 10,
+      "title": "Physical and electrochemical characterization of different ternary PtAuNi/MWCNT-N electrocatalysts for DMFC application",
+      "journal": "Ionics",
+      "year": 2026,
+      "summary_zh": "最新研究聚焦于 Physical and electrochemical characterization of different ternary PtAuNi/MWCNT-N electrocatalysts for DMFC application。已抓取题目、期刊和摘要信息；如配置 OPENAI_API_KEY，可自动生成中文摘要与研究关联解读。",
+      "abstract": "Over the years, researchers have observed the importance of developing efficient and durable electrocatalysts for direct methanol fuel cell (DMFC) applications. This study develops ternary PtAuNi/MWCNT-N catalysts, by varying gold concentration as 0%, 50% and 100%. The physicochemical and electrochemical properties of the catalysts were studied using different techniques. The -OH (3200–3500 cm− 1), -C = O (1640 cm− 1), C-O (1000–1300 cm− 1), C = N (1700 cm− 1) and metal-oxygen peaks around 450–500 cm− 1 were observed using Fourier transform infrared spectroscopy (FTIR). Thermogravimetric analysis (TGA) was able to observe increasing residual masses of 8.50% (PtAuNi/MWCNT-N), 12.82% (PtAu50Ni/MWCNT-N) and 18.31% (PtAu100Ni/MWCNT-N), suggesting an improvement in thermal stability with increasing gold content. Exothermic peaks from 450 to 650 $$\\:℃$$ were observed on the differential scanning calorimetry (DSC), aligning with the observations made in TGA. The sample with the most Au content (PtAu100Ni/MWCNT-N) exhibited an enhanced nanoparticle dispersion through Scanning Electron Microscope (SEM) micrographs. The progressive increase of Au content in the samples was confirmed using Inductively Coupled Plasma Optical Emission Spectroscopy (ICP-OES). Au content increased from 0.023 wt% (PtAuNi/MWCNT-N) to 1.20 wt% (PtAu100Ni/MWCNT-N).), while Pt loading ranged from 3.80 wt% to 4.11 wt%. X-ray diffraction (XRD) displayed peaks around 26°, 39°, 46°, 68° and 80°, these peaks align with the face-centered cubic (fcc) alloy phases that are in line with platinum (Pt) and its alloys. Electrochemical measurements Cyclic Voltammetry (CV) and Electrochemical Impedance Spectroscopy (EIS) were used to analyse the catalytic activity of the synthesized electrocatalysts. CV revealed PtAu100",
+      "relevance_reason": "该论文与当前主题关键词高度匹配，建议结合摘要与实验方法进一步判断是否纳入精读。",
+      "tags": [
+        "analysis",
+        "latest",
+        "screened"
+      ],
+      "score": 99,
+      "url": "https://doi.org/10.1007/s11581-026-07391-5",
+      "archive": false,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
+    {
+      "id": "W7202072333",
+      "topic": "analysis",
+      "badge": "最新研究",
+      "read_minutes": 10,
+      "title": "Ultrasensitive electrochemical detection of oxybutynin hydrochloride using polyaniline modified sensor",
+      "journal": "Discover Electrochemistry.",
+      "year": 2026,
+      "summary_zh": "最新研究聚焦于 Ultrasensitive electrochemical detection of oxybutynin hydrochloride using polyaniline modified sensor。已抓取题目、期刊和摘要信息；如配置 OPENAI_API_KEY，可自动生成中文摘要与研究关联解读。",
+      "abstract": "Abstract Overactive Bladder (OAB) is a condition known by the symptoms like urgency and increased frequency of urination. About 17% of adults are affected in US alone. Oxybutynin hydrochloride (OBH) is used as vital antimuscarinic agent against this condition. The drug fights the pathogens that may be causing the condition and provides relief to the affected. In this study, a highly sensitive electrochemical sensor was developed based on a glassy carbon electrode (GCE) for the detection of OBH. A well know conducting polymer, polyaniline (PANI) was used as a modifier to enhance the detection limit (D L ) of the GCE for OBH. The morphological and elemental composition studies were carried out by using Scanning Electron Microscopy coupled with Energy Dispersive X-ray Spectroscopy (SEM-EDX) and X-ray Diffraction (XRD), which confirmed the successful synthesis of PANI. The modifier, other than being a great surface area enhancer, also acted as potent electrocatalytic framework that catalyzed the oxidation of OBH. The cyclic voltammetry (CV) studies under the potential range of 0.5–1.5 V at a pH of 7.4 and immersion time of 40 s, established that the electrochemical oxidation of OBH was irreversible and diffusion controlled. The studies also revealed that the mechanism involved a two electron and two proton involvement. Square-wave voltammetry (SWV) studies determined the sensitivity of the PANI/GCE in terms of detection limit which was 9.16 nM. The sensor also exhibited high recovery rate in pharmaceutical solutions and biological fluids, showing its potential in being a high precision tool for quality control and pharmacokinetic analysis.",
+      "relevance_reason": "该论文与当前主题关键词高度匹配，建议结合摘要与实验方法进一步判断是否纳入精读。",
+      "tags": [
+        "analysis",
+        "latest",
+        "screened"
+      ],
+      "score": 90,
+      "url": "https://doi.org/10.1007/s44373-026-00161-y",
+      "archive": false,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
+    {
+      "id": "W7202271818",
+      "topic": "analysis",
+      "badge": "最新研究",
+      "read_minutes": 10,
+      "title": "Electrochemical click chemistry for controlled and localized biosensor surface functionalization",
+      "journal": "Discover Electrochemistry.",
+      "year": 2026,
+      "summary_zh": "最新研究聚焦于 Electrochemical click chemistry for controlled and localized biosensor surface functionalization。已抓取题目、期刊和摘要信息；如配置 OPENAI_API_KEY，可自动生成中文摘要与研究关联解读。",
+      "abstract": "Biosensor performance depends strongly on the properties of the functionalized electrode interface, making robust and controllable surface modification strategies highly desirable. In this work, we investigate electrochemical click chemistry (E-click) as an electrochemically driven route for the functionalization of sensor-relevant electrode surfaces. Using an azide-tagged fluorophore as receptor model, we demonstrate controllable surface functionalization via in situ electrochemical generation of the catalytic species. Surface modification was characterized by X-ray photoelectron spectroscopy, cyclic voltammetry, electrochemical impedance spectroscopy, and contact angle measurements, confirming successful interfacial functionalization. The influence of reaction time and applied potential on the efficiency of the E-click process was systematically examined, highlighting the importance of operating conditions that promote effective catalyst generation and surface coupling. In addition, we showed that E-click can be performed using an atomic force microscopy cantilever as the working electrode, offering a potential solution for localized micro- and nanoscale patterning with utility in preparation of multiplexed sensing interfaces. These results establish E-click as a versatile electrochemical approach for controlled electrode surface modification. Electrochemical click functionalization using Cu(I) catalyzed azide-alkyne cycloaddition of a model biosensor surface. Evolution of surface functionalization studied with X-ray photoelectron spectroscopy, cyclic voltammetry, electrochemical impedance spectroscopy, and contact angle measurements. Optimal functionalization parameters and time dependence demonstrated. Localized patterning approach with conductive AFM tip for potent",
+      "relevance_reason": "该论文与当前主题关键词高度匹配，建议结合摘要与实验方法进一步判断是否纳入精读。",
+      "tags": [
+        "analysis",
+        "latest",
+        "screened"
+      ],
+      "score": 86,
+      "url": "https://doi.org/10.1007/s44373-026-00160-z",
+      "archive": false,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
+    {
+      "id": "W7202026621",
+      "topic": "analysis",
+      "badge": "最新研究",
+      "read_minutes": 10,
+      "title": "Electromembrane extraction combined with a functionalized multi-walled carbon nanotube modified electrode for highly sensitive determination of dextromethorphan in pharmaceutical formulations",
+      "journal": "Scientific Reports",
+      "year": 2026,
+      "summary_zh": "最新研究聚焦于 Electromembrane extraction combined with a functionalized multi-walled carbon nanotube modified electrode for highly sensitive determination of dextromethorphan in pharmaceutical formulations。已抓取题目、期刊和摘要信息；如配置 OPENAI_API_KEY，可自动生成中文摘要与研究关联解读。",
+      "abstract": "This study introduces a robust and highly sensitive sensing platform for the pharmaceutical analysis of dextromethorphan (DXM) by integrating electromembrane extraction (EME) with a functionalized multi-walled carbon nanotube-modified screen-printed carbon electrode (fMWCNTs/SPCE). The analyte was selectively extracted from an aqueous donor phase, passed through a liquid membrane of 2-octanol supported in a hollow fiber, and preconcentrated into an acidic acceptor phase under a constant electrical potential. The enriched acceptor phase was subsequently analyzed using the fMWCNTs/SPCE. The electrochemical behavior of DXM at the surface of the modified SPCE was investigated using cyclic voltammetry (CV) and square wave voltammetry (SWV). The results demonstrated that the fMWCNTs/SPCE significantly enhanced the peak current and accelerated electron transfer kinetics compared to bare SPCEs. Under optimized EME conditions (100 V for 15 min), the method achieved a detection limit of 50 nM within a linear range of 0.1–50 µM. The developed EME-fMWCNTs/SPCE methodology was successfully validated through the analysis of DXM in pharmaceutical tablets and syrups, yielding excellent recoveries of 99.07% and 99.69%, respectively.",
+      "relevance_reason": "该论文与当前主题关键词高度匹配，建议结合摘要与实验方法进一步判断是否纳入精读。",
+      "tags": [
+        "analysis",
+        "latest",
+        "screened"
+      ],
+      "score": 84,
+      "url": "https://doi.org/10.1038/s41598-026-64705-3",
+      "archive": false,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
+    {
+      "id": "W7203497343",
+      "topic": "analysis",
+      "badge": "最新研究",
+      "read_minutes": 10,
+      "title": "Rapid Electrochemical Screening of Chloramphenicol in Milk Using a Carbon Black Modified Glassy Carbon Electrode",
+      "journal": "Food Analytical Methods",
+      "year": 2026,
+      "summary_zh": "最新研究聚焦于 Rapid Electrochemical Screening of Chloramphenicol in Milk Using a Carbon Black Modified Glassy Carbon Electrode。已抓取题目、期刊和摘要信息；如配置 OPENAI_API_KEY，可自动生成中文摘要与研究关联解读。",
+      "abstract": "Abstract Chloramphenicol is a broad-spectrum antibiotic that poses a significant risk to public health and the environment. Exposure to this compound has been associated with serious adverse effects, including aplastic anemia and genotoxic/carcinogenic concerns. Therefore, the development of a reliable method to detect chloramphenicol in food samples is essential. However, its determination in complex food matrices remains challenging because of possible matrix effects, low analyte concentration, and the need for sensitive and selective methods. To this end, we developed a highly sensitive electrochemical sensor to detect chloramphenicol in milk samples. The sensor was based on the modification of a glassy carbon electrode surface with carbon black. Electroanalytical analyses were performed using cyclic voltammetry and differential pulse voltammetry, and the results revealed that the sensor has high sensitivity for chloramphenicol determination. Under optimal conditions, the sensor showed a linear response over the range of 0.05 to 87.0 μmol L⁻ 1 , with a detection limit of 0.0012 μmol L⁻ 1 and a sensitivity of 0.07 μA L μmol⁻ 1 for chloramphenicol detection in Britton–Robinson buffer (0.04 mol L⁻ 1 , pH 7.00). The recovery rates in milk samples ranged from 91.7% to 106.7%. The sensor demonstrated excellent stability and reliability in real sample analyses, highlighting its practicality for chloramphenicol detection in milk samples and supporting further studies aimed at expanding its application to other food matrices.",
+      "relevance_reason": "该论文与当前主题关键词高度匹配，建议结合摘要与实验方法进一步判断是否纳入精读。",
+      "tags": [
+        "analysis",
+        "latest",
+        "screened"
+      ],
+      "score": 77,
+      "url": "https://doi.org/10.1007/s12161-026-03223-4",
+      "archive": false,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
+    {
+      "id": "W7203487670",
+      "topic": "analysis",
+      "badge": "最新研究",
+      "read_minutes": 10,
+      "title": "Study of the oxidation and reduction behavior of organic materials using cyclic voltammetry",
+      "journal": "Journal of Information Display",
+      "year": 2026,
+      "summary_zh": "最新研究聚焦于 Study of the oxidation and reduction behavior of organic materials using cyclic voltammetry。已抓取题目、期刊和摘要信息；如配置 OPENAI_API_KEY，可自动生成中文摘要与研究关联解读。",
+      "abstract": "The accurate evaluation of energy levels is essential for optimizing the performance of organic light-emitting diode (OLED) materials. In this study, we systematically analyzed the highest occupied molecular orbital (HOMO) and lowest unoccupied molecular orbital (LUMO) energy levels of small organic molecules widely used in various layers of OLED devices using cyclic voltammetry (CV). These molecules include the thermally activated delayed fluorescence (TADF) emitters 1,2,3,5-tetrakis(carbazol-9-yl)-4,6-dicyanobenzene (4CzIPN) and 4,5-bis(carbazol-9-yl)-1,2-dicyanobenzene (2CzPN). To maximize measurement reliability, we conducted optimization studies across various environmental parameters, such as sweep direction, scan rate, material concentration, solvent, and working electrode type. As a result, we established analytical conditions that ensured a stable potential window tailored to the characteristics of the solvent and electrode, while minimizing background current interference. In particular, we successfully performed negative CV scans, which had previously been challenging to measure reliably due to various technical difficulties. This is significant, as it provides an effective and practical method for the independent and intuitive evaluation of the LUMO levels of organic materials solely through optimized electrochemical CV analysis.",
+      "relevance_reason": "该论文与当前主题关键词高度匹配，建议结合摘要与实验方法进一步判断是否纳入精读。",
+      "tags": [
+        "analysis",
+        "latest",
+        "screened"
+      ],
+      "score": 77,
+      "url": "https://doi.org/10.1007/s44469-026-00022-9",
+      "archive": false,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
+    {
+      "id": "W7202244516",
+      "topic": "analysis",
+      "badge": "最新研究",
+      "read_minutes": 10,
+      "title": "Effect of cobalt doping on NiSe2-based sensing electrode for non-enzymatic electrochemical ascorbic acid detection",
+      "journal": "Applied Surface Science Advances",
+      "year": 2026,
+      "summary_zh": "最新研究聚焦于 Effect of cobalt doping on NiSe2-based sensing electrode for non-enzymatic electrochemical ascorbic acid detection。已抓取题目、期刊和摘要信息；如配置 OPENAI_API_KEY，可自动生成中文摘要与研究关联解读。",
+      "abstract": "Ascorbic acid is an essential antioxidant involved in redox homeostasis, immune response, and metabolic processes. The development of low-cost high accurate electrochemical sensors is critical to overcome conventional glass carbon electrodes (GCE). In this report, we report the first non-enzymatic electrochemical ascorbic acid sensors based on nickel diselenide (NiSe 2 ) grown on flexible carbon sheets using solvothermal process. Furthermore, the cobalt (Co) doping of various concentrations on NiSe 2 was synthesized and their electrochemical performances were evaluated. Structural and surface analyses using X-ray diffraction, field emission scanning electron microscope, and X-ray photoelectron spectroscopy confirm the successful formation and uniform distribution of Co on surface of NiSe 2 over the carbon sheet matrix. The electrochemical performance of the carbon sheet-based Co-doped NiSe 2 sensing electrode was evaluated using cyclic voltammetry and amperometric measurements, revealing efficient and selective redox properties. The sensor exhibits the linear response over the concentration range of 0.01 mM to 1 mM, with a rapid response of 2.6 s, and a low detection limit of 8.19 μM at an applied potential of 0.35 V with excellent selectivity. These results demonstrate the strong potential of Co doped NiSe 2 sensing electrode as low-cost, flexible and disposable sensing platforms for electrochemical ascorbic acid sensing.",
+      "relevance_reason": "该论文与当前主题关键词高度匹配，建议结合摘要与实验方法进一步判断是否纳入精读。",
+      "tags": [
+        "analysis",
+        "latest",
+        "screened"
+      ],
+      "score": 77,
+      "url": "https://doi.org/10.1016/j.apsadv.2026.101031",
+      "archive": false,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
+    {
+      "id": "W7202256698",
+      "topic": "analysis",
+      "badge": "最新研究",
+      "read_minutes": 10,
+      "title": "DPASV detection of metribuzin using the cathodic pretreated boron-doped diamond electrode",
+      "journal": "Journal of Solid State Electrochemistry",
+      "year": 2026,
+      "summary_zh": "最新研究聚焦于 DPASV detection of metribuzin using the cathodic pretreated boron-doped diamond electrode。已抓取题目、期刊和摘要信息；如配置 OPENAI_API_KEY，可自动生成中文摘要与研究关联解读。",
+      "abstract": "Abstract The widespread use of the triazinone herbicide metribuzin (MTZ) demands reliable, rapid, and cost-effective analytical methods for environmental monitoring. In this work, we report, for the first time, the electroanalytical determination of MTZ based on its anodic behavior at a boron-doped diamond (BDD) electrode. The method exploits a differential pulse anodic stripping voltammetry (DPASV) approach, in which MTZ undergoes a preconcentration step via electrochemical reduction, followed by oxidation of the generated intermediate. The influence of surface pretreatment was systematically evaluated, demonstrating that cathodically pretreated BDD (BDD-CTP) significantly enhances electron-transfer kinetics and analytical sensitivity due to hydrogen-terminated surfaces characteristics. The electrochemical oxidation process was found to be irreversible, diffusion-controlled, and governed by a two-electron/two-proton mechanism, with a heterogeneous rate constant of 1.5 s ‒1 . Under optimized conditions ( E ac = ‒0.60 V, t ac = 60 s, pH 2.0), the method exhibited a linear response in the concentration range of 1.31 – 12.4 µmol L ‒1 ( R 2 = 0.9994), with a limit of detection ( LOD ) of 0.17 µmol L ‒1 . The sensor demonstrated excellent repeatability (RSD ≤ 2.7%) and good selectivity in the presence of common inorganic interferents. The applicability of the method was successfully demonstrated in environmental water samples (tap and river water), yielding satisfactory recoveries (100–106%) Compared to conventional reductive approaches, the proposed anodic strategy provides complementary mechanistic insight while avoiding limitations associated with electrode fouling and narrow potential windows. These findings highlight the potential of BDD electrodes as robust and versati",
+      "relevance_reason": "该论文与当前主题关键词高度匹配，建议结合摘要与实验方法进一步判断是否纳入精读。",
+      "tags": [
+        "analysis",
+        "latest",
+        "screened"
+      ],
+      "score": 77,
+      "url": "https://doi.org/10.1007/s10008-026-06674-1",
+      "archive": false,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
+    {
+      "id": "W7203441027",
+      "topic": "analysis",
+      "badge": "最新研究",
+      "read_minutes": 10,
+      "title": "Sustainable synthesis of corncob-derived graphene quantum dots for versatile electrochemical detection of metabolic biomarkers via SPCE/GQDs@Nafion platform",
+      "journal": "Next Materials",
+      "year": 2026,
+      "summary_zh": "最新研究聚焦于 Sustainable synthesis of corncob-derived graphene quantum dots for versatile electrochemical detection of metabolic biomarkers via SPCE/GQDs@Nafion platform。已抓取题目、期刊和摘要信息；如配置 OPENAI_API_KEY，可自动生成中文摘要与研究关联解读。",
+      "abstract": "This study reports the green, sustainable hydrothermal synthesis of graphene quantum dots (GQDs) from corncob agricultural waste and their integration into a screen-printed carbon electrode (SPCE) platform, modified with Nafion binder (SPCE/GQDs@Nafion), for multi-analyte electrochemical biosensing. The synthesized GQDs exhibited a spherical morphology with an average diameter of 6.21 nm, composed of 64.7 wt% carbon and 25.48 wt% oxygen, with characteristic UV absorption at 208 nm (π–π* C C transition) and 250 nm (n–π* C O transition), and a green fluorescence emission under 254 nm UV irradiation. Electrochemical characterization using cyclic voltammetry (CV) and differential pulse voltammetry (DPV) demonstrated enhanced signal response from GQD-modified SPCE compared to bare SPCE. The SPCE/GQDs@Nafion sensor successfully detected four analytes: AC (LOD: 0.378 μM, linear range: 1–2000 μM), AA (LOD: 3.968 μM, linear range: 0–2000 μM), UA (LOD: 2.546 μM, linear range: 0–2000 μM), and DA (LOD: 0.298 μM, linear range: 0–50 μM). Real sample analyses confirmed effective detection of AA, UA, and AC across multiple biofluids, while DA detection was selectively validated in urine. Multi-analyte testing revealed signal interference between analytes with close oxidation potentials, identifying a key direction for future optimization. This work demonstrates a cost-effective, eco-friendly approach to biosensor fabrication with strong translational potential for point-of-care clinical diagnostics.",
+      "relevance_reason": "该论文与当前主题关键词高度匹配，建议结合摘要与实验方法进一步判断是否纳入精读。",
+      "tags": [
+        "analysis",
+        "latest",
+        "screened"
+      ],
+      "score": 77,
+      "url": "https://doi.org/10.1016/j.nxmate.2026.103163",
+      "archive": false,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
+    {
+      "id": "W7202355985",
+      "topic": "analysis",
+      "badge": "最新研究",
+      "read_minutes": 10,
+      "title": "Multimodal metrology for sustainable lithium-ion battery formation: From baseline electrical measurements to intelligent, adaptive process control",
+      "journal": "Renewable and Sustainable Energy Reviews",
+      "year": 2026,
+      "summary_zh": "最新研究聚焦于 Multimodal metrology for sustainable lithium-ion battery formation: From baseline electrical measurements to intelligent, adaptive process control。已抓取题目、期刊和摘要信息；如配置 OPENAI_API_KEY，可自动生成中文摘要与研究关联解读。",
+      "abstract": "Lithium-ion battery formation is a critical yet poorly observable stage in cell manufacturing, governing the development of interphases, electrolyte wetting, and defect evolution that ultimately determines performance, safety, and cell lifetime. Traditionally treated as an empirical process, formation is increasingly being redefined through research and advances in metrology, modelling and data science. In this Review, we present for the first time, a comprehensive framework for evaluating and controlling lithium-ion battery formation through multimodal diagnostics, spanning electrical, impedance, mechanical, thermal, acoustic, and spectroscopic measurements. We show how each modality captures distinct yet complementary aspects of the underpinning formation physics, from charge-transfer kinetics and interphase growth through to gas evolution, wetting heterogeneity, and thermal dissipation. We further highlight the emergence of quantitative formation metrics—derived from raw measurement signals such as voltage relaxation, impedance spectra, ultrasound attenuation, and calorimetric heat flow—that potentially enable a direct link between early-stage formation behaviour and long-term cell degradation pathways. By integrating these heterogeneous data streams, we review recent studies that collectively are moving toward the derivation of predictive models capable of identifying defects, optimizing protocols, and enabling real-time decision-making. Finally, we discuss the transition from passive diagnostics to active closed-loop control, where machine learning and multimodal data fusion enables the use of closed-loop formation strategies. Remaining challenges—including data standardization, cross-platform generalizability, and scalability—are outlined, alongside research oppor",
+      "relevance_reason": "该论文与当前主题关键词高度匹配，建议结合摘要与实验方法进一步判断是否纳入精读。",
+      "tags": [
+        "analysis",
+        "latest",
+        "screened"
+      ],
+      "score": 74,
+      "url": "https://doi.org/10.1016/j.rser.2026.117395",
+      "archive": false,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
+    {
+      "id": "W7203474329",
+      "topic": "analysis",
+      "badge": "最新研究",
+      "read_minutes": 10,
+      "title": "Mechanistic insights and multiscale stabilization strategies for aqueous LiFePO <sub>4</sub> batteries",
+      "journal": "Nano Research Energy",
+      "year": 2026,
+      "summary_zh": "最新研究聚焦于 Mechanistic insights and multiscale stabilization strategies for aqueous LiFePO <sub>4</sub> batteries。已抓取题目、期刊和摘要信息；如配置 OPENAI_API_KEY，可自动生成中文摘要与研究关联解读。",
+      "abstract": "Abstract Lithium iron phosphate (LiFePO4, LFP) is regarded as a promising cathode material for aqueous lithium-ion batteries (ALIBs) due to its excellent structural stability and intrinsic safety. However, when operated in aqueous electrolytes, LFP suffers from more severe capacity decay and poorer cycling stability than those in non-aqueous systems. Recent studies have revealed that LFP degradation in aqueous system arises from several coupled processes, including electrolyte decomposition at high potentials, Fe dissolution and impurity-ion intercalation, lattice distortion during repeated Li+ insertion/extraction, and unstable interfacial passivation. Electrolyte decomposition induces local pH fluctuations and interfacial reconstruction, which exacerbate transition metal leaching and lattice degradation, the resulting structural defects and freshly exposed surfaces in turn accelerate further interfacial side reactions. These processes collectively lead to active-material loss, sluggish ion transport, and aggravated polarization. To address these failure pathways, this review summarizes current stabilization strategies, including elemental doping, surface coating, morphological regulation, and modification of electrolytes. The underlying mechanisms are analyzed from the perspectives of thermodynamic stability, interfacial kinetics, and solvation-structure regulation. Finally, future research directions, including in situ characterization, multiphysics coupled modeling, and low-cost electrolytes with high-salt effects, are discussed to provide guidance for the mechanism-driven design of high-performance aqueous cathode materials.",
+      "relevance_reason": "该论文与当前主题关键词高度匹配，建议结合摘要与实验方法进一步判断是否纳入精读。",
+      "tags": [
+        "analysis",
+        "latest",
+        "screened"
+      ],
+      "score": 71,
+      "url": "https://doi.org/10.26599/nre.2026.9120266",
+      "archive": false,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
+    {
+      "id": "W7203463148",
+      "topic": "analysis",
+      "badge": "最新研究",
+      "read_minutes": 10,
+      "title": "Ion intercalation, redox, and interfacial mechanisms of MXene-based negative-electrode systems for rechargeable batteries",
+      "journal": "Frontiers in Chemistry",
+      "year": 2026,
+      "summary_zh": "最新研究聚焦于 Ion intercalation, redox, and interfacial mechanisms of MXene-based negative-electrode systems for rechargeable batteries。已抓取题目、期刊和摘要信息；如配置 OPENAI_API_KEY，可自动生成中文摘要与研究关联解读。",
+      "abstract": "MXenes combine metallic conductivity, redox-active transition-metal layers, and chemically tunable surfaces, making them attractive components of negative-electrode systems for lithium-, sodium-, potassium-, zinc-, and multivalent-ion batteries. However, interpreting MXene-based negative-electrode systems only by reversible capacity obscures the coupled processes that determine their electrochemical behavior. This mini review reframes MXene-based negative-electrode systems around the coupled logic of ion entry, charge compensation, and structural evolution. We discuss how interlayer galleries, surface terminations, confined water or solvent molecules, and metal-center redox cooperate or compete during charge storage. Particular emphasis is placed on the distinction between true intercalation, pseudo-intercalation, surface pseudocapacitance, partner-phase conversion/alloying in MXene-containing hybrid anodes, and electrolyte-regulated desolvation. Recent examples across alkali, aqueous zinc, and multivalent systems show that high-rate performance is obtained when ion access, electron transport, and lattice breathing are balanced rather than maximized independently. We highlight operando and multiscale measurements needed to connect local coordination changes with electrode-level kinetics, and we propose design principles for MXene-based negative-electrode systems that preserve redox accessibility while limiting restacking, oxidation, and parasitic interfacial reactions.",
+      "relevance_reason": "该论文与当前主题关键词高度匹配，建议结合摘要与实验方法进一步判断是否纳入精读。",
+      "tags": [
+        "analysis",
+        "latest",
+        "screened"
+      ],
+      "score": 71,
+      "url": "https://doi.org/10.3389/fchem.2026.1913683",
+      "archive": false,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
+    {
+      "id": "W7163272096",
+      "topic": "analysis",
+      "badge": "最新研究",
+      "read_minutes": 10,
+      "title": "A random forest: based intelligent framework for automated electrochemical impedance analysis in industrial corrosion monitoring",
+      "journal": "Discover Computing",
+      "year": 2026,
+      "summary_zh": "最新研究聚焦于 A random forest: based intelligent framework for automated electrochemical impedance analysis in industrial corrosion monitoring。已抓取题目、期刊和摘要信息；如配置 OPENAI_API_KEY，可自动生成中文摘要与研究关联解读。",
+      "abstract": "<title>Abstract</title> Electrochemical impedance spectroscopy (EIS) is widely applied for corrosion characterization of pipeline steel under complex environmental conditions. However, conventional EIS analysis relies heavily on expert experience for equivalent circuit identification and initial parameter estimation, which limits its scalability and repeatability in long-term industrial monitoring. To address this challenge, this study proposes an engineering-oriented intelligent analysis framework based on random forest models to enable automated equivalent circuit identification and parameter initialization.A complete workflow is established, including data preprocessing, model construction, and post-processing. In the preprocessing stage, a physics-informed multi-strategy normalization scheme is designed to handle the heterogeneous and multi-scale characteristics of EIS features while preserving the intrinsic physical meanings of different impedance components. Within the proposed framework, a random forest classifier is employed to automatically identify equivalent circuit types, followed by circuit-specific multi-output random forest regressors to predict initial values of circuit parameters, thereby enabling stable and efficient nonlinear fitting.The proposed method is validated using atmospheric EIS data of pipeline steel and demonstrates robust performance in both circuit classification and parameter regression tasks, with consistent improvements over conventional machine learning baseline methods. Experimental results show that the proposed framework effectively reduces reliance on expert intervention while maintaining high accuracy, robustness, and interpretability. By integrating data-driven modeling with electrochemical physical insights, this work provides ",
+      "relevance_reason": "该论文与当前主题关键词高度匹配，建议结合摘要与实验方法进一步判断是否纳入精读。",
+      "tags": [
+        "analysis",
+        "latest",
+        "screened"
+      ],
+      "score": 71,
+      "url": "https://doi.org/10.1007/s10791-026-10458-6",
+      "archive": false,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
+    {
+      "id": "W7203492443",
+      "topic": "analysis",
+      "badge": "最新研究",
+      "read_minutes": 10,
+      "title": "Unveiling the Abnormal Oxidizability of Ferricyanide in Alkaline Solution",
+      "journal": "Small",
+      "year": 2026,
+      "summary_zh": "最新研究聚焦于 Unveiling the Abnormal Oxidizability of Ferricyanide in Alkaline Solution。已抓取题目、期刊和摘要信息；如配置 OPENAI_API_KEY，可自动生成中文摘要与研究关联解读。",
+      "abstract": "ABSTRACT The ferricyanide/ferrocyanide ([Fe(CN) 6 ] 3− /[Fe(CN) 6 ] 4− ) redox couple is widely used in energy storage and catalysis because of its rapid electron‐transfer kinetics and excellent reversibility. Yet its chemistry in highly alkaline media (pH ≥ 14) remains incompletely understood. In particular, [Fe(CN) 6 ] 3− displays unexpectedly strong oxidizing activity under alkaline conditions despite its moderate redox potential (∼0.45 V vs. SHE). Here, we show that this apparent contradiction arises from the redox‐mediated generation of hydroxyl radicals (•OH). Spectroscopic analyses, ab initio molecular dynamics (AIMD) simulations, and density functional theory (DFT) reveal that OH − penetrates and reorganizes the primary solvation shell of [Fe(CN) 6 ] 3− through hydrogen bonding (HB), enabling interfacial electron transfer from hydrogen‐bonded water‐hydroxide clusters (H 2 O···OH − ) to [Fe(CN) 6 ] 3− . Guided by this mechanism, we develop a [Fe(CN) 6 ] 3− ‐mediated Fenton‐like anodic reaction (FerroOR) as a low‐energy alternative to the oxygen evolution reaction (OER). When coupled with the hydrogen evolution reaction (HER), a catalyst‐free carbon felt (CF) anode delivers 100 mA cm −2 at 1.45 V. These findings resolve a long‐standing mechanistic puzzle and establish alkaline [Fe(CN) 6 ] 3− as a low‐cost redox mediator for energy‐efficient electrochemical oxidation.",
+      "relevance_reason": "该论文与当前主题关键词高度匹配，建议结合摘要与实验方法进一步判断是否纳入精读。",
+      "tags": [
+        "analysis",
+        "latest",
+        "screened"
+      ],
+      "score": 68,
+      "url": "https://doi.org/10.1002/smll.75253",
+      "archive": false,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
+    {
+      "id": "W7202341883",
+      "topic": "analysis",
+      "badge": "最新研究",
+      "read_minutes": 10,
+      "title": "Coupling Water‐Driven Amorphization With High Entropy Strategy in Vanadium Oxide Cathodes for High‐Capacity and Durable Aqueous Potassium‐Ion Batteries",
+      "journal": "Angewandte Chemie International Edition",
+      "year": 2026,
+      "summary_zh": "最新研究聚焦于 Coupling Water‐Driven Amorphization With High Entropy Strategy in Vanadium Oxide Cathodes for High‐Capacity and Durable Aqueous Potassium‐Ion Batteries。已抓取题目、期刊和摘要信息；如配置 OPENAI_API_KEY，可自动生成中文摘要与研究关联解读。",
+      "abstract": "ABSTRACT Aqueous potassium‐ion batteries (APIBs) have emerged as compelling candidates for large‐scale energy storage owing to their intrinsic safety, cost‐effectiveness, and rapid ion‐transport kinetics. However, developing viable cathodes remains critical bottlenecks due to the severe lattice strain induced by the large K + radius and the poorly understood erosive impact of water molecules on electrode stability. Herein, we systematically investigate the cycling mechanism of crystalline V 2 O 5 to reveal the role of active water, demonstrating that water acts as “chemical scissors” to drive a crystal‐to‐amorphous transition that enhances capacity but structural stability remains compromised. Utilizing a “mechanism‐guided design” strategy, we synthesize a high‐entropy doped amorphous vanadium oxide (HE‐AVO) cathode. The resulting HE‐AVO cathode achieves a high specific capacity of 110.4 mAh·g −1 and exceptional cycling life, maintaining 97.3% capacity retention over 30 000 cycles at 5 A·g −1 . In‐situ spectroscopic characterizations and ex‐situ time‐of‐flight secondary ion mass spectrometry confirm that high‐entropy strategy suppresses vanadium dissolution and preserves a robust disordered network. Theoretical calculations demonstrate that this strategy strengthens V─O bonds, enhances electrical conductivity, and lowers the K + diffusion barrier. This study clarifies the water‐mediated amorphization mechanism and establishes a viable pathway for utilizing high‐entropy strategies to design durable, high‐rate electrodes for advanced aqueous batteries.",
+      "relevance_reason": "该论文与当前主题关键词高度匹配，建议结合摘要与实验方法进一步判断是否纳入精读。",
+      "tags": [
+        "analysis",
+        "latest",
+        "screened"
+      ],
+      "score": 68,
+      "url": "https://doi.org/10.1002/anie.7556352",
+      "archive": false,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
+    {
+      "id": "W7202341562",
+      "topic": "analysis",
+      "badge": "最新研究",
+      "read_minutes": 10,
+      "title": "Non-solvating additives regulate zinc deposition through anion-gated Stern-layer competition",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "summary_zh": "最新研究聚焦于 Non-solvating additives regulate zinc deposition through anion-gated Stern-layer competition。已抓取题目、期刊和摘要信息；如配置 OPENAI_API_KEY，可自动生成中文摘要与研究关联解读。",
+      "abstract": "Abstract While additive-induced modulation of solvation structure has emerged as an effective strategy to enhance the performance of aqueous zinc-ion batteries, the electrochemical mechanisms by which non-solvation additives interact with ion species within the electric double layer and their subsequent impact on solid electrolyte interphase evolution remain poorly understood. Here, we propose an anion-released interfacial engineering strategy that leverages the competitive spatial distribution between surface-affinitive anions and cationic regulators within the Stern layer. This competition governs additive accessibility to the interface and enables the construction of a robust, inorganic–organic hybrid interface. Combined with in situ spectra and theoretical simulations, we decouple the key kinetic processes in Zn deposition, revealing that fast Zn 2+ transport within the solid electrolyte interphase, coupled with moderated desolvation at the interface, underpins dendrite-free and highly reversible cycling. This study has the potential to establish a mechanistic framework for the interfacial function of non-solvating additives, thus offering refined insights into electrolyte design and interphase engineering for high-performance aqueous metal batteries.",
+      "relevance_reason": "该论文与当前主题关键词高度匹配，建议结合摘要与实验方法进一步判断是否纳入精读。",
+      "tags": [
+        "analysis",
+        "latest",
+        "screened"
+      ],
+      "score": 68,
+      "url": "https://doi.org/10.1038/s41467-026-76659-1",
+      "archive": false,
+      "impact_factor": "15.7",
+      "quartile": "JCR Q1"
+    },
+    {
+      "id": "W7203481547",
+      "topic": "analysis",
+      "badge": "最新研究",
+      "read_minutes": 10,
+      "title": "Mechanisms and models of charging processes in redox mediator-assisted Li-O2 batteries",
+      "journal": "npj Energy Materials",
+      "year": 2026,
+      "summary_zh": "最新研究聚焦于 Mechanisms and models of charging processes in redox mediator-assisted Li-O2 batteries。已抓取题目、期刊和摘要信息；如配置 OPENAI_API_KEY，可自动生成中文摘要与研究关联解读。",
+      "abstract": "Abstract Non-aqueous lithium-oxygen (Li-O 2 ) batteries provide extremely high theoretical energy density but still face challenges such as high charging overpotentials, sluggish kinetics, and unwanted side reactions. This work summarizes the mechanisms of the oxygen evolution reaction and soluble redox mediators (RMs). It further highlights recent advances in charging models, discusses their existing limitations, and outlines prospective research directions.",
+      "relevance_reason": "该论文与当前主题关键词高度匹配，建议结合摘要与实验方法进一步判断是否纳入精读。",
+      "tags": [
+        "analysis",
+        "latest",
+        "screened"
+      ],
+      "score": 68,
+      "url": "https://doi.org/10.1038/s44456-026-00012-6",
+      "archive": false,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
+    {
+      "id": "W7202372627",
+      "topic": "analysis",
+      "badge": "最新研究",
+      "read_minutes": 10,
+      "title": "Synergistic Size and Electronic Engineering of Cr <sub>3</sub> C <sub>2</sub> @C(N <i>x</i> ) Nanoparticles Via Arc‐Discharge for High‐Performance Zn‐Air Batteries",
+      "journal": "Small Methods",
+      "year": 2026,
+      "summary_zh": "最新研究聚焦于 Synergistic Size and Electronic Engineering of Cr <sub>3</sub> C <sub>2</sub> @C(N <i>x</i> ) Nanoparticles Via Arc‐Discharge for High‐Performance Zn‐Air Batteries。已抓取题目、期刊和摘要信息；如配置 OPENAI_API_KEY，可自动生成中文摘要与研究关联解读。",
+      "abstract": "ABSTRACT Developing efficient non‐precious oxygen reduction reaction (ORR) catalysts is essential for advancing zinc‐air batteries (ZABs). This work presents a one‐step synthesis of core‐shell Cr 3 C 2 @C nanoparticles (NPs) via DC arc‐discharge plasma. Precise regulation of cooling dynamics achieves a switch from growth‐dominated to nucleation‐dominated regimes, enabling controlled preparation of nanoparticles with distinct sizes. The liquid‐nitrogen‐cooled Cr 3 C 2 @C ln NPs exhibit smaller size and higher surface area, leading to enhanced ORR performance. Subsequent nitrogen doping at 700 °C produces Cr 3 C 2 @C ln (N x ) catalysts with precisely tuned nitrogen content (0.65–1.24 at.%). The optimized Cr 3 C 2 @C ln (N 1.13 ) demonstrates outstanding ORR activity with a half‐wave potential ( E 1/2 ) of 0.81 V and superior kinetics, surpassing commercial Pt/C. In situ optical emission spectroscopy (OES) monitors the plasma state and electron temperature, providing fundamental insights into nucleation mechanisms. Density functional theory (DFT) calculations reveal that nitrogen doping optimizes the p ‐band center of carbon and significantly reduces the energy barrier of the rate‐determining step (RDS) (*OH desorption). When applied in both liquid and solid‐state flexible zinc‐air batteries (FZABs), the Cr 3 C 2 @C ln (N 1.13 )‐based cathode delivers exceptional performance, achieving high power densities (230.64 and 164.83 mW·cm −2 , respectively) and remarkable cycling stability. This study offers an efficient strategy for designing high‐performance transition metal carbide electrocatalysts through synergistic control of size and electronic structure.",
+      "relevance_reason": "该论文与当前主题关键词高度匹配，建议结合摘要与实验方法进一步判断是否纳入精读。",
+      "tags": [
+        "analysis",
+        "latest",
+        "screened"
+      ],
+      "score": 68,
+      "url": "https://doi.org/10.1002/smtd.70915",
+      "archive": false,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
+    {
       "id": "seed-1",
       "topic": "organic",
       "badge": "重点综述",
@@ -40,7 +436,7 @@
       ],
       "score": 96,
       "url": "https://doi.org/10.1021/acs.accounts.4c00417",
-      "archive": false
+      "archive": true
     },
     {
       "id": "seed-2",
@@ -61,7 +457,7 @@
       ],
       "score": 93,
       "url": "https://www.nature.com/articles/s42004-023-00836-2",
-      "archive": false
+      "archive": true
     },
     {
       "id": "seed-3",
@@ -82,7 +478,7 @@
       ],
       "score": 91,
       "url": "https://doi.org/10.1016/j.jelechem.2020.114186",
-      "archive": false
+      "archive": true
     },
     {
       "id": "seed-4",
