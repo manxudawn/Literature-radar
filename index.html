@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#0b0e0d" />
+  <title>e⁻CarbonScope · Research radar</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#top"><span class="brand-mark">e⁻</span><span>CarbonScope</span><small>Research radar</small></a>
+    <nav>
+      <a href="#today">今日文献</a>
+      <a href="#archive">历史推送</a>
+      <a href="#topics">主题追踪</a>
+    </nav>
+    <div class="top-actions"><button class="icon-btn" id="openSearch" aria-label="search">⌕</button><button class="avatar">SU</button></div>
+  </header>
+
+  <main id="top">
+    <section class="hero shell">
+      <div class="hero-copy">
+        <div class="eyebrow" id="briefDate">研究简报</div>
+        <h1>把新文献变成<br><span>下一步实验。</span></h1>
+        <p>为 Su 筛选有机电催化 CO₂ 转化、GDE / Micro‑CT 三维重构与电化学分析的新进展。</p>
+        <div class="stats">
+          <div><strong id="statToday">0</strong><span>今日新论文</span></div>
+          <div><strong id="statHigh">0</strong><span>高度相关</span></div>
+          <div><strong id="statMethods">0</strong><span>方法更新</span></div>
+        </div>
+      </div>
+      <aside class="match-card">
+        <span>与你的研究匹配度</span><i>LIVE</i>
+        <strong id="matchScore">96%</strong>
+        <div class="meter"><span style="width:96%"></span></div>
+        <p>Ni · DMF · CO₂ · Micro‑CT</p>
+      </aside>
+    </section>
+
+    <section class="content-grid shell" id="today">
+      <div class="main-column">
+        <div class="section-kicker">TODAY'S SIGNAL</div>
+        <div class="section-head"><h2>今日值得读</h2></div>
+        <div class="search-row">
+          <div class="search-box">⌕ <input id="searchInput" placeholder="搜索题目、方法或关键词…"><kbd>⌘ K</kbd></div>
+        </div>
+        <div class="filters" id="filters"></div>
+        <div id="paperList" class="paper-list"></div>
+      </div>
+
+      <aside class="sidebar">
+        <section class="digest-card">
+          <div class="section-kicker">DAILY DIGEST</div>
+          <h3>每天 08:30</h3>
+          <strong>送达你的研究简报</strong>
+          <p>只推送高相关文献。每篇包含中文摘要、实验关联和建议阅读顺序。</p>
+          <div class="status-line"><span class="dot"></span>推送已开启 <em>工作日 · Berlin 时间</em></div>
+          <button class="ghost" id="settingsBtn">调整推送设置</button>
+        </section>
+
+        <section class="topic-card" id="topics">
+          <div class="topic-title"><h3>持续追踪</h3><button class="mini">管理</button></div>
+          <div id="topicTracker"></div>
+        </section>
+      </aside>
+    </section>
+
+    <section class="archive shell" id="archive">
+      <div class="section-kicker">READING ARCHIVE</div>
+      <h2>历史推送</h2>
+      <p>集中查看往期推荐。已读文章会弱化显示，删除后不会再出现在列表中。</p>
+      <div class="archive-count"><strong id="archiveCount">0</strong>篇历史文献 <span id="readCount">0</span>篇已读</div>
+      <div id="archiveList" class="paper-list archive-list"></div>
+    </section>
+  </main>
+
+  <footer class="shell footer"><div><span class="brand-mark">e⁻</span>CarbonScope <small>Built for Su's research loop</small></div><div>期刊指标：手动维护 JIF / 分区 · <span id="lastUpdated">最后更新 —</span></div></footer>
+
+  <dialog id="settingsDialog">
+    <form method="dialog">
+      <button class="dialog-close">×</button>
+      <h3>推送设置</h3>
+      <p>当前仓库通过 GitHub Actions 在工作日 Berlin 时间约 08:30 更新。浏览器中的已读/删除状态只保存在当前设备。</p>
+      <label><input type="checkbox" checked disabled> 工作日自动更新</label>
+      <label><input type="checkbox" checked disabled> 高相关文献优先</label>
+      <button class="primary">完成</button>
+    </form>
+  </dialog>
+
+  <script src="app.js" defer></script>
+</body>
+</html>
