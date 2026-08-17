@@ -5,7 +5,7 @@ import os
 import re
 import sys
 import time
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, date
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
@@ -16,125 +16,137 @@ DATA = ROOT / "data" / "papers.json"
 METRICS = ROOT / "data" / "journal_metrics.json"
 BERLIN = ZoneInfo("Europe/Berlin")
 
-# 搜索尽量覆盖你的 3 条主线，但避免把“泛电化学”论文全部抓进来。
+# Three research lines. Queries are deliberately broader than the final filter:
+# retrieval should be permissive; ranking/filtering decides what reaches the page.
 TOPICS = {
     "organic": [
-        "electrocarboxylation carbon dioxide",
-        "electrochemical carboxylation CO2",
+        "electrocarboxylation CO2",
+        "electrochemical carboxylation carbon dioxide",
         "reductive carboxylation CO2 electrochemistry",
-        "nickel electrocarboxylation CO2",
+        "electrochemical carbon dioxide fixation organic",
+        "nickel electrosynthesis CO2 carboxylation",
         "diene electrocarboxylation",
-        "organic electrosynthesis CO2 carboxylation",
     ],
     "gde": [
-        "gas diffusion electrode CO2 electrolysis flooding wetting",
-        "gas diffusion layer CO2 electrolyzer tomography",
-        "micro CT gas diffusion electrode electrolysis",
-        "X-ray tomography porous electrode catalyst layer",
-        "3D reconstruction micro CT porous electrode",
+        "gas diffusion electrode CO2 electrolysis",
+        "gas diffusion layer CO2 electrolyzer",
+        "GDE flooding wetting CO2",
+        "X-ray tomography gas diffusion electrode",
+        "micro CT porous electrode catalyst layer",
+        "3D reconstruction tomography porous electrode",
     ],
     "analysis": [
-        "cyclic voltammetry EC mechanism kinetics",
+        "cyclic voltammetry reaction mechanism kinetics",
         "cyclic voltammetry coupled chemical reaction",
-        "nonaqueous reference electrode ferrocene electrochemistry",
+        "nonaqueous reference electrode ferrocene",
         "reference electrode DMF electrochemistry",
-        "electrochemical impedance spectroscopy porous electrode method",
-        "rotating ring disk electrode electrochemical mechanism",
+        "electrochemical impedance spectroscopy porous electrode",
+        "rotating ring disk electrode mechanism",
     ],
 }
 
-# 分值从 0 开始，而不是原来的 55。只有真正命中核心词才会进入推荐。
 WEIGHTS = {
     "organic": {
-        "electrocarboxylation": 34,
-        "electrochemical carboxylation": 30,
-        "reductive carboxylation": 28,
-        "carboxylation": 16,
-        "carbon dioxide": 12,
-        "co2": 12,
+        "electrocarboxylation": 36,
+        "electrochemical carboxylation": 34,
+        "reductive carboxylation": 31,
+        "carboxylation": 18,
+        "carbon dioxide": 11,
+        " co2 ": 11,
+        "carbon dioxide fixation": 18,
+        "co2 fixation": 18,
         "electrosynthesis": 10,
-        "nickel": 9,
-        "ni-catal": 8,
+        "electroreduction": 7,
+        "nickel": 8,
         "diene": 8,
-        "alkene": 6,
-        "aryl": 5,
+        "alkene": 5,
+        "aryl": 4,
         "dmf": 5,
     },
     "gde": {
-        "gas diffusion electrode": 28,
-        "gas diffusion layer": 25,
-        "gde": 20,
-        "micro-ct": 24,
-        "micro ct": 24,
-        "microcomputed tomography": 24,
-        "x-ray tomography": 22,
-        "x ray tomography": 22,
+        "gas diffusion electrode": 30,
+        "gas diffusion layer": 28,
+        " gde ": 24,
+        " gdl ": 22,
+        "micro-ct": 27,
+        "micro ct": 27,
+        "microcomputed tomography": 27,
+        "x-ray tomography": 25,
+        "x ray tomography": 25,
         "tomography": 14,
-        "3d reconstruction": 15,
-        "flooding": 14,
+        "3d reconstruction": 16,
+        "segmentation": 11,
+        "flooding": 15,
         "wetting": 12,
         "catalyst layer": 10,
-        "porous electrode": 9,
-        "co2 electrolysis": 12,
-        "co2 electroly": 10,
+        "porous electrode": 10,
+        "co2 electrolysis": 13,
+        "co2 electroly": 11,
     },
     "analysis": {
         "cyclic voltammetry": 22,
-        "voltammetric": 14,
-        "ec mechanism": 22,
-        "ece mechanism": 22,
-        "coupled chemical reaction": 18,
-        "kinetic analysis": 14,
-        "reaction mechanism": 10,
-        "reference electrode": 22,
-        "ferrocene": 15,
-        "fc/fc+": 15,
-        "nonaqueous": 10,
-        "non-aqueous": 10,
-        "dmf": 8,
-        "electrochemical impedance spectroscopy": 18,
-        "impedance spectroscopy": 14,
-        "eis": 10,
-        "rotating ring-disk": 18,
-        "rotating ring disk": 18,
-        "rrde": 16,
-        "tafel": 10,
-        "transfer coefficient": 14,
+        "voltammetric": 13,
+        "ec mechanism": 23,
+        "ece mechanism": 23,
+        "coupled chemical reaction": 19,
+        "kinetic": 8,
+        "mechanism": 8,
+        "reference electrode": 24,
+        "ferrocene": 16,
+        "fc/fc+": 16,
+        "nonaqueous": 12,
+        "non-aqueous": 12,
+        "dmf": 7,
+        "electrochemical impedance spectroscopy": 20,
+        "impedance spectroscopy": 15,
+        "equivalent circuit": 10,
+        "rotating ring-disk": 20,
+        "rotating ring disk": 20,
+        "rrde": 18,
+        "tafel": 9,
+        "transfer coefficient": 15,
+        "mass transport": 7,
     },
 }
 
-# 这些词经常带来与你当前研究无关的“泛电化学应用”论文。
+# Strong penalties for common false-positive application areas.
 NEGATIVE_TERMS = {
-    "direct methanol fuel cell": 45,
-    "dmfc": 45,
-    "pem fuel cell": 40,
-    "proton exchange membrane fuel cell": 40,
-    "oxygen reduction reaction": 28,
-    "orr": 22,
-    "oxygen evolution reaction": 28,
-    "oer": 22,
-    "supercapacitor": 35,
-    "lithium-ion battery": 35,
-    "lithium ion battery": 35,
-    "sodium-ion battery": 35,
-    "sodium ion battery": 35,
-    "zinc-ion battery": 35,
-    "water splitting": 28,
-    "hydrogen evolution reaction": 24,
-    "her catalyst": 24,
-    "photocatal": 20,
+    "direct methanol fuel cell": 50,
+    "dmfc": 50,
+    "pem fuel cell": 45,
+    "proton exchange membrane fuel cell": 45,
+    "supercapacitor": 40,
+    "lithium-ion battery": 40,
+    "lithium ion battery": 40,
+    "sodium-ion battery": 40,
+    "sodium ion battery": 40,
+    "zinc-ion battery": 40,
+    "photocatal": 24,
+    "water splitting": 20,
+    "oxygen reduction reaction": 18,
+    "oxygen evolution reaction": 18,
 }
 
-# 每天不要塞太多。网页更像“精选简报”而不是搜索结果页。
+# Thresholds are topic-specific. The previous global threshold (72) was too strict
+# for GDE/Micro-CT and electrochemical-method papers, which often contain fewer of
+# our exact keywords even when they are highly useful.
+MIN_RAW_SCORE = {
+    "organic": 38,
+    "gde": 32,
+    "analysis": 34,
+}
+
 MAX_FRESH = 9
 MAX_PER_TOPIC = 3
-MIN_SCORE = 72
+MIN_DAILY = 3
+PRIMARY_DAYS = 35
+FALLBACK_DAYS = 120
 
 
 def reconstruct_abstract(inv: dict | None) -> str:
     if not inv:
         return ""
-    words = []
+    words: list[tuple[int, str]] = []
     for word, positions in inv.items():
         for pos in positions:
             words.append((pos, word))
@@ -142,42 +154,59 @@ def reconstruct_abstract(inv: dict | None) -> str:
 
 
 def normalize(text: str) -> str:
-    text = text.lower().replace("₂", "2")
+    text = (text or "").lower().replace("₂", "2")
     text = re.sub(r"[\u2010-\u2015]", "-", text)
     text = re.sub(r"\s+", " ", text)
     return f" {text.strip()} "
 
 
-def contains_any(text: str, terms: list[str] | tuple[str, ...]) -> bool:
+def contains_any(text: str, terms: tuple[str, ...] | list[str]) -> bool:
     return any(term in text for term in terms)
 
 
 def hard_gate(topic: str, title: str, abstract: str) -> bool:
-    """先做资格审查，避免靠堆通用关键词把无关论文推高。"""
+    """Reject obvious false positives without demanding too many exact phrases."""
     title_l = normalize(title)
     full = normalize(title + " " + abstract)
 
+    # Fuel-cell/battery papers are the most common false positives in the method topic.
+    strong_negative_title = contains_any(
+        title_l,
+        (
+            "direct methanol fuel cell",
+            " dmfc ",
+            "pem fuel cell",
+            "battery",
+            "supercapacitor",
+        ),
+    )
+
     if topic == "organic":
+        # Exact electrocarboxylation is sufficient by itself.
+        if "electrocarboxylation" in full:
+            return True
         carbox = contains_any(
             full,
             (
-                "electrocarboxylation",
                 "electrochemical carboxylation",
                 "reductive carboxylation",
-                "carboxylation",
+                " carboxylation ",
+                "carbon dioxide fixation",
+                "co2 fixation",
             ),
         )
         co2 = contains_any(full, (" co2 ", "carbon dioxide"))
-        electro = contains_any(full, ("electro", "cathod", "electrosynthesis"))
+        electro = contains_any(full, ("electrochem", "electrosynth", "electroreduc", "cathod"))
         return carbox and co2 and electro
 
     if topic == "gde":
-        core = contains_any(
+        gde_core = contains_any(
+            full,
+            ("gas diffusion electrode", "gas diffusion layer", " gde ", " gdl "),
+        )
+        tomography_core = contains_any(
             full,
             (
-                "gas diffusion electrode",
-                "gas diffusion layer",
-                " gde ",
                 "micro-ct",
                 "micro ct",
                 "microcomputed tomography",
@@ -186,7 +215,7 @@ def hard_gate(topic: str, title: str, abstract: str) -> bool:
                 "tomography",
             ),
         )
-        context = contains_any(
+        electro_context = contains_any(
             full,
             (
                 "co2",
@@ -196,13 +225,24 @@ def hard_gate(topic: str, title: str, abstract: str) -> bool:
                 "porous",
                 "flooding",
                 "wetting",
-                "reconstruction",
-                "segmentation",
             ),
         )
-        return core and context
+        imaging_context = contains_any(
+            full,
+            (
+                "electrode",
+                "catalyst layer",
+                "porous",
+                "segmentation",
+                "reconstruction",
+                "microstructure",
+            ),
+        )
+        return (gde_core and electro_context) or (tomography_core and imaging_context)
 
     if topic == "analysis":
+        if strong_negative_title:
+            return False
         method = contains_any(
             full,
             (
@@ -219,55 +259,28 @@ def hard_gate(topic: str, title: str, abstract: str) -> bool:
                 "transfer coefficient",
             ),
         )
-        mechanistic = contains_any(
+        context = contains_any(
             full,
             (
                 "mechanism",
                 "kinetic",
                 "coupled chemical reaction",
-                "reference electrode",
                 "calibration",
                 "nonaqueous",
                 "non-aqueous",
                 "porous electrode",
                 "equivalent circuit",
                 "mass transport",
-            ),
-        )
-
-        # 如果标题本身明确是燃料电池/电池/超级电容等应用论文，除非标题也明确是方法学研究，否则直接排除。
-        title_negative = contains_any(
-            title_l,
-            (
-                "fuel cell",
-                "dmfc",
-                "battery",
-                "supercapacitor",
-                "water splitting",
-                "oxygen reduction",
-                "oxygen evolution",
-            ),
-        )
-        title_method = contains_any(
-            title_l,
-            (
-                "voltammetry",
-                "mechanism",
-                "kinetic",
                 "reference electrode",
-                "impedance spectroscopy",
-                "method",
-                "calibration",
+                "ferrocene",
             ),
         )
-        if title_negative and not title_method:
-            return False
-        return method and mechanistic
+        return method and context
 
     return False
 
 
-def score_paper(topic: str, title: str, abstract: str) -> tuple[int, list[str]]:
+def raw_score(topic: str, title: str, abstract: str) -> tuple[int, list[str]]:
     title_l = normalize(title)
     full = normalize(title + " " + abstract)
     score = 0
@@ -276,20 +289,25 @@ def score_paper(topic: str, title: str, abstract: str) -> tuple[int, list[str]]:
     for term, weight in WEIGHTS[topic].items():
         if term in full:
             score += weight
-            matched.append(term)
-            # 标题命中比只在摘要中出现更重要。
+            matched.append(term.strip())
             if term in title_l:
-                score += max(3, round(weight * 0.35))
+                score += max(3, round(weight * 0.40))
 
-    # Review / perspective 对“雷达”很有价值，但不应压过主题相关性。
-    if contains_any(title_l, ("review", "perspective", "tutorial")):
+    if contains_any(title_l, ("review", "perspective", "tutorial", "protocol")):
         score += 5
 
     for term, penalty in NEGATIVE_TERMS.items():
         if term in full:
             score -= penalty
 
-    return max(0, min(99, score)), matched
+    return max(0, score), matched
+
+
+def display_score(topic: str, raw: int) -> int:
+    """Map accepted raw scores to the 72-99 range used by the UI."""
+    threshold = MIN_RAW_SCORE[topic]
+    # 72 at threshold; increasingly strong matches approach 99.
+    return min(99, 72 + max(0, round((raw - threshold) * 0.7)))
 
 
 def read_minutes(abstract: str) -> int:
@@ -302,14 +320,13 @@ def read_minutes(abstract: str) -> int:
 def fallback_reason(topic: str, matched: list[str]) -> str:
     top = "、".join(matched[:4]) if matched else "核心关键词"
     if topic == "organic":
-        return f"命中 {top}，与有机电羧化、CO₂ 引入及 Ni/非水体系研究直接相关，优先检查底物、电极与反应条件。"
+        return f"命中 {top}，与有机电羧化、CO₂ 引入及 Ni/非水体系研究直接相关，优先检查底物、电极和反应条件。"
     if topic == "gde":
         return f"命中 {top}，与 GDE 结构、润湿/淹没行为或 Micro-CT 三维表征相关，可用于结构—性能关联分析。"
-    return f"命中 {top}，属于电化学方法/机理分析类文献，可用于 CV、EIS、参比校准或动力学数据解释。"
+    return f"命中 {top}，属于电化学方法/机理分析文献，可用于 CV、EIS、参比校准或动力学数据解释。"
 
 
 def fallback_summary(topic: str, title: str, abstract: str) -> str:
-    # 不假装是 AI 翻译；无 API 时给出清楚的“主题型摘要”。
     if topic == "organic":
         prefix = "该研究围绕有机电化学 CO₂ 羧化/还原羧化展开。"
     elif topic == "gde":
@@ -326,7 +343,7 @@ def fetch(topic: str, query: str, date_from: str, date_to: str) -> list[dict]:
         "search": query,
         "filter": f"from_publication_date:{date_from},to_publication_date:{date_to},is_paratext:false",
         "sort": "publication_date:desc",
-        "per-page": 40,
+        "per-page": 50,
     }
     mail = os.getenv("OPENALEX_MAILTO")
     if mail:
@@ -340,19 +357,20 @@ def fetch(topic: str, query: str, date_from: str, date_to: str) -> list[dict]:
         title = (work.get("title") or "").strip()
         if not title:
             continue
-        abst = reconstruct_abstract(work.get("abstract_inverted_index"))
+        abstract = reconstruct_abstract(work.get("abstract_inverted_index"))
 
-        if not hard_gate(topic, title, abst):
+        if not hard_gate(topic, title, abstract):
             continue
 
-        score, matched = score_paper(topic, title, abst)
-        if score < MIN_SCORE:
+        rank, matched = raw_score(topic, title, abstract)
+        if rank < MIN_RAW_SCORE[topic]:
             continue
 
         location = work.get("primary_location") or {}
         source = (location.get("source") or {}).get("display_name") or "Unknown journal"
         doi = work.get("doi")
         url = doi or location.get("landing_page_url") or work.get("id")
+        pub_date = work.get("publication_date") or ""
 
         out.append(
             {
@@ -360,15 +378,17 @@ def fetch(topic: str, query: str, date_from: str, date_to: str) -> list[dict]:
                 or re.sub(r"\W+", "-", title.lower())[:60],
                 "topic": topic,
                 "badge": "最新研究",
-                "read_minutes": read_minutes(abst),
+                "read_minutes": read_minutes(abstract),
                 "title": title,
                 "journal": source,
                 "year": work.get("publication_year"),
+                "publication_date": pub_date,
                 "summary_zh": "",
-                "abstract": abst[:3000],
+                "abstract": abstract[:3000],
                 "relevance_reason": "",
                 "tags": matched[:4],
-                "score": score,
+                "score": display_score(topic, rank),
+                "_rank_score": rank,
                 "url": url,
                 "archive": False,
             }
@@ -423,21 +443,70 @@ def add_fallback_text(paper: dict) -> None:
         paper["tags"] = [paper["topic"], "latest", "screened"]
 
 
-def select_balanced(candidates: list[dict]) -> list[dict]:
-    """每个主题最多 3 篇，避免某个宽泛主题占满首页。"""
+def deduplicate(papers: list[dict]) -> list[dict]:
+    dedup: dict[str, dict] = {}
+    for paper in sorted(papers, key=lambda x: x.get("_rank_score", 0), reverse=True):
+        key = (paper.get("url") or paper["title"]).lower()
+        if key not in dedup:
+            dedup[key] = paper
+    return list(dedup.values())
+
+
+def select_balanced(candidates: list[dict], limit: int = MAX_FRESH) -> list[dict]:
     selected: list[dict] = []
     counts = {topic: 0 for topic in TOPICS}
 
-    for paper in sorted(candidates, key=lambda x: x["score"], reverse=True):
-        topic = paper["topic"]
-        if counts[topic] >= MAX_PER_TOPIC:
-            continue
-        selected.append(paper)
-        counts[topic] += 1
-        if len(selected) >= MAX_FRESH:
-            break
+    # Round-robin by topic first, then fill remaining slots by global rank.
+    grouped = {
+        topic: sorted(
+            [p for p in candidates if p["topic"] == topic],
+            key=lambda x: (x.get("_rank_score", 0), x.get("publication_date", "")),
+            reverse=True,
+        )
+        for topic in TOPICS
+    }
 
-    return selected
+    for _ in range(MAX_PER_TOPIC):
+        for topic in TOPICS:
+            if grouped[topic] and counts[topic] < MAX_PER_TOPIC and len(selected) < limit:
+                paper = grouped[topic].pop(0)
+                selected.append(paper)
+                counts[topic] += 1
+
+    if len(selected) < limit:
+        chosen = {p["id"] for p in selected}
+        rest = sorted(
+            [p for p in candidates if p["id"] not in chosen],
+            key=lambda x: (x.get("_rank_score", 0), x.get("publication_date", "")),
+            reverse=True,
+        )
+        selected.extend(rest[: limit - len(selected)])
+
+    return selected[:limit]
+
+
+def mark_recency_badge(paper: dict, now: datetime) -> None:
+    pub = paper.get("publication_date")
+    if not pub:
+        return
+    try:
+        age = (now.date() - date.fromisoformat(pub)).days
+    except ValueError:
+        return
+    paper["badge"] = "最新研究" if age <= PRIMARY_DAYS else "近期精选"
+
+
+def collect_window(now: datetime, days: int) -> list[dict]:
+    start = (now.date() - timedelta(days=days)).isoformat()
+    end = now.date().isoformat()
+    found: list[dict] = []
+    for topic, queries in TOPICS.items():
+        for query in queries:
+            try:
+                found.extend(fetch(topic, query, start, end))
+            except Exception as exc:
+                print("fetch failed", topic, query, exc, file=sys.stderr)
+    return deduplicate(found)
 
 
 def main() -> None:
@@ -455,33 +524,24 @@ def main() -> None:
     for paper in old.get("papers", []):
         paper["archive"] = True
 
-    # 用 21 天窗口避免某一天数据库索引稍晚导致漏文献；去重后只展示精选项。
-    start = (now.date() - timedelta(days=21)).isoformat()
-    end = now.date().isoformat()
+    # First search recent literature. If that yields too few strong matches, expand
+    # the publication window rather than showing an empty daily brief.
+    candidates = collect_window(now, PRIMARY_DAYS)
+    fresh = select_balanced(candidates)
 
-    found: list[dict] = []
-    for topic, queries in TOPICS.items():
-        for query in queries:
-            try:
-                found.extend(fetch(topic, query, start, end))
-            except Exception as exc:
-                print("fetch failed", topic, query, exc, file=sys.stderr)
+    if len(fresh) < MIN_DAILY:
+        extended = collect_window(now, FALLBACK_DAYS)
+        fresh = select_balanced(extended)
 
-    # OpenAlex 同一篇文章可能被多个 query 命中；保留相关度最高的版本。
-    dedup: dict[str, dict] = {}
-    for paper in sorted(found, key=lambda x: x["score"], reverse=True):
-        key = paper.get("url") or paper["title"].lower()
-        if key not in dedup:
-            dedup[key] = paper
-
-    fresh = select_balanced(list(dedup.values()))
     enrich_llm(fresh)
 
     for paper in fresh:
         add_fallback_text(paper)
+        mark_recency_badge(paper, now)
         metric = metrics.get(paper["journal"], {})
         paper["impact_factor"] = metric.get("impact_factor")
         paper["quartile"] = metric.get("quartile", "Q —")
+        paper.pop("_rank_score", None)
 
     fresh_ids = {paper["id"] for paper in fresh}
     archive = [
@@ -491,9 +551,7 @@ def main() -> None:
     ][:180]
 
     high_count = sum(1 for paper in fresh if paper["score"] >= 88)
-    match_score = round(
-        sum(p["score"] for p in fresh) / len(fresh)
-    ) if fresh else 0
+    match_score = round(sum(p["score"] for p in fresh) / len(fresh)) if fresh else 0
 
     payload = {
         "brief_date": now.strftime("%Y · %m · %d"),
@@ -507,7 +565,7 @@ def main() -> None:
         json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8"
     )
     print(
-        f"Updated {len(fresh)} fresh papers ({high_count} high relevance), "
+        f"Updated {len(fresh)} recommended papers ({high_count} high relevance), "
         f"{len(archive)} archived."
     )
 
