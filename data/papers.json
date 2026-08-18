@@ -1,7 +1,7 @@
 {
-  "brief_date": "2026 · 08 · 17",
-  "last_updated": "2026-08-17",
-  "match_score": 97,
+  "brief_date": "2026 · 08 · 18",
+  "last_updated": "2026-08-18",
+  "match_score": 96,
   "trackers": [
     {
       "name": "Ni electrocarboxylation",
@@ -22,28 +22,28 @@
   ],
   "papers": [
     {
-      "id": "W7168181748",
+      "id": "W7169787974",
       "topic": "organic",
       "badge": "最新研究",
       "read_minutes": 6,
-      "title": "Electrochemical Carboxylation of Organic Halides at Preparative Scale Using Recirculation Flow Process",
-      "journal": "ACS electrochemistry.",
+      "title": "ATR-SEIRAS Studiesof Butadiene Electrocarboxylationin Aprotic Media",
+      "journal": "Journal of the American Chemical Society",
       "year": 2026,
-      "publication_date": "2026-07-13",
+      "publication_date": "2026-07-20",
       "summary_zh": "该研究围绕有机电化学 CO₂ 羧化/还原羧化展开。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
-      "abstract": "Abstract The direct electrochemical carboxylation of aryl chlorides and bromides by CO2 using a recirculation flow cell is described. The process employs a Mg sacrificial rod anode surrounded by a cylindrical shaped nickel foam cathode. The reactions are simply carried out with common and affordable equipment under galvanostatic mode at –10 °C, using DMF as the solvent and carbon dioxide at atmospheric pressure. Under these smooth conditions, an important range of carboxylic acids is accessible at a 100 mmol scale. The global superiority of the flow technology over the batch process is underlined by the statistical comparison of the results obtained in both conditions and the calculation of the molar electric consumption for conversion.",
-      "relevance_reason": "命中 electrochemical carboxylation、carboxylation、carbon dioxide、co2，与有机电羧化、CO₂ 引入及 Ni/非水体系研究直接相关，优先检查底物、电极和反应条件。",
+      "abstract": "The electrocarboxylation of butadiene (BD) offers a sustainable route to hexenedioate synthesis through CO2 utilization. Hexenedioate can be converted into adipic acid, the main precursor to Nylon, which is currently produced from fossil-based feedstocks. However, key aspects of BD electrocarboxylation remain unclear, particularly the involvement of surface-bound intermediates and competing interfacial reactions, such as the CO2 reduction reaction (CO2RR). Herein, we employ in situ Attenuated Total Reflectance Surface Enhanced Infrared Absorption Spectroscopy (ATR-SEIRAS), electrolysis experiments with product analysis and density functional theory (DFT) to investigate BD electrocarboxylation on Au, Cu, and Pt. ATR-SEIRAS tracks the evolution of interfacial species and shows that BD suppresses the CO adsorption band on Cu but remains unchanged on Pt, consistent with DFT predictions that result from its preferential binding and the destabilization of BD chemisorption at increasingly cathodic potentials. Electrolysis experiments reveal higher hexenedioate Faradaic efficiency on Au, followed by Cu and Pt, while CO selectivity shows the opposite trend (Pt > Cu > Au), providing complementary evidence for metal-dependent trends observed in the spectroscopic measurements. Although CO still forms in the presence of BD, part of the CO2•- is consumed by BD to generate electrocarboxylation products, and the CO that is produced does not adsorb on Cu because BD or BD-derived species outcompete and displace it. These findings highlight the effect of BD adsorption and potential-dependent radical competition in shaping electrocarboxylation reactions, emphasizing the importance of considering interfacial contributions in the electrochemical process.",
+      "relevance_reason": "命中 electrocarboxylation、carboxylation、co2、diene，与有机电羧化、CO₂ 引入及 Ni/非水体系研究直接相关，优先检查底物、电极和反应条件。",
       "tags": [
-        "electrochemical carboxylation",
+        "electrocarboxylation",
         "carboxylation",
-        "carbon dioxide",
-        "co2"
+        "co2",
+        "diene"
       ],
       "score": 99,
-      "url": "https://doi.org/10.1021/acselectrochem.6c00241",
+      "url": "https://doi.org/10.1021/jacs.6c04924",
       "archive": false,
-      "impact_factor": null,
-      "quartile": "Q —"
+      "impact_factor": "15.6",
+      "quartile": "JCR Q1"
     },
     {
       "id": "W7171634556",
@@ -92,30 +92,6 @@
       "archive": false,
       "impact_factor": null,
       "quartile": "Q —"
-    },
-    {
-      "id": "W7169787974",
-      "topic": "organic",
-      "badge": "最新研究",
-      "read_minutes": 6,
-      "title": "ATR-SEIRAS Studiesof Butadiene Electrocarboxylationin Aprotic Media",
-      "journal": "Journal of the American Chemical Society",
-      "year": 2026,
-      "publication_date": "2026-07-20",
-      "summary_zh": "该研究围绕有机电化学 CO₂ 羧化/还原羧化展开。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
-      "abstract": "The electrocarboxylation of butadiene (BD) offers a sustainable route to hexenedioate synthesis through CO2 utilization. Hexenedioate can be converted into adipic acid, the main precursor to Nylon, which is currently produced from fossil-based feedstocks. However, key aspects of BD electrocarboxylation remain unclear, particularly the involvement of surface-bound intermediates and competing interfacial reactions, such as the CO2 reduction reaction (CO2RR). Herein, we employ in situ Attenuated Total Reflectance Surface Enhanced Infrared Absorption Spectroscopy (ATR-SEIRAS), electrolysis experiments with product analysis and density functional theory (DFT) to investigate BD electrocarboxylation on Au, Cu, and Pt. ATR-SEIRAS tracks the evolution of interfacial species and shows that BD suppresses the CO adsorption band on Cu but remains unchanged on Pt, consistent with DFT predictions that result from its preferential binding and the destabilization of BD chemisorption at increasingly cathodic potentials. Electrolysis experiments reveal higher hexenedioate Faradaic efficiency on Au, followed by Cu and Pt, while CO selectivity shows the opposite trend (Pt > Cu > Au), providing complementary evidence for metal-dependent trends observed in the spectroscopic measurements. Although CO still forms in the presence of BD, part of the CO2•- is consumed by BD to generate electrocarboxylation products, and the CO that is produced does not adsorb on Cu because BD or BD-derived species outcompete and displace it. These findings highlight the effect of BD adsorption and potential-dependent radical competition in shaping electrocarboxylation reactions, emphasizing the importance of considering interfacial contributions in the electrochemical process.",
-      "relevance_reason": "命中 electrocarboxylation、carboxylation、co2、diene，与有机电羧化、CO₂ 引入及 Ni/非水体系研究直接相关，优先检查底物、电极和反应条件。",
-      "tags": [
-        "electrocarboxylation",
-        "carboxylation",
-        "co2",
-        "diene"
-      ],
-      "score": 99,
-      "url": "https://doi.org/10.1021/jacs.6c04924",
-      "archive": false,
-      "impact_factor": "15.6",
-      "quartile": "JCR Q1"
     },
     {
       "id": "W7201879557",
@@ -231,6 +207,52 @@
       "score": 99,
       "url": "https://doi.org/10.1039/d6cy00467a/v2/decision1",
       "archive": false,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
+    {
+      "id": "W7169848506",
+      "topic": "gde",
+      "badge": "最新研究",
+      "read_minutes": 6,
+      "title": "Combined Flow Field and Gas Diffusion Layer Design for Enhanced Polymer Electrolyte Fuel Cell Performance",
+      "journal": "Journal of The Electrochemical Society",
+      "year": 2026,
+      "publication_date": "2026-07-21",
+      "summary_zh": "该研究聚焦 GDE、孔结构或 X-ray/Micro-CT 三维表征。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
+      "abstract": "Abstract Fuel cell efficiency and cost reductions can be enhanced by using interdigitated flow fields (IFFs) instead of conventional parallel channels, as they allow oxygen convective flow through the gas diffusion layer (GDL). However, water accumulation at the end of the inlet of interdigitated channels poses a risk to operational stability at high current densities when conventional hydrophobic GDLs are used. This study aims to optimize the flow field architecture, land width, channel geometry, and hydrophilic patterns in the GDL to favor electrochemical performance and operational stability. The combination of IFFs with a land width of 1 mm and a patterned GDL improves the cell performance by ~70 mV at 2 A cm -2 and an air-stoichiometry of 1.2 compared to the use of a purely hydrophobic GDL. Increasing the IFFs’ land width to 4 mm, even with a hydrophobic GDL, enabled the operation at an air-stoichiometry of 1.2 and at 2 A cm -2 with a loss of only 44 mV with regards to an air-a stoichiometry of 2 . Thus, optimizing the GDL wettability distribution and flow field parameters have a great impact on the cell performance, enabling a more stable operation at high current densities and low cathode stoichiometries.",
+      "relevance_reason": "命中 gas diffusion layer、gdl，与 GDE 结构、润湿/淹没行为或 Micro-CT 三维表征相关，可用于结构—性能关联分析。",
+      "tags": [
+        "gas diffusion layer",
+        "gdl"
+      ],
+      "score": 92,
+      "url": "https://doi.org/10.1149/1945-7111/ae8e05",
+      "archive": false,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
+    {
+      "id": "W7168181748",
+      "topic": "organic",
+      "badge": "最新研究",
+      "read_minutes": 6,
+      "title": "Electrochemical Carboxylation of Organic Halides at Preparative Scale Using Recirculation Flow Process",
+      "journal": "ACS electrochemistry.",
+      "year": 2026,
+      "publication_date": "2026-07-13",
+      "summary_zh": "该研究围绕有机电化学 CO₂ 羧化/还原羧化展开。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
+      "abstract": "Abstract The direct electrochemical carboxylation of aryl chlorides and bromides by CO2 using a recirculation flow cell is described. The process employs a Mg sacrificial rod anode surrounded by a cylindrical shaped nickel foam cathode. The reactions are simply carried out with common and affordable equipment under galvanostatic mode at –10 °C, using DMF as the solvent and carbon dioxide at atmospheric pressure. Under these smooth conditions, an important range of carboxylic acids is accessible at a 100 mmol scale. The global superiority of the flow technology over the batch process is underlined by the statistical comparison of the results obtained in both conditions and the calculation of the molar electric consumption for conversion.",
+      "relevance_reason": "命中 electrochemical carboxylation、carboxylation、carbon dioxide、co2，与有机电羧化、CO₂ 引入及 Ni/非水体系研究直接相关，优先检查底物、电极和反应条件。",
+      "tags": [
+        "electrochemical carboxylation",
+        "carboxylation",
+        "carbon dioxide",
+        "co2"
+      ],
+      "score": 99,
+      "url": "https://doi.org/10.1021/acselectrochem.6c00241",
+      "archive": true,
       "impact_factor": null,
       "quartile": "Q —"
     },
