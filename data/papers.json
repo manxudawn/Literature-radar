@@ -1,7 +1,7 @@
 {
-  "brief_date": "2026 · 08 · 18",
-  "last_updated": "2026-08-18",
-  "match_score": 96,
+  "brief_date": "2026 · 08 · 19",
+  "last_updated": "2026-08-19",
+  "match_score": 94,
   "trackers": [
     {
       "name": "Ni electrocarboxylation",
@@ -70,25 +70,72 @@
       "quartile": "Q —"
     },
     {
-      "id": "W7202425136",
+      "id": "W7201959243",
       "topic": "analysis",
       "badge": "最新研究",
       "read_minutes": 6,
-      "title": "Integrating of Common Mechanisms in Protein-Film Voltammetry-MATHCAD Simulation Protocol",
-      "journal": "Goce Delchev University Repository (Goce Delčev University of Štip)",
+      "title": "Electrodeposited Cobalt Bis(pyridylimino)isoindolide Complex on Graphite: Synthesis, Characterization, and Electrocatalytic Activity Toward Hydrogen Evolution Reaction",
+      "journal": "Energy Technology",
       "year": 2026,
-      "publication_date": "2026-08-11",
+      "publication_date": "2026-08-01",
       "summary_zh": "该研究聚焦电化学测试方法、反应机理或动力学分析。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
-      "abstract": "Protein-film voltammetry (PFV) provides a powerful methodology for investigating electron-transfer processes and coupled chemical reactions of surface-confined proteins and enzymes. In this work, for the firt time, a comprehensive theoretical framework is presented for the surface CirrE₁CrevE₂C′ mechanism, integrating a preceding irreversible chemical transformation, two consecutive electron-transfer steps interconnected by a reversible chemical reaction, and a final regenerative step. Owing to its multistep architecture, the model encompasses several commonly encountered PFV mechanisms as limiting cases, providing a unified platform for their systematic analysis. Simulated cyclic voltammetric patterns demonstrate how the kinetics of individual chemical and electron-transfer steps, the equilibrium constant of the intermediate reversible reaction, and catalytic regeneration govern the shape, magnitude, reversibility, and potential position of the voltammetric responses. Particular attention is given to systems with closely spaced electron-transfer potentials, where catalytic kinetics can assist in resolving otherwise overlapping redox processes. Importantly, the original Mathcad simulation protocol for the surface CirrE₁CrevE₂C′ mechanism in cyclic voltammetry is provided, enabling straightforward variation of relevant kinetic and thermodynamic parameters. The presented framework offers a practical computational platform for simulation, mechanistic exploration, and interpretation of complex reaction pathways encountered in protein-film voltammetry.",
-      "relevance_reason": "命中 cyclic voltammetry、voltammetric、coupled chemical reaction、kinetic，属于电化学方法/机理分析文献，可用于 CV、EIS、参比校准或动力学数据解释。",
+      "abstract": "Electrodeposited cobalt bis(pyridylimino)isoindolide (BPI) complexes on graphite combine the favorable coordination chemistry of the BPI framework with the excellent electrical conductivity and surface properties of graphite. Their tunable ligand environment allows for precise control over the metal's electronic structure, enhancing proton reduction kinetics. Furthermore, strong π–π interactions between the pyrene substituents and the graphitic surface promote robust adhesion and an extended active interface, making these materials attractive candidates for durable, high‐performance electrocatalysts. In this work, we report the synthesis and full characterization of a novel pyrene‐substituted BPI ligand and its corresponding cobalt complex. These BPI derivatives were electrodeposited onto a graphite substrate by cyclic voltammetry, and the resulting modified electrodes were evaluated for their hydrogen evolution reaction (HER) performance. Morphological, structural, and spectroscopic analyses, including scanning electron microscopy (SEM), energy dispersive X‐ray (EDX) spectroscopy, X‐ray photoelectron spectroscopy (XPS), and X‐ray diffraction (XRD), provided detailed insight into the surface structure and composition of the electrodeposited films. Electrochemical impedance spectroscopy (EIS) highlighted the effective charge–transfer properties and double‐layer capacitance of the cobalt BPI coatings. A comparative analysis of the electrochemical data with the structural findings confirmed that the electrodeposited cobalt BPI complexes form uniform, conductive layers on graphite, exhibiting promising catalytic activity for hydrogen evolution.",
+      "relevance_reason": "命中 cyclic voltammetry、kinetic、electrochemical impedance spectroscopy、impedance spectroscopy，属于电化学方法/机理分析文献，可用于 CV、EIS、参比校准或动力学数据解释。",
       "tags": [
         "cyclic voltammetry",
-        "voltammetric",
-        "coupled chemical reaction",
-        "kinetic"
+        "kinetic",
+        "electrochemical impedance spectroscopy",
+        "impedance spectroscopy"
+      ],
+      "score": 94,
+      "url": "https://doi.org/10.1002/ente.70581",
+      "archive": false,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
+    {
+      "id": "W7203616510",
+      "topic": "gde",
+      "badge": "最新研究",
+      "read_minutes": 6,
+      "title": "Scalable flame spray-derived bismuth catalysts enable efficient CO2 electrolysis revealed by FIB-SEM nano-tomography and ICP-MS EDX profiling",
+      "journal": "Cell Reports Physical Science",
+      "year": 2026,
+      "publication_date": "2026-08-17",
+      "summary_zh": "该研究聚焦 GDE、孔结构或 X-ray/Micro-CT 三维表征。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
+      "abstract": "CO 2 electrolysis is a promising route to convert CO 2 into value-added chemicals. Here, we use flame spray pyrolysis (FSP) as a rapid and scalable method to synthesize Bi 2 O 3 nanospheres and evaluate their formate production in a gas diffusion electrode flow electrolyzer. Under reaction conditions, Bi 2 O 3 converts in situ into bismuth subcarbonate, delivering >90% formate Faradaic efficiency across −0.6 to −1.6 V vs. reversible hydrogen electrode (RHE), reaching a formate partial current density of −700 mA.cm −2 at −1.8 V. This performance is nearly twice that of electrochemically deposited dendritic Bi 2 O 3 . To elucidate the origin of this high performance, a combined tomography approach based on focused ion beam-scanning electron microscopy (FIB-SEM) nano-tomography and inductively coupled plasma-mass spectrometry (ICP-MS) EDX cross-sectional profiling was introduced to track catalyst layer morphology and electrolyte-induced flooding. The FSP-derived catalyst forms a compact layer near the microporous layer, confining flooding to the catalyst microporous interface and improving operational stability. This work provides mechanistic insight and characterization guidelines for designing durable, high-performance electrodes for CO 2 electrolysis.",
+      "relevance_reason": "命中 gas diffusion electrode、tomography、flooding、catalyst layer，与 GDE 结构、润湿/淹没行为或 Micro-CT 三维表征相关，可用于结构—性能关联分析。",
+      "tags": [
+        "gas diffusion electrode",
+        "tomography",
+        "flooding",
+        "catalyst layer"
       ],
       "score": 99,
-      "url": "https://eprints.ugd.edu.mk/38784/1/1-1-Integrating%20Common%20Mechanisms%20in%20Protein-Film%20Voltammetry-Mathcad%20Simulation%20File.pdf",
+      "url": "https://doi.org/10.1016/j.xcrp.2026.103500",
+      "archive": false,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
+    {
+      "id": "W7163272096",
+      "topic": "analysis",
+      "badge": "最新研究",
+      "read_minutes": 6,
+      "title": "A random forest: based intelligent framework for automated electrochemical impedance analysis in industrial corrosion monitoring",
+      "journal": "Discover Computing",
+      "year": 2026,
+      "publication_date": "2026-08-13",
+      "summary_zh": "该研究聚焦电化学测试方法、反应机理或动力学分析。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
+      "abstract": "<title>Abstract</title> Electrochemical impedance spectroscopy (EIS) is widely applied for corrosion characterization of pipeline steel under complex environmental conditions. However, conventional EIS analysis relies heavily on expert experience for equivalent circuit identification and initial parameter estimation, which limits its scalability and repeatability in long-term industrial monitoring. To address this challenge, this study proposes an engineering-oriented intelligent analysis framework based on random forest models to enable automated equivalent circuit identification and parameter initialization.A complete workflow is established, including data preprocessing, model construction, and post-processing. In the preprocessing stage, a physics-informed multi-strategy normalization scheme is designed to handle the heterogeneous and multi-scale characteristics of EIS features while preserving the intrinsic physical meanings of different impedance components. Within the proposed framework, a random forest classifier is employed to automatically identify equivalent circuit types, followed by circuit-specific multi-output random forest regressors to predict initial values of circuit parameters, thereby enabling stable and efficient nonlinear fitting.The proposed method is validated using atmospheric EIS data of pipeline steel and demonstrates robust performance in both circuit classification and parameter regression tasks, with consistent improvements over conventional machine learning baseline methods. Experimental results show that the proposed framework effectively reduces reliance on expert intervention while maintaining high accuracy, robustness, and interpretability. By integrating data-driven modeling with electrochemical physical insights, this work provides a practical and reliable solution for automated EIS analysis in industrial corrosion monitoring applications.",
+      "relevance_reason": "命中 electrochemical impedance spectroscopy、impedance spectroscopy、equivalent circuit，属于电化学方法/机理分析文献，可用于 CV、EIS、参比校准或动力学数据解释。",
+      "tags": [
+        "electrochemical impedance spectroscopy",
+        "impedance spectroscopy",
+        "equivalent circuit"
+      ],
+      "score": 80,
+      "url": "https://doi.org/10.1007/s10791-026-10458-6",
       "archive": false,
       "impact_factor": null,
       "quartile": "Q —"
@@ -117,25 +164,24 @@
       "quartile": "Q —"
     },
     {
-      "id": "W7201959243",
+      "id": "W7202285232",
       "topic": "analysis",
       "badge": "最新研究",
       "read_minutes": 6,
-      "title": "Electrodeposited Cobalt Bis(pyridylimino)isoindolide Complex on Graphite: Synthesis, Characterization, and Electrocatalytic Activity Toward Hydrogen Evolution Reaction",
-      "journal": "Energy Technology",
+      "title": "Effect of cyclic-step quenching on the corrosion behavior of micro-alloyed steel in simulated sea water environment",
+      "journal": "Next Chemical Engineering",
       "year": 2026,
-      "publication_date": "2026-08-01",
+      "publication_date": "2026-08-12",
       "summary_zh": "该研究聚焦电化学测试方法、反应机理或动力学分析。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
-      "abstract": "Electrodeposited cobalt bis(pyridylimino)isoindolide (BPI) complexes on graphite combine the favorable coordination chemistry of the BPI framework with the excellent electrical conductivity and surface properties of graphite. Their tunable ligand environment allows for precise control over the metal's electronic structure, enhancing proton reduction kinetics. Furthermore, strong π–π interactions between the pyrene substituents and the graphitic surface promote robust adhesion and an extended active interface, making these materials attractive candidates for durable, high‐performance electrocatalysts. In this work, we report the synthesis and full characterization of a novel pyrene‐substituted BPI ligand and its corresponding cobalt complex. These BPI derivatives were electrodeposited onto a graphite substrate by cyclic voltammetry, and the resulting modified electrodes were evaluated for their hydrogen evolution reaction (HER) performance. Morphological, structural, and spectroscopic analyses, including scanning electron microscopy (SEM), energy dispersive X‐ray (EDX) spectroscopy, X‐ray photoelectron spectroscopy (XPS), and X‐ray diffraction (XRD), provided detailed insight into the surface structure and composition of the electrodeposited films. Electrochemical impedance spectroscopy (EIS) highlighted the effective charge–transfer properties and double‐layer capacitance of the cobalt BPI coatings. A comparative analysis of the electrochemical data with the structural findings confirmed that the electrodeposited cobalt BPI complexes form uniform, conductive layers on graphite, exhibiting promising catalytic activity for hydrogen evolution.",
-      "relevance_reason": "命中 cyclic voltammetry、kinetic、electrochemical impedance spectroscopy、impedance spectroscopy，属于电化学方法/机理分析文献，可用于 CV、EIS、参比校准或动力学数据解释。",
+      "abstract": "In this work, a novel heat treatment process known as cyclic-step quenching was implemented on micro-alloyed steel and its effects on corrosion resistance in simulated seawater were determined. Samples of micro-alloyed steel were prepared and categorized into five groups named control, CSQ_1, CSQ_2, CSQ_3 and SQ. CSQ_1 samples were heated in a muffle furnace to 900 °C and held at this temperature for 10 min before cooling to an intercritical temperature of 750 °C. Subsequently, the samples were quenched in vegetable oil. The procedure was conducted for CSQ_2 and CSQ_3 samples, for which it was repeated once and twice for CSQ_2 and CSQ_3 respectively. SQ samples were heated in furnace to 900 °C, held at this temperature for 10 min and quenched in vegetable oil. Samples from each category were subjected to Potentiodynamic Polarization (PDP) and Electrochemical Impedance Spectroscopy (EIS) tests in 3.5 wt% NaCl solution. Morphology and elemental composition of corroded samples in 3.5 wt% NaCl were assessed via Scanning Electron Microscopy/Energy Dispersive Spectroscopy (SEM/EDS). Results obtained from PDP showed decrease in corrosion rates with increased number of cyclic-step quench cycles from 1.12 mmpy for control sample to 0.86 mmpy for CSQ_3. Similarly, data obtained from EIS equivalent circuit fitting showed increased polarization resistances with increased number of cyclic-step quench cycles from 64.73 Ω cm 2 for control sample to 371.88 Ω cm 2 for CSQ_3. Corrosion products thinning, depression and pitting showed selective dissolution of corrosion product for CSQ_2, CSQ_3 and SQ. Increase corrosion resistance for heat-treated samples was due to decrease in cathode-to-anode ratio.",
+      "relevance_reason": "命中 electrochemical impedance spectroscopy、impedance spectroscopy、equivalent circuit，属于电化学方法/机理分析文献，可用于 CV、EIS、参比校准或动力学数据解释。",
       "tags": [
-        "cyclic voltammetry",
-        "kinetic",
         "electrochemical impedance spectroscopy",
-        "impedance spectroscopy"
+        "impedance spectroscopy",
+        "equivalent circuit"
       ],
-      "score": 94,
-      "url": "https://doi.org/10.1002/ente.70581",
+      "score": 80,
+      "url": "https://doi.org/10.1016/j.nxcen.2026.100094",
       "archive": false,
       "impact_factor": null,
       "quartile": "Q —"
@@ -165,29 +211,6 @@
       "quartile": "Q —"
     },
     {
-      "id": "W7202209007",
-      "topic": "analysis",
-      "badge": "最新研究",
-      "read_minutes": 6,
-      "title": "Highly sensitive determination of noradrenaline at a methylene blue–PEDOT modified glassy carbon electrode",
-      "journal": "Microchemical Journal",
-      "year": 2026,
-      "publication_date": "2026-08-11",
-      "summary_zh": "该研究聚焦电化学测试方法、反应机理或动力学分析。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
-      "abstract": "In this work, a modified electrode was prepared by modifying a glassy carbon electrode (GCE) with a poly(3,4-ethylenedioxythiophene) (PEDOT) matrix obtained by electropolymerizing EDOT in the presence of methylene blue (MB), thus ensuring the entrapment of MB into the PEDOT polymeric structure. The prepared modified electrodes (MB-PEDOT/GCE and PEDOT/GCE) were characterised by cyclic voltammetry (CV), electrochemical impedance spectroscopy (EIS) and differential pulse voltammetry (DPV) to estimate the electrochemical and analytical parameters of the noradrenaline (NA) electrooxidation. The recorded CV showed that the NA oxidation current increased sharply at both modified electrodes compared to the bare GCE, where no peak was observed. The analytical parameters of the NA determination estimated from the calibration curves obtained by DPV measurements, at MB-PEDOT/GCE and PEDOT/GCE, showed a large linear range of concentration (2.50–25 μM NA and 5–48.50 μM NA), low detection limit (0.64 μM and 4.31 μM NA), and good sensitivity (3.64 ± 0.17 A/M and 0.42 ± 0.02 A/M), respectively. The proposed modified electrode was successfully applied for the determination of NA in a pharmaceutical real sample matrix.",
-      "relevance_reason": "命中 cyclic voltammetry、electrochemical impedance spectroscopy、impedance spectroscopy，属于电化学方法/机理分析文献，可用于 CV、EIS、参比校准或动力学数据解释。",
-      "tags": [
-        "cyclic voltammetry",
-        "electrochemical impedance spectroscopy",
-        "impedance spectroscopy"
-      ],
-      "score": 88,
-      "url": "https://doi.org/10.1016/j.microc.2026.119365",
-      "archive": false,
-      "impact_factor": null,
-      "quartile": "Q —"
-    },
-    {
       "id": "W7201843132",
       "topic": "gde",
       "badge": "最新研究",
@@ -211,6 +234,53 @@
       "quartile": "Q —"
     },
     {
+      "id": "W7202425136",
+      "topic": "analysis",
+      "badge": "最新研究",
+      "read_minutes": 6,
+      "title": "Integrating of Common Mechanisms in Protein-Film Voltammetry-MATHCAD Simulation Protocol",
+      "journal": "Goce Delchev University Repository (Goce Delčev University of Štip)",
+      "year": 2026,
+      "publication_date": "2026-08-11",
+      "summary_zh": "该研究聚焦电化学测试方法、反应机理或动力学分析。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
+      "abstract": "Protein-film voltammetry (PFV) provides a powerful methodology for investigating electron-transfer processes and coupled chemical reactions of surface-confined proteins and enzymes. In this work, for the firt time, a comprehensive theoretical framework is presented for the surface CirrE₁CrevE₂C′ mechanism, integrating a preceding irreversible chemical transformation, two consecutive electron-transfer steps interconnected by a reversible chemical reaction, and a final regenerative step. Owing to its multistep architecture, the model encompasses several commonly encountered PFV mechanisms as limiting cases, providing a unified platform for their systematic analysis. Simulated cyclic voltammetric patterns demonstrate how the kinetics of individual chemical and electron-transfer steps, the equilibrium constant of the intermediate reversible reaction, and catalytic regeneration govern the shape, magnitude, reversibility, and potential position of the voltammetric responses. Particular attention is given to systems with closely spaced electron-transfer potentials, where catalytic kinetics can assist in resolving otherwise overlapping redox processes. Importantly, the original Mathcad simulation protocol for the surface CirrE₁CrevE₂C′ mechanism in cyclic voltammetry is provided, enabling straightforward variation of relevant kinetic and thermodynamic parameters. The presented framework offers a practical computational platform for simulation, mechanistic exploration, and interpretation of complex reaction pathways encountered in protein-film voltammetry.",
+      "relevance_reason": "命中 cyclic voltammetry、voltammetric、coupled chemical reaction、kinetic，属于电化学方法/机理分析文献，可用于 CV、EIS、参比校准或动力学数据解释。",
+      "tags": [
+        "cyclic voltammetry",
+        "voltammetric",
+        "coupled chemical reaction",
+        "kinetic"
+      ],
+      "score": 99,
+      "url": "https://eprints.ugd.edu.mk/38784/1/1-1-Integrating%20Common%20Mechanisms%20in%20Protein-Film%20Voltammetry-Mathcad%20Simulation%20File.pdf",
+      "archive": true,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
+    {
+      "id": "W7202209007",
+      "topic": "analysis",
+      "badge": "最新研究",
+      "read_minutes": 6,
+      "title": "Highly sensitive determination of noradrenaline at a methylene blue–PEDOT modified glassy carbon electrode",
+      "journal": "Microchemical Journal",
+      "year": 2026,
+      "publication_date": "2026-08-11",
+      "summary_zh": "该研究聚焦电化学测试方法、反应机理或动力学分析。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
+      "abstract": "In this work, a modified electrode was prepared by modifying a glassy carbon electrode (GCE) with a poly(3,4-ethylenedioxythiophene) (PEDOT) matrix obtained by electropolymerizing EDOT in the presence of methylene blue (MB), thus ensuring the entrapment of MB into the PEDOT polymeric structure. The prepared modified electrodes (MB-PEDOT/GCE and PEDOT/GCE) were characterised by cyclic voltammetry (CV), electrochemical impedance spectroscopy (EIS) and differential pulse voltammetry (DPV) to estimate the electrochemical and analytical parameters of the noradrenaline (NA) electrooxidation. The recorded CV showed that the NA oxidation current increased sharply at both modified electrodes compared to the bare GCE, where no peak was observed. The analytical parameters of the NA determination estimated from the calibration curves obtained by DPV measurements, at MB-PEDOT/GCE and PEDOT/GCE, showed a large linear range of concentration (2.50–25 μM NA and 5–48.50 μM NA), low detection limit (0.64 μM and 4.31 μM NA), and good sensitivity (3.64 ± 0.17 A/M and 0.42 ± 0.02 A/M), respectively. The proposed modified electrode was successfully applied for the determination of NA in a pharmaceutical real sample matrix.",
+      "relevance_reason": "命中 cyclic voltammetry、electrochemical impedance spectroscopy、impedance spectroscopy，属于电化学方法/机理分析文献，可用于 CV、EIS、参比校准或动力学数据解释。",
+      "tags": [
+        "cyclic voltammetry",
+        "electrochemical impedance spectroscopy",
+        "impedance spectroscopy"
+      ],
+      "score": 88,
+      "url": "https://doi.org/10.1016/j.microc.2026.119365",
+      "archive": true,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
+    {
       "id": "W7169848506",
       "topic": "gde",
       "badge": "最新研究",
@@ -228,7 +298,7 @@
       ],
       "score": 92,
       "url": "https://doi.org/10.1149/1945-7111/ae8e05",
-      "archive": false,
+      "archive": true,
       "impact_factor": null,
       "quartile": "Q —"
     },
@@ -516,28 +586,6 @@
       ],
       "score": 71,
       "url": "https://doi.org/10.3389/fchem.2026.1913683",
-      "archive": true,
-      "impact_factor": null,
-      "quartile": "Q —"
-    },
-    {
-      "id": "W7163272096",
-      "topic": "analysis",
-      "badge": "最新研究",
-      "read_minutes": 10,
-      "title": "A random forest: based intelligent framework for automated electrochemical impedance analysis in industrial corrosion monitoring",
-      "journal": "Discover Computing",
-      "year": 2026,
-      "summary_zh": "最新研究聚焦于 A random forest: based intelligent framework for automated electrochemical impedance analysis in industrial corrosion monitoring。已抓取题目、期刊和摘要信息；如配置 OPENAI_API_KEY，可自动生成中文摘要与研究关联解读。",
-      "abstract": "<title>Abstract</title> Electrochemical impedance spectroscopy (EIS) is widely applied for corrosion characterization of pipeline steel under complex environmental conditions. However, conventional EIS analysis relies heavily on expert experience for equivalent circuit identification and initial parameter estimation, which limits its scalability and repeatability in long-term industrial monitoring. To address this challenge, this study proposes an engineering-oriented intelligent analysis framework based on random forest models to enable automated equivalent circuit identification and parameter initialization.A complete workflow is established, including data preprocessing, model construction, and post-processing. In the preprocessing stage, a physics-informed multi-strategy normalization scheme is designed to handle the heterogeneous and multi-scale characteristics of EIS features while preserving the intrinsic physical meanings of different impedance components. Within the proposed framework, a random forest classifier is employed to automatically identify equivalent circuit types, followed by circuit-specific multi-output random forest regressors to predict initial values of circuit parameters, thereby enabling stable and efficient nonlinear fitting.The proposed method is validated using atmospheric EIS data of pipeline steel and demonstrates robust performance in both circuit classification and parameter regression tasks, with consistent improvements over conventional machine learning baseline methods. Experimental results show that the proposed framework effectively reduces reliance on expert intervention while maintaining high accuracy, robustness, and interpretability. By integrating data-driven modeling with electrochemical physical insights, this work provides ",
-      "relevance_reason": "该论文与当前主题关键词高度匹配，建议结合摘要与实验方法进一步判断是否纳入精读。",
-      "tags": [
-        "analysis",
-        "latest",
-        "screened"
-      ],
-      "score": 71,
-      "url": "https://doi.org/10.1007/s10791-026-10458-6",
       "archive": true,
       "impact_factor": null,
       "quartile": "Q —"
