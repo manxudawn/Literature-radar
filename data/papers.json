@@ -1,6 +1,6 @@
 {
-  "brief_date": "2026 · 08 · 19",
-  "last_updated": "2026-08-19",
+  "brief_date": "2026 · 08 · 20",
+  "last_updated": "2026-08-20",
   "match_score": 94,
   "trackers": [
     {
@@ -164,24 +164,24 @@
       "quartile": "Q —"
     },
     {
-      "id": "W7202285232",
+      "id": "W7202072333",
       "topic": "analysis",
       "badge": "最新研究",
       "read_minutes": 6,
-      "title": "Effect of cyclic-step quenching on the corrosion behavior of micro-alloyed steel in simulated sea water environment",
-      "journal": "Next Chemical Engineering",
+      "title": "Ultrasensitive electrochemical detection of oxybutynin hydrochloride using polyaniline modified sensor",
+      "journal": "Discover Electrochemistry.",
       "year": 2026,
-      "publication_date": "2026-08-12",
+      "publication_date": "2026-08-10",
       "summary_zh": "该研究聚焦电化学测试方法、反应机理或动力学分析。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
-      "abstract": "In this work, a novel heat treatment process known as cyclic-step quenching was implemented on micro-alloyed steel and its effects on corrosion resistance in simulated seawater were determined. Samples of micro-alloyed steel were prepared and categorized into five groups named control, CSQ_1, CSQ_2, CSQ_3 and SQ. CSQ_1 samples were heated in a muffle furnace to 900 °C and held at this temperature for 10 min before cooling to an intercritical temperature of 750 °C. Subsequently, the samples were quenched in vegetable oil. The procedure was conducted for CSQ_2 and CSQ_3 samples, for which it was repeated once and twice for CSQ_2 and CSQ_3 respectively. SQ samples were heated in furnace to 900 °C, held at this temperature for 10 min and quenched in vegetable oil. Samples from each category were subjected to Potentiodynamic Polarization (PDP) and Electrochemical Impedance Spectroscopy (EIS) tests in 3.5 wt% NaCl solution. Morphology and elemental composition of corroded samples in 3.5 wt% NaCl were assessed via Scanning Electron Microscopy/Energy Dispersive Spectroscopy (SEM/EDS). Results obtained from PDP showed decrease in corrosion rates with increased number of cyclic-step quench cycles from 1.12 mmpy for control sample to 0.86 mmpy for CSQ_3. Similarly, data obtained from EIS equivalent circuit fitting showed increased polarization resistances with increased number of cyclic-step quench cycles from 64.73 Ω cm 2 for control sample to 371.88 Ω cm 2 for CSQ_3. Corrosion products thinning, depression and pitting showed selective dissolution of corrosion product for CSQ_2, CSQ_3 and SQ. Increase corrosion resistance for heat-treated samples was due to decrease in cathode-to-anode ratio.",
-      "relevance_reason": "命中 electrochemical impedance spectroscopy、impedance spectroscopy、equivalent circuit，属于电化学方法/机理分析文献，可用于 CV、EIS、参比校准或动力学数据解释。",
+      "abstract": "Abstract Overactive Bladder (OAB) is a condition known by the symptoms like urgency and increased frequency of urination. About 17% of adults are affected in US alone. Oxybutynin hydrochloride (OBH) is used as vital antimuscarinic agent against this condition. The drug fights the pathogens that may be causing the condition and provides relief to the affected. In this study, a highly sensitive electrochemical sensor was developed based on a glassy carbon electrode (GCE) for the detection of OBH. A well know conducting polymer, polyaniline (PANI) was used as a modifier to enhance the detection limit (D L ) of the GCE for OBH. The morphological and elemental composition studies were carried out by using Scanning Electron Microscopy coupled with Energy Dispersive X-ray Spectroscopy (SEM-EDX) and X-ray Diffraction (XRD), which confirmed the successful synthesis of PANI. The modifier, other than being a great surface area enhancer, also acted as potent electrocatalytic framework that catalyzed the oxidation of OBH. The cyclic voltammetry (CV) studies under the potential range of 0.5–1.5 V at a pH of 7.4 and immersion time of 40 s, established that the electrochemical oxidation of OBH was irreversible and diffusion controlled. The studies also revealed that the mechanism involved a two electron and two proton involvement. Square-wave voltammetry (SWV) studies determined the sensitivity of the PANI/GCE in terms of detection limit which was 9.16 nM. The sensor also exhibited high recovery rate in pharmaceutical solutions and biological fluids, showing its potential in being a high precision tool for quality control and pharmacokinetic analysis.",
+      "relevance_reason": "命中 cyclic voltammetry、kinetic、mechanism，属于电化学方法/机理分析文献，可用于 CV、EIS、参比校准或动力学数据解释。",
       "tags": [
-        "electrochemical impedance spectroscopy",
-        "impedance spectroscopy",
-        "equivalent circuit"
+        "cyclic voltammetry",
+        "kinetic",
+        "mechanism"
       ],
-      "score": 80,
-      "url": "https://doi.org/10.1016/j.nxcen.2026.100094",
+      "score": 75,
+      "url": "https://doi.org/10.1007/s44373-026-00161-y",
       "archive": false,
       "impact_factor": null,
       "quartile": "Q —"
@@ -230,6 +230,29 @@
       "score": 99,
       "url": "https://doi.org/10.1039/d6cy00467a/v2/decision1",
       "archive": false,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
+    {
+      "id": "W7202285232",
+      "topic": "analysis",
+      "badge": "最新研究",
+      "read_minutes": 6,
+      "title": "Effect of cyclic-step quenching on the corrosion behavior of micro-alloyed steel in simulated sea water environment",
+      "journal": "Next Chemical Engineering",
+      "year": 2026,
+      "publication_date": "2026-08-12",
+      "summary_zh": "该研究聚焦电化学测试方法、反应机理或动力学分析。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
+      "abstract": "In this work, a novel heat treatment process known as cyclic-step quenching was implemented on micro-alloyed steel and its effects on corrosion resistance in simulated seawater were determined. Samples of micro-alloyed steel were prepared and categorized into five groups named control, CSQ_1, CSQ_2, CSQ_3 and SQ. CSQ_1 samples were heated in a muffle furnace to 900 °C and held at this temperature for 10 min before cooling to an intercritical temperature of 750 °C. Subsequently, the samples were quenched in vegetable oil. The procedure was conducted for CSQ_2 and CSQ_3 samples, for which it was repeated once and twice for CSQ_2 and CSQ_3 respectively. SQ samples were heated in furnace to 900 °C, held at this temperature for 10 min and quenched in vegetable oil. Samples from each category were subjected to Potentiodynamic Polarization (PDP) and Electrochemical Impedance Spectroscopy (EIS) tests in 3.5 wt% NaCl solution. Morphology and elemental composition of corroded samples in 3.5 wt% NaCl were assessed via Scanning Electron Microscopy/Energy Dispersive Spectroscopy (SEM/EDS). Results obtained from PDP showed decrease in corrosion rates with increased number of cyclic-step quench cycles from 1.12 mmpy for control sample to 0.86 mmpy for CSQ_3. Similarly, data obtained from EIS equivalent circuit fitting showed increased polarization resistances with increased number of cyclic-step quench cycles from 64.73 Ω cm 2 for control sample to 371.88 Ω cm 2 for CSQ_3. Corrosion products thinning, depression and pitting showed selective dissolution of corrosion product for CSQ_2, CSQ_3 and SQ. Increase corrosion resistance for heat-treated samples was due to decrease in cathode-to-anode ratio.",
+      "relevance_reason": "命中 electrochemical impedance spectroscopy、impedance spectroscopy、equivalent circuit，属于电化学方法/机理分析文献，可用于 CV、EIS、参比校准或动力学数据解释。",
+      "tags": [
+        "electrochemical impedance spectroscopy",
+        "impedance spectroscopy",
+        "equivalent circuit"
+      ],
+      "score": 80,
+      "url": "https://doi.org/10.1016/j.nxcen.2026.100094",
+      "archive": true,
       "impact_factor": null,
       "quartile": "Q —"
     },
@@ -344,28 +367,6 @@
       ],
       "score": 99,
       "url": "https://doi.org/10.1007/s11581-026-07391-5",
-      "archive": true,
-      "impact_factor": null,
-      "quartile": "Q —"
-    },
-    {
-      "id": "W7202072333",
-      "topic": "analysis",
-      "badge": "最新研究",
-      "read_minutes": 10,
-      "title": "Ultrasensitive electrochemical detection of oxybutynin hydrochloride using polyaniline modified sensor",
-      "journal": "Discover Electrochemistry.",
-      "year": 2026,
-      "summary_zh": "最新研究聚焦于 Ultrasensitive electrochemical detection of oxybutynin hydrochloride using polyaniline modified sensor。已抓取题目、期刊和摘要信息；如配置 OPENAI_API_KEY，可自动生成中文摘要与研究关联解读。",
-      "abstract": "Abstract Overactive Bladder (OAB) is a condition known by the symptoms like urgency and increased frequency of urination. About 17% of adults are affected in US alone. Oxybutynin hydrochloride (OBH) is used as vital antimuscarinic agent against this condition. The drug fights the pathogens that may be causing the condition and provides relief to the affected. In this study, a highly sensitive electrochemical sensor was developed based on a glassy carbon electrode (GCE) for the detection of OBH. A well know conducting polymer, polyaniline (PANI) was used as a modifier to enhance the detection limit (D L ) of the GCE for OBH. The morphological and elemental composition studies were carried out by using Scanning Electron Microscopy coupled with Energy Dispersive X-ray Spectroscopy (SEM-EDX) and X-ray Diffraction (XRD), which confirmed the successful synthesis of PANI. The modifier, other than being a great surface area enhancer, also acted as potent electrocatalytic framework that catalyzed the oxidation of OBH. The cyclic voltammetry (CV) studies under the potential range of 0.5–1.5 V at a pH of 7.4 and immersion time of 40 s, established that the electrochemical oxidation of OBH was irreversible and diffusion controlled. The studies also revealed that the mechanism involved a two electron and two proton involvement. Square-wave voltammetry (SWV) studies determined the sensitivity of the PANI/GCE in terms of detection limit which was 9.16 nM. The sensor also exhibited high recovery rate in pharmaceutical solutions and biological fluids, showing its potential in being a high precision tool for quality control and pharmacokinetic analysis.",
-      "relevance_reason": "该论文与当前主题关键词高度匹配，建议结合摘要与实验方法进一步判断是否纳入精读。",
-      "tags": [
-        "analysis",
-        "latest",
-        "screened"
-      ],
-      "score": 90,
-      "url": "https://doi.org/10.1007/s44373-026-00161-y",
       "archive": true,
       "impact_factor": null,
       "quartile": "Q —"
