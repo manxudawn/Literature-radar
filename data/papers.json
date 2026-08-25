@@ -1,7 +1,7 @@
 {
-  "brief_date": "2026 · 08 · 24",
-  "last_updated": "2026-08-24",
-  "match_score": 92,
+  "brief_date": "2026 · 08 · 25",
+  "last_updated": "2026-08-25",
+  "match_score": 98,
   "trackers": [
     {
       "name": "Ni electrocarboxylation",
@@ -21,6 +21,29 @@
     }
   ],
   "papers": [
+    {
+      "id": "W7203792896",
+      "topic": "organic",
+      "badge": "最新研究",
+      "read_minutes": 6,
+      "title": "Enhanced CO2 Activation and Ethylene Electrocarboxylation on Rare-Earth Doped Cu2S: Insights from Electronic and Geometric Modulation",
+      "journal": "Precision Chemistry",
+      "year": 2026,
+      "publication_date": "2026-08-19",
+      "summary_zh": "该研究围绕有机电化学 CO₂ 羧化/还原羧化展开。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
+      "abstract": "Abstract M@Cu2S electrocatalysts were theoretically designed by substituting a surface Cu atom on the Cu2S(111) facet with a rare-earth M atom. All M@Cu2S electrocatalysts exhibit favorable structural stability, with negative formation energies and binding energies. On M@Cu2S, the unique bridge-bonded adsorption configuration (both O atoms of *CO2 are bonded to M) enables effective activation of *CO2, with the hydrogenation step, rather than the C–C coupling step, identified as the potential-determining step (PDS) for ethylene electrocarboxylation. Notably, Eu@Cu2S and Yb@Cu2S exhibit limiting potentials (Ulimit) of 0.97 and 0.81 V versus the standard hydrogen electrode (SHE), respectively, which are lower than those of other M@Cu2S electrocatalysts, indicating their superior catalytic performance. Structure–activity relationship analysis reveals that, among all M@Cu2S electrocatalysts, rare-earth dopants M with higher third ionization energies and larger atomic radii deliver lower Ulimit and correspondingly superior electrocatalytic activity toward ethylene electrocarboxylation to succinic acid. This work confirms that rare-earth doping with optimized electronic and geometric characteristics enhances the catalytic performance of M@Cu2S for ethylene electrocarboxylation, laying a reliable theoretical foundation for developing efficient electrocatalysts for CO2 conversion and ethylene valorization.",
+      "relevance_reason": "命中 electrocarboxylation、carboxylation、co2，与有机电羧化、CO₂ 引入及 Ni/非水体系研究直接相关，优先检查底物、电极和反应条件。",
+      "tags": [
+        "electrocarboxylation",
+        "carboxylation",
+        "co2"
+      ],
+      "score": 99,
+      "url": "https://doi.org/10.1021/prechem.6c00086",
+      "archive": false,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
     {
       "id": "W7171634556",
       "topic": "gde",
@@ -46,6 +69,172 @@
       "quartile": "Q —"
     },
     {
+      "id": "W7204053370",
+      "topic": "analysis",
+      "badge": "最新研究",
+      "read_minutes": 6,
+      "title": "Electrochemical Charge–Discharge Behavior of a Binder‐Free 3D ‐Printed LCNO ‐Derived Multiphase La–Cu–Ni–O Ceramic Electrode",
+      "journal": "Journal of the Chinese Chemical Society",
+      "year": 2026,
+      "publication_date": "2026-08-23",
+      "summary_zh": "该研究聚焦电化学测试方法、反应机理或动力学分析。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
+      "abstract": "ABSTRACT In this study, the electrochemical charge–discharge behavior of a binder‐free, self‐supporting, porous three‐dimensional (3D) LCNO‐derived multiphase La–Cu–Ni–O ceramic electrode (LCNO‐MP) fabricated from a nominal La 2 CuNiO 6 precursor powder (LCNO) was investigated. The sintered electrode derived from this LCNO precursor powder is referred to as the LCNO‐derived multiphase La–Cu–Ni–O ceramic electrode, abbreviated as LCNO‐MP electrode. Structural and morphological analyses (XRD, FE‐SEM, FT‐IR, and BET) confirmed that sintering produced an interconnected porous electrode architecture while preserving a dominant LCNO‐related La–Cu–Ni–O mixed oxide phase accompanied by secondary lanthanum nickel oxide, lanthanum copper oxide, and metallic Ni phases. The electrochemical response of the LCNO‐MP electrode was evaluated in 1.0 M KOH electrolyte using electrochemical impedance spectroscopy (EIS), cathodic polarization, cyclic voltammetry (CV), and galvanostatic charge–discharge (GCD) analyses. EIS results indicated measurable but kinetically limited interfacial charge‐transfer behavior within the standalone porous ceramic electrode. CV analyses revealed faradaic redox features; however, the unusually low b value of 0.243 indicates a highly non‐ideal electrochemical response influenced by polarization, resistive limitations, possible side reactions, and peak‐selection uncertainty rather than a clear diffusion‐controlled hydrogen insertion/extraction mechanism. GCD measurements showed measurable Faradaic charge/discharge behavior; however, the large difference between charge and discharge capacities and the recoverable discharge capacity below 0.20 mAh g −1 indicate poor reversibility, likely due to parasitic hydrogen evolution, irreversible redox processes, polarization losses, and/or other side reactions. Overall, the 22‐cycle GCD test revealed a time‐dependent, non‐stabilized, and poorly reversible electrochemical response.",
+      "relevance_reason": "命中 cyclic voltammetry、kinetic、mechanism、electrochemical impedance spectroscopy，属于电化学方法/机理分析文献，可用于 CV、EIS、参比校准或动力学数据解释。",
+      "tags": [
+        "cyclic voltammetry",
+        "kinetic",
+        "mechanism",
+        "electrochemical impedance spectroscopy"
+      ],
+      "score": 99,
+      "url": "https://doi.org/10.1002/jccs.70269",
+      "archive": false,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
+    {
+      "id": "W7204037768",
+      "topic": "organic",
+      "badge": "最新研究",
+      "read_minutes": 8,
+      "title": "Promoting CO2 electrocarboxylation to C6+ dicarboxylic acids by tuning Co-Fe interactions",
+      "journal": "Science China Materials",
+      "year": 2026,
+      "publication_date": "2026-08-18",
+      "summary_zh": "该研究围绕有机电化学 CO₂ 羧化/还原羧化展开。 题目：Promoting CO2 electrocarboxylation to C6+ dicarboxylic acids by tuning Co-Fe interactions",
+      "abstract": "",
+      "relevance_reason": "命中 electrocarboxylation、carboxylation、co2，与有机电羧化、CO₂ 引入及 Ni/非水体系研究直接相关，优先检查底物、电极和反应条件。",
+      "tags": [
+        "electrocarboxylation",
+        "carboxylation",
+        "co2"
+      ],
+      "score": 99,
+      "url": "https://doi.org/10.1007/s40843-026-4278-0",
+      "archive": false,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
+    {
+      "id": "W7203616510",
+      "topic": "gde",
+      "badge": "最新研究",
+      "read_minutes": 6,
+      "title": "Scalable flame spray-derived bismuth catalysts enable efficient CO2 electrolysis revealed by FIB-SEM nano-tomography and ICP-MS EDX profiling",
+      "journal": "Cell Reports Physical Science",
+      "year": 2026,
+      "publication_date": "2026-08-17",
+      "summary_zh": "该研究聚焦 GDE、孔结构或 X-ray/Micro-CT 三维表征。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
+      "abstract": "CO 2 electrolysis is a promising route to convert CO 2 into value-added chemicals. Here, we use flame spray pyrolysis (FSP) as a rapid and scalable method to synthesize Bi 2 O 3 nanospheres and evaluate their formate production in a gas diffusion electrode flow electrolyzer. Under reaction conditions, Bi 2 O 3 converts in situ into bismuth subcarbonate, delivering >90% formate Faradaic efficiency across −0.6 to −1.6 V vs. reversible hydrogen electrode (RHE), reaching a formate partial current density of −700 mA.cm −2 at −1.8 V. This performance is nearly twice that of electrochemically deposited dendritic Bi 2 O 3 . To elucidate the origin of this high performance, a combined tomography approach based on focused ion beam-scanning electron microscopy (FIB-SEM) nano-tomography and inductively coupled plasma-mass spectrometry (ICP-MS) EDX cross-sectional profiling was introduced to track catalyst layer morphology and electrolyte-induced flooding. The FSP-derived catalyst forms a compact layer near the microporous layer, confining flooding to the catalyst microporous interface and improving operational stability. This work provides mechanistic insight and characterization guidelines for designing durable, high-performance electrodes for CO 2 electrolysis.",
+      "relevance_reason": "命中 gas diffusion electrode、tomography、flooding、catalyst layer，与 GDE 结构、润湿/淹没行为或 Micro-CT 三维表征相关，可用于结构—性能关联分析。",
+      "tags": [
+        "gas diffusion electrode",
+        "tomography",
+        "flooding",
+        "catalyst layer"
+      ],
+      "score": 99,
+      "url": "https://doi.org/10.1016/j.xcrp.2026.103500",
+      "archive": false,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
+    {
+      "id": "W7201959243",
+      "topic": "analysis",
+      "badge": "最新研究",
+      "read_minutes": 6,
+      "title": "Electrodeposited Cobalt Bis(pyridylimino)isoindolide Complex on Graphite: Synthesis, Characterization, and Electrocatalytic Activity Toward Hydrogen Evolution Reaction",
+      "journal": "Energy Technology",
+      "year": 2026,
+      "publication_date": "2026-08-01",
+      "summary_zh": "该研究聚焦电化学测试方法、反应机理或动力学分析。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
+      "abstract": "Electrodeposited cobalt bis(pyridylimino)isoindolide (BPI) complexes on graphite combine the favorable coordination chemistry of the BPI framework with the excellent electrical conductivity and surface properties of graphite. Their tunable ligand environment allows for precise control over the metal's electronic structure, enhancing proton reduction kinetics. Furthermore, strong π–π interactions between the pyrene substituents and the graphitic surface promote robust adhesion and an extended active interface, making these materials attractive candidates for durable, high‐performance electrocatalysts. In this work, we report the synthesis and full characterization of a novel pyrene‐substituted BPI ligand and its corresponding cobalt complex. These BPI derivatives were electrodeposited onto a graphite substrate by cyclic voltammetry, and the resulting modified electrodes were evaluated for their hydrogen evolution reaction (HER) performance. Morphological, structural, and spectroscopic analyses, including scanning electron microscopy (SEM), energy dispersive X‐ray (EDX) spectroscopy, X‐ray photoelectron spectroscopy (XPS), and X‐ray diffraction (XRD), provided detailed insight into the surface structure and composition of the electrodeposited films. Electrochemical impedance spectroscopy (EIS) highlighted the effective charge–transfer properties and double‐layer capacitance of the cobalt BPI coatings. A comparative analysis of the electrochemical data with the structural findings confirmed that the electrodeposited cobalt BPI complexes form uniform, conductive layers on graphite, exhibiting promising catalytic activity for hydrogen evolution.",
+      "relevance_reason": "命中 cyclic voltammetry、kinetic、electrochemical impedance spectroscopy、impedance spectroscopy，属于电化学方法/机理分析文献，可用于 CV、EIS、参比校准或动力学数据解释。",
+      "tags": [
+        "cyclic voltammetry",
+        "kinetic",
+        "electrochemical impedance spectroscopy",
+        "impedance spectroscopy"
+      ],
+      "score": 94,
+      "url": "https://doi.org/10.1002/ente.70581",
+      "archive": false,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
+    {
+      "id": "W7203762277",
+      "topic": "gde",
+      "badge": "最新研究",
+      "read_minutes": 6,
+      "title": "Hierarchical Interfacial Engineering of Gas Diffusion Electrodes for Acidic CO2 Electroreduction in Membrane Electrode Assemblies",
+      "journal": "Journal of the American Chemical Society",
+      "year": 2026,
+      "publication_date": "2026-08-19",
+      "summary_zh": "该研究聚焦 GDE、孔结构或 X-ray/Micro-CT 三维表征。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
+      "abstract": "Abstract Acidic CO2 electroreduction in membrane electrode assemblies suppresses parasitic carbonate formation and improves carbon utilization. Yet, practical implementations remain hindered by proton accumulation and alkali cation buildup that give rise to failure modes associated with hydrogen evolution, salt precipitation, and catalyst flooding. Here, we report a multiscale interfacial design for gas diffusion electrodes that addresses these challenges across multiple length scales. Our design employs a multilayer architecture in which a microscale hydrophobic porous silica overlayer sits below a nanoscale quaternary ammonium polyelectrolyte coating. The former regulates electrolyte intrusion via capillary pressure while the latter electrostatically restricts cation accumulation. Incorporation of a hydrophilic macromolecular component into the polyelectrolyte further induces complexation-driven charge densification while simultaneously establishing percolating water channels that enhance interfacial hydration and reduce cell voltage. Our design provides CO Faradaic efficiencies of 99% sustained over 162 h, with single-pass CO2 conversion efficiency of 77% at 200 mA cm–2, on a model Ag catalyst. Furthermore, we show that the design readily generalizes across catalyst platforms and translates to scale, delivering stable operation in a 25 cm2 electrolyzer with CO production rates of ∼62 mL min–1. Lastly, techno-economic analysis projects a pathway to cost-competitive CO production, highlighting hierarchical interfacial engineering as an effective strategy for acidic CO2 electrolysis at industrially relevant scales.",
+      "relevance_reason": "命中 gas diffusion electrode、flooding、co2 electrolysis、co2 electroly，与 GDE 结构、润湿/淹没行为或 Micro-CT 三维表征相关，可用于结构—性能关联分析。",
+      "tags": [
+        "gas diffusion electrode",
+        "flooding",
+        "co2 electrolysis",
+        "co2 electroly"
+      ],
+      "score": 99,
+      "url": "https://doi.org/10.1021/jacs.6c11052",
+      "archive": false,
+      "impact_factor": "15.6",
+      "quartile": "JCR Q1"
+    },
+    {
+      "id": "W7203889842",
+      "topic": "analysis",
+      "badge": "最新研究",
+      "read_minutes": 6,
+      "title": "Fine-tuning electrochemical properties of poly (3-aminophenylboronic acid) via optimization of electrodeposition",
+      "journal": "International Journal of Electrochemical Science",
+      "year": 2026,
+      "publication_date": "2026-08-01",
+      "summary_zh": "该研究聚焦电化学测试方法、反应机理或动力学分析。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
+      "abstract": "The electrochemical behaviour of electropolymerized poly (3-aminophenylboronic acid) [P(3-APBA)] is strongly dependent on the conditions under which it is formed. However, a systematic understanding of how electropolymerization parameters collectively govern the electrochemical properties of P(3-APBA) remains limited. In this work, the influence of electrolyte composition, supporting electrolyte concentration, fluoride concentration, monomer concentration, and electrodeposition parameters on the formation and electrochemical characteristics of P(3-APBA) films was systematically investigated. Polymer films were synthesized in hydrochloric acid (HCl), sulfuric acid (H 2 SO 4 ), and phosphate-buffered saline (PBS) using cyclic voltammetry under controlled potential windows, scan rates, and deposition cycles. The resulting materials were characterized using cyclic voltammetry (CV), differential pulse voltammetry (DPV), and electrochemical impedance spectroscopy (EIS), while ultraviolet-visible (UV-Vis) and Fourier Transform infrared (FTIR) spectroscopies confirmed polymer formation. The results show that electrolyte chemistry strongly influences polymer growth and electroactivity, with 0.5 M HCl producing films that exhibited the highest electroactive charge and the most defined redox transitions. In contrast, PBS-based systems showed significantly reduced electrochemical response, indicating suppressed charge transport and limited electroactive site accessibility. The monomer-to-fluoride ratio of 0.04:0.08 M was found to provide optimal balance between polymer formation and electrochemical performance, while a potential window of -0.1 to 1.0 V, an end potential of 0.5 V, and a scan rate of 20 mV/s promoted stable film growth. EIS analysis further revealed reduced charge-transfer resistance (Rct) under optimized conditions, consistent with enhanced electron-transfer kinetics within the polymer film. Collectively, these results demonstrate that electrolyte environment, fluoride-assisted activation, and deposition parameters act synergistically to govern the electrochemical properties of P(3-APBA), establishing a reproducible framework for controlled electropolymerization and electrochemical evaluation of this conducting polymer system.",
+      "relevance_reason": "命中 cyclic voltammetry、kinetic、electrochemical impedance spectroscopy、impedance spectroscopy，属于电化学方法/机理分析文献，可用于 CV、EIS、参比校准或动力学数据解释。",
+      "tags": [
+        "cyclic voltammetry",
+        "kinetic",
+        "electrochemical impedance spectroscopy",
+        "impedance spectroscopy"
+      ],
+      "score": 94,
+      "url": "https://doi.org/10.1016/j.ijoes.2026.101480",
+      "archive": false,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
+    {
+      "id": "W7201879557",
+      "topic": "gde",
+      "badge": "最新研究",
+      "read_minutes": 8,
+      "title": "Review for \"Insights into Aprotic CO2 Electrolysis using Stainless-Steel Gas Diffusion Electrodes in DMF and DMSO Electrolytes\"",
+      "journal": "Unknown journal",
+      "year": 2026,
+      "publication_date": "2026-08-05",
+      "summary_zh": "该研究聚焦 GDE、孔结构或 X-ray/Micro-CT 三维表征。 题目：Review for \"Insights into Aprotic CO2 Electrolysis using Stainless-Steel Gas Diffusion Electrodes in DMF and DMSO Electrolytes\"",
+      "abstract": "",
+      "relevance_reason": "命中 gas diffusion electrode、co2 electrolysis、co2 electroly，与 GDE 结构、润湿/淹没行为或 Micro-CT 三维表征相关，可用于结构—性能关联分析。",
+      "tags": [
+        "gas diffusion electrode",
+        "co2 electrolysis",
+        "co2 electroly"
+      ],
+      "score": 99,
+      "url": "https://doi.org/10.1039/d6cy00467a/v2/review1",
+      "archive": false,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
+    {
       "id": "W7197036446",
       "topic": "gde",
       "badge": "最新研究",
@@ -65,7 +254,7 @@
       ],
       "score": 99,
       "url": "https://doi.org/10.34734/fzj-2026-02773",
-      "archive": false,
+      "archive": true,
       "impact_factor": null,
       "quartile": "Q —"
     },
@@ -87,7 +276,7 @@
       ],
       "score": 92,
       "url": "https://doi.org/10.1149/1945-7111/ae8e05",
-      "archive": false,
+      "archive": true,
       "impact_factor": null,
       "quartile": "Q —"
     },
@@ -109,7 +298,7 @@
       ],
       "score": 78,
       "url": "https://doi.org/10.1093/gji/ggag287",
-      "archive": false,
+      "archive": true,
       "impact_factor": null,
       "quartile": "Q —"
     },
@@ -138,54 +327,6 @@
       "quartile": "JCR Q1"
     },
     {
-      "id": "W7201959243",
-      "topic": "analysis",
-      "badge": "最新研究",
-      "read_minutes": 6,
-      "title": "Electrodeposited Cobalt Bis(pyridylimino)isoindolide Complex on Graphite: Synthesis, Characterization, and Electrocatalytic Activity Toward Hydrogen Evolution Reaction",
-      "journal": "Energy Technology",
-      "year": 2026,
-      "publication_date": "2026-08-01",
-      "summary_zh": "该研究聚焦电化学测试方法、反应机理或动力学分析。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
-      "abstract": "Electrodeposited cobalt bis(pyridylimino)isoindolide (BPI) complexes on graphite combine the favorable coordination chemistry of the BPI framework with the excellent electrical conductivity and surface properties of graphite. Their tunable ligand environment allows for precise control over the metal's electronic structure, enhancing proton reduction kinetics. Furthermore, strong π–π interactions between the pyrene substituents and the graphitic surface promote robust adhesion and an extended active interface, making these materials attractive candidates for durable, high‐performance electrocatalysts. In this work, we report the synthesis and full characterization of a novel pyrene‐substituted BPI ligand and its corresponding cobalt complex. These BPI derivatives were electrodeposited onto a graphite substrate by cyclic voltammetry, and the resulting modified electrodes were evaluated for their hydrogen evolution reaction (HER) performance. Morphological, structural, and spectroscopic analyses, including scanning electron microscopy (SEM), energy dispersive X‐ray (EDX) spectroscopy, X‐ray photoelectron spectroscopy (XPS), and X‐ray diffraction (XRD), provided detailed insight into the surface structure and composition of the electrodeposited films. Electrochemical impedance spectroscopy (EIS) highlighted the effective charge–transfer properties and double‐layer capacitance of the cobalt BPI coatings. A comparative analysis of the electrochemical data with the structural findings confirmed that the electrodeposited cobalt BPI complexes form uniform, conductive layers on graphite, exhibiting promising catalytic activity for hydrogen evolution.",
-      "relevance_reason": "命中 cyclic voltammetry、kinetic、electrochemical impedance spectroscopy、impedance spectroscopy，属于电化学方法/机理分析文献，可用于 CV、EIS、参比校准或动力学数据解释。",
-      "tags": [
-        "cyclic voltammetry",
-        "kinetic",
-        "electrochemical impedance spectroscopy",
-        "impedance spectroscopy"
-      ],
-      "score": 94,
-      "url": "https://doi.org/10.1002/ente.70581",
-      "archive": true,
-      "impact_factor": null,
-      "quartile": "Q —"
-    },
-    {
-      "id": "W7203616510",
-      "topic": "gde",
-      "badge": "最新研究",
-      "read_minutes": 6,
-      "title": "Scalable flame spray-derived bismuth catalysts enable efficient CO2 electrolysis revealed by FIB-SEM nano-tomography and ICP-MS EDX profiling",
-      "journal": "Cell Reports Physical Science",
-      "year": 2026,
-      "publication_date": "2026-08-17",
-      "summary_zh": "该研究聚焦 GDE、孔结构或 X-ray/Micro-CT 三维表征。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
-      "abstract": "CO 2 electrolysis is a promising route to convert CO 2 into value-added chemicals. Here, we use flame spray pyrolysis (FSP) as a rapid and scalable method to synthesize Bi 2 O 3 nanospheres and evaluate their formate production in a gas diffusion electrode flow electrolyzer. Under reaction conditions, Bi 2 O 3 converts in situ into bismuth subcarbonate, delivering >90% formate Faradaic efficiency across −0.6 to −1.6 V vs. reversible hydrogen electrode (RHE), reaching a formate partial current density of −700 mA.cm −2 at −1.8 V. This performance is nearly twice that of electrochemically deposited dendritic Bi 2 O 3 . To elucidate the origin of this high performance, a combined tomography approach based on focused ion beam-scanning electron microscopy (FIB-SEM) nano-tomography and inductively coupled plasma-mass spectrometry (ICP-MS) EDX cross-sectional profiling was introduced to track catalyst layer morphology and electrolyte-induced flooding. The FSP-derived catalyst forms a compact layer near the microporous layer, confining flooding to the catalyst microporous interface and improving operational stability. This work provides mechanistic insight and characterization guidelines for designing durable, high-performance electrodes for CO 2 electrolysis.",
-      "relevance_reason": "命中 gas diffusion electrode、tomography、flooding、catalyst layer，与 GDE 结构、润湿/淹没行为或 Micro-CT 三维表征相关，可用于结构—性能关联分析。",
-      "tags": [
-        "gas diffusion electrode",
-        "tomography",
-        "flooding",
-        "catalyst layer"
-      ],
-      "score": 99,
-      "url": "https://doi.org/10.1016/j.xcrp.2026.103500",
-      "archive": true,
-      "impact_factor": null,
-      "quartile": "Q —"
-    },
-    {
       "id": "W7163272096",
       "topic": "analysis",
       "badge": "最新研究",
@@ -204,29 +345,6 @@
       ],
       "score": 80,
       "url": "https://doi.org/10.1007/s10791-026-10458-6",
-      "archive": true,
-      "impact_factor": null,
-      "quartile": "Q —"
-    },
-    {
-      "id": "W7201879557",
-      "topic": "gde",
-      "badge": "最新研究",
-      "read_minutes": 8,
-      "title": "Review for \"Insights into Aprotic CO2 Electrolysis using Stainless-Steel Gas Diffusion Electrodes in DMF and DMSO Electrolytes\"",
-      "journal": "Unknown journal",
-      "year": 2026,
-      "publication_date": "2026-08-05",
-      "summary_zh": "该研究聚焦 GDE、孔结构或 X-ray/Micro-CT 三维表征。 题目：Review for \"Insights into Aprotic CO2 Electrolysis using Stainless-Steel Gas Diffusion Electrodes in DMF and DMSO Electrolytes\"",
-      "abstract": "",
-      "relevance_reason": "命中 gas diffusion electrode、co2 electrolysis、co2 electroly，与 GDE 结构、润湿/淹没行为或 Micro-CT 三维表征相关，可用于结构—性能关联分析。",
-      "tags": [
-        "gas diffusion electrode",
-        "co2 electrolysis",
-        "co2 electroly"
-      ],
-      "score": 99,
-      "url": "https://doi.org/10.1039/d6cy00467a/v2/review1",
       "archive": true,
       "impact_factor": null,
       "quartile": "Q —"
