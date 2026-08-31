@@ -1,7 +1,7 @@
 {
-  "brief_date": "2026 · 08 · 28",
-  "last_updated": "2026-08-28",
-  "match_score": 97,
+  "brief_date": "2026 · 08 · 31",
+  "last_updated": "2026-08-31",
+  "match_score": 96,
   "trackers": [
     {
       "name": "Ni electrocarboxylation",
@@ -195,7 +195,7 @@
       "title": "Effects of cell design and operating parameters on oscillatory instability in an anion-exchange membrane CO2 electrolyzer",
       "journal": "Chemical Engineering Journal",
       "year": 2026,
-      "publication_date": "2026-08-01",
+      "publication_date": "2026-08-22",
       "summary_zh": "该研究聚焦 GDE、孔结构或 X-ray/Micro-CT 三维表征。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
       "abstract": "Periodic oscillations in cell voltage and CO2 reduction product selectivity are commonly observed in laboratory studies using membrane electrode assembly (MEA) CO2 electrolyzers with anion-exchange membranes (AEM). These oscillations hinder mechanistic studies and progress toward industrial deployment of CO2 electrolyzers. To understand how to mitigate these oscillations in laboratory experiments, we investigated the effects of three electrolyzer design parameters on system stability: (i) membrane type and thickness, (ii) gas diffusion layer (GDL) properties, and (iii) cell compression, characterized as a normalized thickness difference (NTD) between the GDL and gasket and assembly torque. In our system, we found pairing a higher ionic conductivity AEM with a GDL with a cracked microporous layer (MPL) at a medium cell compression (NTD: 40%, torque: 2 Nm), led to the most stable CO2 to CO electrolysis with pseudo-steady-state CO Faradaic efficiency of around 85% achieved at 100 mA cm–2 for over 50 h. In contrast, lower conductivity AEMs showed earlier and more frequent oscillations related to water flooding, enhanced K+ crossover, and eventual short-circuiting. A lower compression assembly (NTD: 0%, torque: 2 Nm) exhibited a higher initial CO selectivity (>95% for 50 h) but developed more frequent oscillations associated with salt accumulation in the cathode flow channel. Our hypotheses are further supported by tests of an ”over-compressed” cell (NTD: 40%, torque: 4 Nm), which exhibited poor water drainage, rapid salt accumulation in the cathode gas channel, and an increased risk of electrode short-circuiting. These observations lead to practical AEM electrolyzer design rules: pairing high-conductive AEMs with crack-rich MPLs and optimizing cell compression to balance membrane-electrode interfacial contact and water drainage to maintain selective and stable CO2 electrolysis.",
       "relevance_reason": "命中 gas diffusion layer、gdl、flooding、co2 electrolysis，与 GDE 结构、润湿/淹没行为或 Micro-CT 三维表征相关，可用于结构—性能关联分析。",
@@ -207,6 +207,29 @@
       ],
       "score": 99,
       "url": "https://doi.org/10.1016/j.cej.2026.180975",
+      "archive": false,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
+    {
+      "id": "W7203831750",
+      "topic": "analysis",
+      "badge": "最新研究",
+      "read_minutes": 6,
+      "title": "Design, Synthesis, and Characterization of Multidentate Ligand Metal Complexes and their Evaluation as Corrosion Inhibitors in Acidic Media",
+      "journal": "journal of the college of basic education",
+      "year": 2026,
+      "publication_date": "2026-08-20",
+      "summary_zh": "该研究聚焦电化学测试方法、反应机理或动力学分析。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
+      "abstract": "This study systematically investigates the design, preparation, and activity of new bidentate, tridentate, and tetra dentate Schiff base ligands and their transition metal complexes as new advanced severe corrosion inhibiters for mild steel in acid media. We report the synthesis of three tetra dentate N₂O₂-donor Schiff base ligand containing various aromatic substituents (–OCH₃, –Cl, –H) by condensation reaction and their coordination to Cu(II), Ni(II) and Zn(II) ion to form neutral square-planar or octahedral complexes. Elemental analysis, FT-IR, UV-Vis spectroscopy, magnetic susceptibility, molar conductivity and thermogravimetric analysis were employed for the complete characterization of the compounds. The corrosion inhibition performance was evaluated using several methodsloss, potentiodynamic polarization (PDP) and electrochemical impedance spectroscopy (EIS) in 1M HCl.) Among them, the Cu(II) complex of the methoxy-substituted ligand (Cu–L₂) showed the most remarkable inhibition efficiency (94.7% at 5 mm, 25°C) and exhibited a mixed-type inhibition on both anodic and cathodic reaction. Adsorption fit to Langmuir isotherm model, with Gibbs free energy values (ΔGads ≈ −38.6 kJ/mol) indicating spontaneous, mixed physisorption and chemisorption process. DFT calculations confirmed that electron-donating moieties more favorably add electron density at donor atoms (N, O), thus decreasing the energy gap and promoting charge transfer to the metal surface. A complete inhibition mechanism is proposed wherein adsorption of the planar complex onto the steel surface takes place in a flat-lying manner providing a barrier against corrosive ions. A comparative analysis shows that the synthesized inhibitors are superior to or at least comparable to many of the newly published systems in terms of efficiency, thermal stability, and environmental friendliness. Our work defines a distinct structure–activity relationship as well as a promising avenue based on rational molecular design of multidentate ligand–metal complexes toward sustainable, high-efficiency anticorrosion solutions in industrial acid treatments.",
+      "relevance_reason": "命中 mechanism、electrochemical impedance spectroscopy、impedance spectroscopy，属于电化学方法/机理分析文献，可用于 CV、EIS、参比校准或动力学数据解释。",
+      "tags": [
+        "mechanism",
+        "electrochemical impedance spectroscopy",
+        "impedance spectroscopy"
+      ],
+      "score": 78,
+      "url": "https://doi.org/10.35950/cbej.v32i137.15674",
       "archive": false,
       "impact_factor": null,
       "quartile": "Q —"
@@ -231,7 +254,7 @@
       ],
       "score": 87,
       "url": "https://doi.org/10.1016/j.jpowsour.2026.241307",
-      "archive": false,
+      "archive": true,
       "impact_factor": null,
       "quartile": "Q —"
     },
