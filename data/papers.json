@@ -1,6 +1,6 @@
 {
-  "brief_date": "2026 · 09 · 01",
-  "last_updated": "2026-09-01",
+  "brief_date": "2026 · 09 · 02",
+  "last_updated": "2026-09-02",
   "match_score": 96,
   "trackers": [
     {
@@ -188,6 +188,53 @@
       "quartile": "Q —"
     },
     {
+      "id": "W7204838958",
+      "topic": "gde",
+      "badge": "最新研究",
+      "read_minutes": 6,
+      "title": "Managing Alkaline CO2 Electrolyzer Flooding using a Grooved Cathode Gas Diffusion Electrode",
+      "journal": "ACS Applied Energy Materials",
+      "year": 2026,
+      "publication_date": "2026-08-25",
+      "summary_zh": "该研究聚焦 GDE、孔结构或 X-ray/Micro-CT 三维表征。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
+      "abstract": "Abstract Electrochemical reduction of CO2 to CO is a promising approach for curtailing CO2 emissions. However, anolyte flooding of the cathode gas diffusion electrode (GDE) lowers CO Faradaic efficiencies (FEs), specifically at high current densities, presenting a barrier to scale-up. In this work, we present a grooved cathode GDE in an alkaline CO2 electrolyzer that purposely drains anolyte via through-plane holes at the electrode edges, mitigating the flooding-induced shift from CO2 reduction to the hydrogen evolution reaction. Under wet CO2 at 250 mA/cm2 for 6 h, the grooved GDE limited the CO FE decline to 18.1%, compared with 38.4% for the regular GDE. Under the same current density and duration in dry CO2, where salt precipitation becomes more severe, grooves reduced salt-induced mass transport resistance in the cathode (0.62 Ω·cm2 versus 1.3 Ω·cm2) and limited CO FE decline to 29.8%, compared with 35.5% for the regular GDE. Pore network modeling showed lower average anolyte saturation in the grooved microporous layer (MPL, 61%) compared to the nongrooved MPL (82%) and indicated preferential anolyte flow through the grooves and through-plane holes, consistent with the observed performance gains.",
+      "relevance_reason": "命中 gas diffusion electrode、gde、flooding、co2 electroly，与 GDE 结构、润湿/淹没行为或 Micro-CT 三维表征相关，可用于结构—性能关联分析。",
+      "tags": [
+        "gas diffusion electrode",
+        "gde",
+        "flooding",
+        "co2 electroly"
+      ],
+      "score": 99,
+      "url": "https://doi.org/10.1021/acsaem.6c01086",
+      "archive": false,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
+    {
+      "id": "W7204788644",
+      "topic": "analysis",
+      "badge": "最新研究",
+      "read_minutes": 6,
+      "title": "Enhanced Tribological and Thermal Performance of Gray Cast Iron via Electroless Ni–P Coating: Microstructural, Mechanical, and Electrochemical Insights",
+      "journal": "Jordan Journal of Mechanical and Industrial Engineering",
+      "year": 2026,
+      "publication_date": "2026-08-31",
+      "summary_zh": "该研究聚焦电化学测试方法、反应机理或动力学分析。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
+      "abstract": "Gray cast iron (GCI) is widely used in automotive and industrial applications due to its good castability and cost efficiency; it is, however, limited by inferior wear resistance, high frictional losses, and susceptibility to corrosion when under severe service conditions.A detailed study was undertaken to improve the functional performance of GCI by plating a highphosphorus electroless nickel-phosphorus (Ni-P) layer.An even Ni-P film of 12 wt.% phosphorus was chemically deposited using an autocatalytic electroless method followed by a heat treatment at 400 °C to induce partial crystallization.The microstructure and phase evolution of coatings were systematically characterized by SEM, EDS mapping and XRD; it was demonstrated that the coating was a mainly amorphous matrix consisting of nanocrystalline Ni₃P precipitates.Surface hardness of the coated surface was found to increased significantly from 290 HV of uncoated sample to a maximum value of 961 HV, which is corresponding to an improvement by a factor of about 231%.The thermal expansion analysis showed improved dimensional stability with a CTE value which was reduced from 0.25 × 10⁻⁶ to 0.19 × 10⁻⁶ °C⁻¹.Electrochemical performance was performed by potentiodynamic polarization and electrochemical impedance spectroscopy (EIS) in 3.5 wt.% NaCl solution.The corrosion potential for the Ni-P coating was positively shifted, with higher polarization resistance and decreasing impedance response since pulsing compared to GCI directly, which demonstrates better barrier protection and charge transfer kinetics are prohibited.Tribological evaluation in dry sliding also revealed a significant drop in friction coefficient, from around 0.65 to 0.07-0.10,as well as mild wear and intact state of the coating.",
+      "relevance_reason": "命中 kinetic、electrochemical impedance spectroscopy、impedance spectroscopy，属于电化学方法/机理分析文献，可用于 CV、EIS、参比校准或动力学数据解释。",
+      "tags": [
+        "kinetic",
+        "electrochemical impedance spectroscopy",
+        "impedance spectroscopy"
+      ],
+      "score": 78,
+      "url": "https://doi.org/10.59038/jjmie/200304",
+      "archive": false,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
+    {
       "id": "W7161008332",
       "topic": "gde",
       "badge": "最新研究",
@@ -207,7 +254,7 @@
       ],
       "score": 99,
       "url": "https://doi.org/10.1016/j.cej.2026.180975",
-      "archive": false,
+      "archive": true,
       "impact_factor": null,
       "quartile": "Q —"
     },
@@ -230,7 +277,7 @@
       ],
       "score": 78,
       "url": "https://doi.org/10.35950/cbej.v32i137.15674",
-      "archive": false,
+      "archive": true,
       "impact_factor": null,
       "quartile": "Q —"
     },
