@@ -1,6 +1,6 @@
 {
-  "brief_date": "2026 · 09 · 02",
-  "last_updated": "2026-09-02",
+  "brief_date": "2026 · 09 · 03",
+  "last_updated": "2026-09-03",
   "match_score": 96,
   "trackers": [
     {
@@ -46,25 +46,25 @@
       "quartile": "Q —"
     },
     {
-      "id": "W7171634556",
+      "id": "W7203616510",
       "topic": "gde",
       "badge": "最新研究",
       "read_minutes": 6,
-      "title": "Quantifying Heterogeneities at the Mesoscale via Tomography-Based Pore-Scale CO2 Electroreduction Modeling",
-      "journal": "ChemRxiv",
+      "title": "Scalable flame spray-derived bismuth catalysts enable efficient CO2 electrolysis revealed by FIB-SEM nano-tomography and ICP-MS EDX profiling",
+      "journal": "Cell Reports Physical Science",
       "year": 2026,
-      "publication_date": "2026-07-29",
+      "publication_date": "2026-08-17",
       "summary_zh": "该研究聚焦 GDE、孔结构或 X-ray/Micro-CT 三维表征。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
-      "abstract": "Electrochemical CO 2 reduction (eCO2R) in gas diffusion electrodes (GDEs) is strongly governed by the complex interplay between catalyst-layer (CL) mesostructure, devicelevel wetting conditions, and local electrochemical environments. Here, a tomographybased multiphysics modeling framework is developed for a Ag CL in a GDE. The threedimensional CL morphology is reconstructed, while two cross-sectional images (>10 µm wide and 4 µm thick) enable simultaneous segmentation of the CL and microporous layer (MPL). Morphology and transport properties are extracted. Subsequently, the crosssections are considered as as pore-scale domains in a modified Poisson-Nernst-Planck model, coupled with homogenized descriptions of the unresolved section of the MPL and the carbon fiber layer support. We show that device flooding affects GDE performances nonlinearly, and CO 2 solubility at the gas-liquid interface is affected due to variations in ionic strength at the interface. Direct comparison between the two cross-sections reveals differences in CO current density arising directly from local morphological differences. The pore-resolved simulations show spatial variations in CO 2 availability, pH, and local current densities that are not captured by conventional volume-averaged descriptions. Finally, we quantify the effect of including different permittivity formulations on local and device-level conditions. Results highlight the importance of understanding the variability of pore-scale conditions to understand and optimize performances of devices for eCO2R.",
-      "relevance_reason": "命中 gas diffusion electrode、gde、tomography、segmentation，与 GDE 结构、润湿/淹没行为或 Micro-CT 三维表征相关，可用于结构—性能关联分析。",
+      "abstract": "CO 2 electrolysis is a promising route to convert CO 2 into value-added chemicals. Here, we use flame spray pyrolysis (FSP) as a rapid and scalable method to synthesize Bi 2 O 3 nanospheres and evaluate their formate production in a gas diffusion electrode flow electrolyzer. Under reaction conditions, Bi 2 O 3 converts in situ into bismuth subcarbonate, delivering >90% formate Faradaic efficiency across −0.6 to −1.6 V vs. reversible hydrogen electrode (RHE), reaching a formate partial current density of −700 mA.cm −2 at −1.8 V. This performance is nearly twice that of electrochemically deposited dendritic Bi 2 O 3 . To elucidate the origin of this high performance, a combined tomography approach based on focused ion beam-scanning electron microscopy (FIB-SEM) nano-tomography and inductively coupled plasma-mass spectrometry (ICP-MS) EDX cross-sectional profiling was introduced to track catalyst layer morphology and electrolyte-induced flooding. The FSP-derived catalyst forms a compact layer near the microporous layer, confining flooding to the catalyst microporous interface and improving operational stability. This work provides mechanistic insight and characterization guidelines for designing durable, high-performance electrodes for CO 2 electrolysis.",
+      "relevance_reason": "命中 gas diffusion electrode、tomography、flooding、catalyst layer，与 GDE 结构、润湿/淹没行为或 Micro-CT 三维表征相关，可用于结构—性能关联分析。",
       "tags": [
         "gas diffusion electrode",
-        "gde",
         "tomography",
-        "segmentation"
+        "flooding",
+        "catalyst layer"
       ],
       "score": 99,
-      "url": "https://doi.org/10.26434/chemrxiv.15006707/v1",
+      "url": "https://doi.org/10.1016/j.xcrp.2026.103500",
       "archive": false,
       "impact_factor": null,
       "quartile": "Q —"
@@ -117,25 +117,25 @@
       "quartile": "Q —"
     },
     {
-      "id": "W7203616510",
+      "id": "W7204838958",
       "topic": "gde",
       "badge": "最新研究",
       "read_minutes": 6,
-      "title": "Scalable flame spray-derived bismuth catalysts enable efficient CO2 electrolysis revealed by FIB-SEM nano-tomography and ICP-MS EDX profiling",
-      "journal": "Cell Reports Physical Science",
+      "title": "Managing Alkaline CO2 Electrolyzer Flooding using a Grooved Cathode Gas Diffusion Electrode",
+      "journal": "ACS Applied Energy Materials",
       "year": 2026,
-      "publication_date": "2026-08-17",
+      "publication_date": "2026-08-25",
       "summary_zh": "该研究聚焦 GDE、孔结构或 X-ray/Micro-CT 三维表征。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
-      "abstract": "CO 2 electrolysis is a promising route to convert CO 2 into value-added chemicals. Here, we use flame spray pyrolysis (FSP) as a rapid and scalable method to synthesize Bi 2 O 3 nanospheres and evaluate their formate production in a gas diffusion electrode flow electrolyzer. Under reaction conditions, Bi 2 O 3 converts in situ into bismuth subcarbonate, delivering >90% formate Faradaic efficiency across −0.6 to −1.6 V vs. reversible hydrogen electrode (RHE), reaching a formate partial current density of −700 mA.cm −2 at −1.8 V. This performance is nearly twice that of electrochemically deposited dendritic Bi 2 O 3 . To elucidate the origin of this high performance, a combined tomography approach based on focused ion beam-scanning electron microscopy (FIB-SEM) nano-tomography and inductively coupled plasma-mass spectrometry (ICP-MS) EDX cross-sectional profiling was introduced to track catalyst layer morphology and electrolyte-induced flooding. The FSP-derived catalyst forms a compact layer near the microporous layer, confining flooding to the catalyst microporous interface and improving operational stability. This work provides mechanistic insight and characterization guidelines for designing durable, high-performance electrodes for CO 2 electrolysis.",
-      "relevance_reason": "命中 gas diffusion electrode、tomography、flooding、catalyst layer，与 GDE 结构、润湿/淹没行为或 Micro-CT 三维表征相关，可用于结构—性能关联分析。",
+      "abstract": "Abstract Electrochemical reduction of CO2 to CO is a promising approach for curtailing CO2 emissions. However, anolyte flooding of the cathode gas diffusion electrode (GDE) lowers CO Faradaic efficiencies (FEs), specifically at high current densities, presenting a barrier to scale-up. In this work, we present a grooved cathode GDE in an alkaline CO2 electrolyzer that purposely drains anolyte via through-plane holes at the electrode edges, mitigating the flooding-induced shift from CO2 reduction to the hydrogen evolution reaction. Under wet CO2 at 250 mA/cm2 for 6 h, the grooved GDE limited the CO FE decline to 18.1%, compared with 38.4% for the regular GDE. Under the same current density and duration in dry CO2, where salt precipitation becomes more severe, grooves reduced salt-induced mass transport resistance in the cathode (0.62 Ω·cm2 versus 1.3 Ω·cm2) and limited CO FE decline to 29.8%, compared with 35.5% for the regular GDE. Pore network modeling showed lower average anolyte saturation in the grooved microporous layer (MPL, 61%) compared to the nongrooved MPL (82%) and indicated preferential anolyte flow through the grooves and through-plane holes, consistent with the observed performance gains.",
+      "relevance_reason": "命中 gas diffusion electrode、gde、flooding、co2 electroly，与 GDE 结构、润湿/淹没行为或 Micro-CT 三维表征相关，可用于结构—性能关联分析。",
       "tags": [
         "gas diffusion electrode",
-        "tomography",
+        "gde",
         "flooding",
-        "catalyst layer"
+        "co2 electroly"
       ],
       "score": 99,
-      "url": "https://doi.org/10.1016/j.xcrp.2026.103500",
+      "url": "https://doi.org/10.1021/acsaem.6c01086",
       "archive": false,
       "impact_factor": null,
       "quartile": "Q —"
@@ -188,26 +188,73 @@
       "quartile": "Q —"
     },
     {
-      "id": "W7204838958",
+      "id": "W7161008332",
       "topic": "gde",
       "badge": "最新研究",
       "read_minutes": 6,
-      "title": "Managing Alkaline CO2 Electrolyzer Flooding using a Grooved Cathode Gas Diffusion Electrode",
-      "journal": "ACS Applied Energy Materials",
+      "title": "Effects of cell design and operating parameters on oscillatory instability in an anion-exchange membrane CO2 electrolyzer",
+      "journal": "Chemical Engineering Journal",
       "year": 2026,
-      "publication_date": "2026-08-25",
+      "publication_date": "2026-08-22",
       "summary_zh": "该研究聚焦 GDE、孔结构或 X-ray/Micro-CT 三维表征。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
-      "abstract": "Abstract Electrochemical reduction of CO2 to CO is a promising approach for curtailing CO2 emissions. However, anolyte flooding of the cathode gas diffusion electrode (GDE) lowers CO Faradaic efficiencies (FEs), specifically at high current densities, presenting a barrier to scale-up. In this work, we present a grooved cathode GDE in an alkaline CO2 electrolyzer that purposely drains anolyte via through-plane holes at the electrode edges, mitigating the flooding-induced shift from CO2 reduction to the hydrogen evolution reaction. Under wet CO2 at 250 mA/cm2 for 6 h, the grooved GDE limited the CO FE decline to 18.1%, compared with 38.4% for the regular GDE. Under the same current density and duration in dry CO2, where salt precipitation becomes more severe, grooves reduced salt-induced mass transport resistance in the cathode (0.62 Ω·cm2 versus 1.3 Ω·cm2) and limited CO FE decline to 29.8%, compared with 35.5% for the regular GDE. Pore network modeling showed lower average anolyte saturation in the grooved microporous layer (MPL, 61%) compared to the nongrooved MPL (82%) and indicated preferential anolyte flow through the grooves and through-plane holes, consistent with the observed performance gains.",
-      "relevance_reason": "命中 gas diffusion electrode、gde、flooding、co2 electroly，与 GDE 结构、润湿/淹没行为或 Micro-CT 三维表征相关，可用于结构—性能关联分析。",
+      "abstract": "Periodic oscillations in cell voltage and CO2 reduction product selectivity are commonly observed in laboratory studies using membrane electrode assembly (MEA) CO2 electrolyzers with anion-exchange membranes (AEM). These oscillations hinder mechanistic studies and progress toward industrial deployment of CO2 electrolyzers. To understand how to mitigate these oscillations in laboratory experiments, we investigated the effects of three electrolyzer design parameters on system stability: (i) membrane type and thickness, (ii) gas diffusion layer (GDL) properties, and (iii) cell compression, characterized as a normalized thickness difference (NTD) between the GDL and gasket and assembly torque. In our system, we found pairing a higher ionic conductivity AEM with a GDL with a cracked microporous layer (MPL) at a medium cell compression (NTD: 40%, torque: 2 Nm), led to the most stable CO2 to CO electrolysis with pseudo-steady-state CO Faradaic efficiency of around 85% achieved at 100 mA cm–2 for over 50 h. In contrast, lower conductivity AEMs showed earlier and more frequent oscillations related to water flooding, enhanced K+ crossover, and eventual short-circuiting. A lower compression assembly (NTD: 0%, torque: 2 Nm) exhibited a higher initial CO selectivity (>95% for 50 h) but developed more frequent oscillations associated with salt accumulation in the cathode flow channel. Our hypotheses are further supported by tests of an ”over-compressed” cell (NTD: 40%, torque: 4 Nm), which exhibited poor water drainage, rapid salt accumulation in the cathode gas channel, and an increased risk of electrode short-circuiting. These observations lead to practical AEM electrolyzer design rules: pairing high-conductive AEMs with crack-rich MPLs and optimizing cell compression to balance membrane-electrode interfacial contact and water drainage to maintain selective and stable CO2 electrolysis.",
+      "relevance_reason": "命中 gas diffusion layer、gdl、flooding、co2 electrolysis，与 GDE 结构、润湿/淹没行为或 Micro-CT 三维表征相关，可用于结构—性能关联分析。",
+      "tags": [
+        "gas diffusion layer",
+        "gdl",
+        "flooding",
+        "co2 electrolysis"
+      ],
+      "score": 99,
+      "url": "https://doi.org/10.1016/j.cej.2026.180975",
+      "archive": false,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
+    {
+      "id": "W7204926064",
+      "topic": "analysis",
+      "badge": "最新研究",
+      "read_minutes": 6,
+      "title": "Performance of Hemp‐Derived Interconnected Carbon Nanosheets on Counter Electrode in Dye‐Sensitized Solar Cells",
+      "journal": "physica status solidi (a)",
+      "year": 2026,
+      "publication_date": "2026-09-01",
+      "summary_zh": "该研究聚焦电化学测试方法、反应机理或动力学分析。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
+      "abstract": "Biomass‐derived carbon nanomaterials have emerged as sustainable alternatives to platinum‐based counter electrodes for dye‐sensitized solar cells (DSSCs). In the present study, interconnected carbon nanosheets (ICNS) were synthesized from hemp bast fibers through hydrothermal carbonization followed by KOH activation and investigated as counter‐electrode materials for DSSCs. Morphological and structural characterization revealed a highly porous interconnected nanosheet architecture containing partially graphitized carbon domains and abundant defect sites. Raman and X‐ray diffraction analyses confirmed the coexistence of graphitic and disordered carbon structures, providing a favorable combination of electrical conductivity and electrocatalytic activity. Electrochemical studies demonstrated that the ICNS electrodes were catalytically active toward the I 3 − /I − redox couple, although their charge‐transfer resistance remained high. To improve interfacial charge‐transfer kinetics, Pt–ICNS hybrid electrodes containing different platinum loadings were fabricated. Electrochemical impedance spectroscopy revealed a progressive decrease in charge‐transfer resistance from 7.704 Ω cm 2 for pure ICNS to 2.75 Ω cm 2 for the 18 wt.% Pt–ICNS electrode. Consequently, the power conversion efficiency increased from 4.01% to 6.56%, approaching the performance of the reference Pt/FTO electrode (7.18%). The enhanced performance is attributed to the synergistic interaction between the conductive porous carbon framework and catalytically active platinum sites.",
+      "relevance_reason": "命中 kinetic、electrochemical impedance spectroscopy、impedance spectroscopy，属于电化学方法/机理分析文献，可用于 CV、EIS、参比校准或动力学数据解释。",
+      "tags": [
+        "kinetic",
+        "electrochemical impedance spectroscopy",
+        "impedance spectroscopy"
+      ],
+      "score": 78,
+      "url": "https://doi.org/10.1002/pssa.70513",
+      "archive": false,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
+    {
+      "id": "W7171634556",
+      "topic": "gde",
+      "badge": "最新研究",
+      "read_minutes": 6,
+      "title": "Quantifying Heterogeneities at the Mesoscale via Tomography-Based Pore-Scale CO2 Electroreduction Modeling",
+      "journal": "ChemRxiv",
+      "year": 2026,
+      "publication_date": "2026-07-29",
+      "summary_zh": "该研究聚焦 GDE、孔结构或 X-ray/Micro-CT 三维表征。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
+      "abstract": "Electrochemical CO 2 reduction (eCO2R) in gas diffusion electrodes (GDEs) is strongly governed by the complex interplay between catalyst-layer (CL) mesostructure, devicelevel wetting conditions, and local electrochemical environments. Here, a tomographybased multiphysics modeling framework is developed for a Ag CL in a GDE. The threedimensional CL morphology is reconstructed, while two cross-sectional images (>10 µm wide and 4 µm thick) enable simultaneous segmentation of the CL and microporous layer (MPL). Morphology and transport properties are extracted. Subsequently, the crosssections are considered as as pore-scale domains in a modified Poisson-Nernst-Planck model, coupled with homogenized descriptions of the unresolved section of the MPL and the carbon fiber layer support. We show that device flooding affects GDE performances nonlinearly, and CO 2 solubility at the gas-liquid interface is affected due to variations in ionic strength at the interface. Direct comparison between the two cross-sections reveals differences in CO current density arising directly from local morphological differences. The pore-resolved simulations show spatial variations in CO 2 availability, pH, and local current densities that are not captured by conventional volume-averaged descriptions. Finally, we quantify the effect of including different permittivity formulations on local and device-level conditions. Results highlight the importance of understanding the variability of pore-scale conditions to understand and optimize performances of devices for eCO2R.",
+      "relevance_reason": "命中 gas diffusion electrode、gde、tomography、segmentation，与 GDE 结构、润湿/淹没行为或 Micro-CT 三维表征相关，可用于结构—性能关联分析。",
       "tags": [
         "gas diffusion electrode",
         "gde",
-        "flooding",
-        "co2 electroly"
+        "tomography",
+        "segmentation"
       ],
       "score": 99,
-      "url": "https://doi.org/10.1021/acsaem.6c01086",
-      "archive": false,
+      "url": "https://doi.org/10.26434/chemrxiv.15006707/v1",
+      "archive": true,
       "impact_factor": null,
       "quartile": "Q —"
     },
@@ -230,30 +277,6 @@
       ],
       "score": 78,
       "url": "https://doi.org/10.59038/jjmie/200304",
-      "archive": false,
-      "impact_factor": null,
-      "quartile": "Q —"
-    },
-    {
-      "id": "W7161008332",
-      "topic": "gde",
-      "badge": "最新研究",
-      "read_minutes": 6,
-      "title": "Effects of cell design and operating parameters on oscillatory instability in an anion-exchange membrane CO2 electrolyzer",
-      "journal": "Chemical Engineering Journal",
-      "year": 2026,
-      "publication_date": "2026-08-22",
-      "summary_zh": "该研究聚焦 GDE、孔结构或 X-ray/Micro-CT 三维表征。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
-      "abstract": "Periodic oscillations in cell voltage and CO2 reduction product selectivity are commonly observed in laboratory studies using membrane electrode assembly (MEA) CO2 electrolyzers with anion-exchange membranes (AEM). These oscillations hinder mechanistic studies and progress toward industrial deployment of CO2 electrolyzers. To understand how to mitigate these oscillations in laboratory experiments, we investigated the effects of three electrolyzer design parameters on system stability: (i) membrane type and thickness, (ii) gas diffusion layer (GDL) properties, and (iii) cell compression, characterized as a normalized thickness difference (NTD) between the GDL and gasket and assembly torque. In our system, we found pairing a higher ionic conductivity AEM with a GDL with a cracked microporous layer (MPL) at a medium cell compression (NTD: 40%, torque: 2 Nm), led to the most stable CO2 to CO electrolysis with pseudo-steady-state CO Faradaic efficiency of around 85% achieved at 100 mA cm–2 for over 50 h. In contrast, lower conductivity AEMs showed earlier and more frequent oscillations related to water flooding, enhanced K+ crossover, and eventual short-circuiting. A lower compression assembly (NTD: 0%, torque: 2 Nm) exhibited a higher initial CO selectivity (>95% for 50 h) but developed more frequent oscillations associated with salt accumulation in the cathode flow channel. Our hypotheses are further supported by tests of an ”over-compressed” cell (NTD: 40%, torque: 4 Nm), which exhibited poor water drainage, rapid salt accumulation in the cathode gas channel, and an increased risk of electrode short-circuiting. These observations lead to practical AEM electrolyzer design rules: pairing high-conductive AEMs with crack-rich MPLs and optimizing cell compression to balance membrane-electrode interfacial contact and water drainage to maintain selective and stable CO2 electrolysis.",
-      "relevance_reason": "命中 gas diffusion layer、gdl、flooding、co2 electrolysis，与 GDE 结构、润湿/淹没行为或 Micro-CT 三维表征相关，可用于结构—性能关联分析。",
-      "tags": [
-        "gas diffusion layer",
-        "gdl",
-        "flooding",
-        "co2 electrolysis"
-      ],
-      "score": 99,
-      "url": "https://doi.org/10.1016/j.cej.2026.180975",
       "archive": true,
       "impact_factor": null,
       "quartile": "Q —"
