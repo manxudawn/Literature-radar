@@ -1,7 +1,7 @@
 {
-  "brief_date": "2026 · 09 · 04",
-  "last_updated": "2026-09-04",
-  "match_score": 96,
+  "brief_date": "2026 · 09 · 07",
+  "last_updated": "2026-09-07",
+  "match_score": 94,
   "trackers": [
     {
       "name": "Ni electrocarboxylation",
@@ -141,25 +141,24 @@
       "quartile": "Q —"
     },
     {
-      "id": "W7201959243",
+      "id": "W7204788644",
       "topic": "analysis",
       "badge": "最新研究",
       "read_minutes": 6,
-      "title": "Electrodeposited Cobalt Bis(pyridylimino)isoindolide Complex on Graphite: Synthesis, Characterization, and Electrocatalytic Activity Toward Hydrogen Evolution Reaction",
-      "journal": "Energy Technology",
+      "title": "Enhanced Tribological and Thermal Performance of Gray Cast Iron via Electroless Ni–P Coating: Microstructural, Mechanical, and Electrochemical Insights",
+      "journal": "Jordan Journal of Mechanical and Industrial Engineering",
       "year": 2026,
-      "publication_date": "2026-08-01",
+      "publication_date": "2026-08-31",
       "summary_zh": "该研究聚焦电化学测试方法、反应机理或动力学分析。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
-      "abstract": "Electrodeposited cobalt bis(pyridylimino)isoindolide (BPI) complexes on graphite combine the favorable coordination chemistry of the BPI framework with the excellent electrical conductivity and surface properties of graphite. Their tunable ligand environment allows for precise control over the metal's electronic structure, enhancing proton reduction kinetics. Furthermore, strong π–π interactions between the pyrene substituents and the graphitic surface promote robust adhesion and an extended active interface, making these materials attractive candidates for durable, high‐performance electrocatalysts. In this work, we report the synthesis and full characterization of a novel pyrene‐substituted BPI ligand and its corresponding cobalt complex. These BPI derivatives were electrodeposited onto a graphite substrate by cyclic voltammetry, and the resulting modified electrodes were evaluated for their hydrogen evolution reaction (HER) performance. Morphological, structural, and spectroscopic analyses, including scanning electron microscopy (SEM), energy dispersive X‐ray (EDX) spectroscopy, X‐ray photoelectron spectroscopy (XPS), and X‐ray diffraction (XRD), provided detailed insight into the surface structure and composition of the electrodeposited films. Electrochemical impedance spectroscopy (EIS) highlighted the effective charge–transfer properties and double‐layer capacitance of the cobalt BPI coatings. A comparative analysis of the electrochemical data with the structural findings confirmed that the electrodeposited cobalt BPI complexes form uniform, conductive layers on graphite, exhibiting promising catalytic activity for hydrogen evolution.",
-      "relevance_reason": "命中 cyclic voltammetry、kinetic、electrochemical impedance spectroscopy、impedance spectroscopy，属于电化学方法/机理分析文献，可用于 CV、EIS、参比校准或动力学数据解释。",
+      "abstract": "Gray cast iron (GCI) is widely used in automotive and industrial applications due to its good castability and cost efficiency; it is, however, limited by inferior wear resistance, high frictional losses, and susceptibility to corrosion when under severe service conditions.A detailed study was undertaken to improve the functional performance of GCI by plating a highphosphorus electroless nickel-phosphorus (Ni-P) layer.An even Ni-P film of 12 wt.% phosphorus was chemically deposited using an autocatalytic electroless method followed by a heat treatment at 400 °C to induce partial crystallization.The microstructure and phase evolution of coatings were systematically characterized by SEM, EDS mapping and XRD; it was demonstrated that the coating was a mainly amorphous matrix consisting of nanocrystalline Ni₃P precipitates.Surface hardness of the coated surface was found to increased significantly from 290 HV of uncoated sample to a maximum value of 961 HV, which is corresponding to an improvement by a factor of about 231%.The thermal expansion analysis showed improved dimensional stability with a CTE value which was reduced from 0.25 × 10⁻⁶ to 0.19 × 10⁻⁶ °C⁻¹.Electrochemical performance was performed by potentiodynamic polarization and electrochemical impedance spectroscopy (EIS) in 3.5 wt.% NaCl solution.The corrosion potential for the Ni-P coating was positively shifted, with higher polarization resistance and decreasing impedance response since pulsing compared to GCI directly, which demonstrates better barrier protection and charge transfer kinetics are prohibited.Tribological evaluation in dry sliding also revealed a significant drop in friction coefficient, from around 0.65 to 0.07-0.10,as well as mild wear and intact state of the coating.",
+      "relevance_reason": "命中 kinetic、electrochemical impedance spectroscopy、impedance spectroscopy，属于电化学方法/机理分析文献，可用于 CV、EIS、参比校准或动力学数据解释。",
       "tags": [
-        "cyclic voltammetry",
         "kinetic",
         "electrochemical impedance spectroscopy",
         "impedance spectroscopy"
       ],
-      "score": 94,
-      "url": "https://doi.org/10.1002/ente.70581",
+      "score": 78,
+      "url": "https://doi.org/10.59038/jjmie/200304",
       "archive": false,
       "impact_factor": null,
       "quartile": "Q —"
@@ -212,6 +211,53 @@
       "quartile": "Q —"
     },
     {
+      "id": "W7203831750",
+      "topic": "analysis",
+      "badge": "最新研究",
+      "read_minutes": 6,
+      "title": "Design, Synthesis, and Characterization of Multidentate Ligand Metal Complexes and their Evaluation as Corrosion Inhibitors in Acidic Media",
+      "journal": "journal of the college of basic education",
+      "year": 2026,
+      "publication_date": "2026-08-20",
+      "summary_zh": "该研究聚焦电化学测试方法、反应机理或动力学分析。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
+      "abstract": "This study systematically investigates the design, preparation, and activity of new bidentate, tridentate, and tetra dentate Schiff base ligands and their transition metal complexes as new advanced severe corrosion inhibiters for mild steel in acid media. We report the synthesis of three tetra dentate N₂O₂-donor Schiff base ligand containing various aromatic substituents (–OCH₃, –Cl, –H) by condensation reaction and their coordination to Cu(II), Ni(II) and Zn(II) ion to form neutral square-planar or octahedral complexes. Elemental analysis, FT-IR, UV-Vis spectroscopy, magnetic susceptibility, molar conductivity and thermogravimetric analysis were employed for the complete characterization of the compounds. The corrosion inhibition performance was evaluated using several methodsloss, potentiodynamic polarization (PDP) and electrochemical impedance spectroscopy (EIS) in 1M HCl.) Among them, the Cu(II) complex of the methoxy-substituted ligand (Cu–L₂) showed the most remarkable inhibition efficiency (94.7% at 5 mm, 25°C) and exhibited a mixed-type inhibition on both anodic and cathodic reaction. Adsorption fit to Langmuir isotherm model, with Gibbs free energy values (ΔGads ≈ −38.6 kJ/mol) indicating spontaneous, mixed physisorption and chemisorption process. DFT calculations confirmed that electron-donating moieties more favorably add electron density at donor atoms (N, O), thus decreasing the energy gap and promoting charge transfer to the metal surface. A complete inhibition mechanism is proposed wherein adsorption of the planar complex onto the steel surface takes place in a flat-lying manner providing a barrier against corrosive ions. A comparative analysis shows that the synthesized inhibitors are superior to or at least comparable to many of the newly published systems in terms of efficiency, thermal stability, and environmental friendliness. Our work defines a distinct structure–activity relationship as well as a promising avenue based on rational molecular design of multidentate ligand–metal complexes toward sustainable, high-efficiency anticorrosion solutions in industrial acid treatments.",
+      "relevance_reason": "命中 mechanism、electrochemical impedance spectroscopy、impedance spectroscopy，属于电化学方法/机理分析文献，可用于 CV、EIS、参比校准或动力学数据解释。",
+      "tags": [
+        "mechanism",
+        "electrochemical impedance spectroscopy",
+        "impedance spectroscopy"
+      ],
+      "score": 78,
+      "url": "https://doi.org/10.35950/cbej.v32i137.15674",
+      "archive": false,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
+    {
+      "id": "W7201959243",
+      "topic": "analysis",
+      "badge": "最新研究",
+      "read_minutes": 6,
+      "title": "Electrodeposited Cobalt Bis(pyridylimino)isoindolide Complex on Graphite: Synthesis, Characterization, and Electrocatalytic Activity Toward Hydrogen Evolution Reaction",
+      "journal": "Energy Technology",
+      "year": 2026,
+      "publication_date": "2026-08-01",
+      "summary_zh": "该研究聚焦电化学测试方法、反应机理或动力学分析。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
+      "abstract": "Electrodeposited cobalt bis(pyridylimino)isoindolide (BPI) complexes on graphite combine the favorable coordination chemistry of the BPI framework with the excellent electrical conductivity and surface properties of graphite. Their tunable ligand environment allows for precise control over the metal's electronic structure, enhancing proton reduction kinetics. Furthermore, strong π–π interactions between the pyrene substituents and the graphitic surface promote robust adhesion and an extended active interface, making these materials attractive candidates for durable, high‐performance electrocatalysts. In this work, we report the synthesis and full characterization of a novel pyrene‐substituted BPI ligand and its corresponding cobalt complex. These BPI derivatives were electrodeposited onto a graphite substrate by cyclic voltammetry, and the resulting modified electrodes were evaluated for their hydrogen evolution reaction (HER) performance. Morphological, structural, and spectroscopic analyses, including scanning electron microscopy (SEM), energy dispersive X‐ray (EDX) spectroscopy, X‐ray photoelectron spectroscopy (XPS), and X‐ray diffraction (XRD), provided detailed insight into the surface structure and composition of the electrodeposited films. Electrochemical impedance spectroscopy (EIS) highlighted the effective charge–transfer properties and double‐layer capacitance of the cobalt BPI coatings. A comparative analysis of the electrochemical data with the structural findings confirmed that the electrodeposited cobalt BPI complexes form uniform, conductive layers on graphite, exhibiting promising catalytic activity for hydrogen evolution.",
+      "relevance_reason": "命中 cyclic voltammetry、kinetic、electrochemical impedance spectroscopy、impedance spectroscopy，属于电化学方法/机理分析文献，可用于 CV、EIS、参比校准或动力学数据解释。",
+      "tags": [
+        "cyclic voltammetry",
+        "kinetic",
+        "electrochemical impedance spectroscopy",
+        "impedance spectroscopy"
+      ],
+      "score": 94,
+      "url": "https://doi.org/10.1002/ente.70581",
+      "archive": true,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
+    {
       "id": "W7204926064",
       "topic": "analysis",
       "badge": "最新研究",
@@ -230,7 +276,7 @@
       ],
       "score": 78,
       "url": "https://doi.org/10.1002/pssa.70513",
-      "archive": false,
+      "archive": true,
       "impact_factor": null,
       "quartile": "Q —"
     },
@@ -254,52 +300,6 @@
       ],
       "score": 99,
       "url": "https://doi.org/10.26434/chemrxiv.15006707/v1",
-      "archive": true,
-      "impact_factor": null,
-      "quartile": "Q —"
-    },
-    {
-      "id": "W7204788644",
-      "topic": "analysis",
-      "badge": "最新研究",
-      "read_minutes": 6,
-      "title": "Enhanced Tribological and Thermal Performance of Gray Cast Iron via Electroless Ni–P Coating: Microstructural, Mechanical, and Electrochemical Insights",
-      "journal": "Jordan Journal of Mechanical and Industrial Engineering",
-      "year": 2026,
-      "publication_date": "2026-08-31",
-      "summary_zh": "该研究聚焦电化学测试方法、反应机理或动力学分析。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
-      "abstract": "Gray cast iron (GCI) is widely used in automotive and industrial applications due to its good castability and cost efficiency; it is, however, limited by inferior wear resistance, high frictional losses, and susceptibility to corrosion when under severe service conditions.A detailed study was undertaken to improve the functional performance of GCI by plating a highphosphorus electroless nickel-phosphorus (Ni-P) layer.An even Ni-P film of 12 wt.% phosphorus was chemically deposited using an autocatalytic electroless method followed by a heat treatment at 400 °C to induce partial crystallization.The microstructure and phase evolution of coatings were systematically characterized by SEM, EDS mapping and XRD; it was demonstrated that the coating was a mainly amorphous matrix consisting of nanocrystalline Ni₃P precipitates.Surface hardness of the coated surface was found to increased significantly from 290 HV of uncoated sample to a maximum value of 961 HV, which is corresponding to an improvement by a factor of about 231%.The thermal expansion analysis showed improved dimensional stability with a CTE value which was reduced from 0.25 × 10⁻⁶ to 0.19 × 10⁻⁶ °C⁻¹.Electrochemical performance was performed by potentiodynamic polarization and electrochemical impedance spectroscopy (EIS) in 3.5 wt.% NaCl solution.The corrosion potential for the Ni-P coating was positively shifted, with higher polarization resistance and decreasing impedance response since pulsing compared to GCI directly, which demonstrates better barrier protection and charge transfer kinetics are prohibited.Tribological evaluation in dry sliding also revealed a significant drop in friction coefficient, from around 0.65 to 0.07-0.10,as well as mild wear and intact state of the coating.",
-      "relevance_reason": "命中 kinetic、electrochemical impedance spectroscopy、impedance spectroscopy，属于电化学方法/机理分析文献，可用于 CV、EIS、参比校准或动力学数据解释。",
-      "tags": [
-        "kinetic",
-        "electrochemical impedance spectroscopy",
-        "impedance spectroscopy"
-      ],
-      "score": 78,
-      "url": "https://doi.org/10.59038/jjmie/200304",
-      "archive": true,
-      "impact_factor": null,
-      "quartile": "Q —"
-    },
-    {
-      "id": "W7203831750",
-      "topic": "analysis",
-      "badge": "最新研究",
-      "read_minutes": 6,
-      "title": "Design, Synthesis, and Characterization of Multidentate Ligand Metal Complexes and their Evaluation as Corrosion Inhibitors in Acidic Media",
-      "journal": "journal of the college of basic education",
-      "year": 2026,
-      "publication_date": "2026-08-20",
-      "summary_zh": "该研究聚焦电化学测试方法、反应机理或动力学分析。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
-      "abstract": "This study systematically investigates the design, preparation, and activity of new bidentate, tridentate, and tetra dentate Schiff base ligands and their transition metal complexes as new advanced severe corrosion inhibiters for mild steel in acid media. We report the synthesis of three tetra dentate N₂O₂-donor Schiff base ligand containing various aromatic substituents (–OCH₃, –Cl, –H) by condensation reaction and their coordination to Cu(II), Ni(II) and Zn(II) ion to form neutral square-planar or octahedral complexes. Elemental analysis, FT-IR, UV-Vis spectroscopy, magnetic susceptibility, molar conductivity and thermogravimetric analysis were employed for the complete characterization of the compounds. The corrosion inhibition performance was evaluated using several methodsloss, potentiodynamic polarization (PDP) and electrochemical impedance spectroscopy (EIS) in 1M HCl.) Among them, the Cu(II) complex of the methoxy-substituted ligand (Cu–L₂) showed the most remarkable inhibition efficiency (94.7% at 5 mm, 25°C) and exhibited a mixed-type inhibition on both anodic and cathodic reaction. Adsorption fit to Langmuir isotherm model, with Gibbs free energy values (ΔGads ≈ −38.6 kJ/mol) indicating spontaneous, mixed physisorption and chemisorption process. DFT calculations confirmed that electron-donating moieties more favorably add electron density at donor atoms (N, O), thus decreasing the energy gap and promoting charge transfer to the metal surface. A complete inhibition mechanism is proposed wherein adsorption of the planar complex onto the steel surface takes place in a flat-lying manner providing a barrier against corrosive ions. A comparative analysis shows that the synthesized inhibitors are superior to or at least comparable to many of the newly published systems in terms of efficiency, thermal stability, and environmental friendliness. Our work defines a distinct structure–activity relationship as well as a promising avenue based on rational molecular design of multidentate ligand–metal complexes toward sustainable, high-efficiency anticorrosion solutions in industrial acid treatments.",
-      "relevance_reason": "命中 mechanism、electrochemical impedance spectroscopy、impedance spectroscopy，属于电化学方法/机理分析文献，可用于 CV、EIS、参比校准或动力学数据解释。",
-      "tags": [
-        "mechanism",
-        "electrochemical impedance spectroscopy",
-        "impedance spectroscopy"
-      ],
-      "score": 78,
-      "url": "https://doi.org/10.35950/cbej.v32i137.15674",
       "archive": true,
       "impact_factor": null,
       "quartile": "Q —"
