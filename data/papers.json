@@ -1,6 +1,6 @@
 {
-  "brief_date": "2026 · 09 · 10",
-  "last_updated": "2026-09-10",
+  "brief_date": "2026 · 09 · 11",
+  "last_updated": "2026-09-11",
   "match_score": 94,
   "trackers": [
     {
@@ -141,16 +141,16 @@
       "quartile": "Q —"
     },
     {
-      "id": "W7211875086",
+      "id": "W7211991774",
       "topic": "analysis",
       "badge": "最新研究",
       "read_minutes": 6,
-      "title": "Pecan nut–derived carbon quantum dots–modified electrode for sensitive electrochemical determination of vonoprazan using a green analytical approach",
-      "journal": "Scientific Reports",
+      "title": "Direct Determination of Tortuosity in Functional Lithium-Ion Electrodes via Full Insertion Transmission Line Modeling",
+      "journal": "Journal of The Electrochemical Society",
       "year": 2026,
-      "publication_date": "2026-09-08",
+      "publication_date": "2026-09-09",
       "summary_zh": "该研究聚焦电化学测试方法、反应机理或动力学分析。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
-      "abstract": "Abstract A novel, environmentally considerate electroanalytical sensor was developed for the determination of vonoprazan fumarate (VON) through modification of a carbon paste electrode with biomass-derived carbon quantum dots (CQDs), representing a sustainable, defect-rich, and effective alternative to conventional CQD-based sensors that rely on synthetic materials and complex fabrication. The CQDs were synthesized from pecan nut ( Carya illinoinensis ) using a microwave-assisted solvothermal approach and exhibited abundant functional groups and quantum confinement effects, as confirmed via X-ray photoelectron spectroscopy (XPS) in combination with Fourier-transform infrared (FTIR) spectroscopy, fluorescence spectroscopy, ultraviolet–visible spectroscopic approach (UV–Vis), transmission electron microscopy (TEM) and scanning electron microscopy combined with energy-dispersive X-ray spectroscopy (SEM–EDX). Electrochemical impedance spectroscopy (EIS) revealed enhanced interfacial electron-transfer kinetics and electrocatalytic activity, highlighting the enhanced electrode performance of the CQD-modified sensor and its direct contribution to improved sensitivity and selectivity. Quantitative determination of VON was performed using differential pulse voltammetry (DPV), achieving a limit of detection of 0.39 nM, a limit of quantification of 1.19 nM, and a linear response over 10–100 nM (R 2 = 0.9992). The method met international validation criteria for accuracy, precision, and robustness, and was successfully applied to pharmaceutical preparations, spiked human plasma samples, and laboratory-prepared industrial wastewater. This work addresses the growing demand for sensitive, reliable, and eco-friendly detection of pharmaceutical analytes, providing a versatile, sustainable, and effective sensing platform.",
+      "abstract": "Abstract Electrochemical impedance spectroscopy (EIS) is widely used to probe transport and reaction kinetics in battery electrodes. In porous electrodes, however, these processes often overlap in the impedance response, making physical interpretation difficult. Conventional approaches for extracting electrode tortuosity usually rely on “reaction-blocking” conditions, such as non-intercalating salts or extreme states of charge, which differ substantially from the operating environment of a practical lithium-ion cell. Here, we introduce a fitting procedure using a Full Insertion Transmission Line Model (TLM), derived from Newman’s porous electrode theory, that enables physical parameters to be obtained directly from standard lithium-ion cells across a whole range of States-of-Charge (SoC). The method was validated using symmetric NMC–NMC cells through a three-way comparison between micro-computed tomography (XµCT), conventional EIS with a non-intercalating salt, and the Full Insertion TLM. By applying a fitting strategy in which non-identifiable solid-state transport parameters are fixed in advance, we extracted electrode tortuosity values of τ_EIS≈3.0±0.3. These values are in close agreement with both the established electrochemical reference method, τ_EIS^0≈3.5±0.2, and the effective geometric tortuosity obtained from XµCT analysis. In addition to tortuosity, the model provides simultaneous access to other relevant physical parameters, including charge-transfer resistance, contact resistance, and double-layer capacitances.",
       "relevance_reason": "命中 kinetic、electrochemical impedance spectroscopy、impedance spectroscopy，属于电化学方法/机理分析文献，可用于 CV、EIS、参比校准或动力学数据解释。",
       "tags": [
         "kinetic",
@@ -158,7 +158,7 @@
         "impedance spectroscopy"
       ],
       "score": 78,
-      "url": "https://doi.org/10.1038/s41598-026-68500-y",
+      "url": "https://doi.org/10.1149/1945-7111/aea4fc",
       "archive": false,
       "impact_factor": null,
       "quartile": "Q —"
@@ -211,6 +211,29 @@
       "quartile": "Q —"
     },
     {
+      "id": "W7211875086",
+      "topic": "analysis",
+      "badge": "最新研究",
+      "read_minutes": 6,
+      "title": "Pecan nut–derived carbon quantum dots–modified electrode for sensitive electrochemical determination of vonoprazan using a green analytical approach",
+      "journal": "Scientific Reports",
+      "year": 2026,
+      "publication_date": "2026-09-08",
+      "summary_zh": "该研究聚焦电化学测试方法、反应机理或动力学分析。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
+      "abstract": "Abstract A novel, environmentally considerate electroanalytical sensor was developed for the determination of vonoprazan fumarate (VON) through modification of a carbon paste electrode with biomass-derived carbon quantum dots (CQDs), representing a sustainable, defect-rich, and effective alternative to conventional CQD-based sensors that rely on synthetic materials and complex fabrication. The CQDs were synthesized from pecan nut ( Carya illinoinensis ) using a microwave-assisted solvothermal approach and exhibited abundant functional groups and quantum confinement effects, as confirmed via X-ray photoelectron spectroscopy (XPS) in combination with Fourier-transform infrared (FTIR) spectroscopy, fluorescence spectroscopy, ultraviolet–visible spectroscopic approach (UV–Vis), transmission electron microscopy (TEM) and scanning electron microscopy combined with energy-dispersive X-ray spectroscopy (SEM–EDX). Electrochemical impedance spectroscopy (EIS) revealed enhanced interfacial electron-transfer kinetics and electrocatalytic activity, highlighting the enhanced electrode performance of the CQD-modified sensor and its direct contribution to improved sensitivity and selectivity. Quantitative determination of VON was performed using differential pulse voltammetry (DPV), achieving a limit of detection of 0.39 nM, a limit of quantification of 1.19 nM, and a linear response over 10–100 nM (R 2 = 0.9992). The method met international validation criteria for accuracy, precision, and robustness, and was successfully applied to pharmaceutical preparations, spiked human plasma samples, and laboratory-prepared industrial wastewater. This work addresses the growing demand for sensitive, reliable, and eco-friendly detection of pharmaceutical analytes, providing a versatile, sustainable, and effective sensing platform.",
+      "relevance_reason": "命中 kinetic、electrochemical impedance spectroscopy、impedance spectroscopy，属于电化学方法/机理分析文献，可用于 CV、EIS、参比校准或动力学数据解释。",
+      "tags": [
+        "kinetic",
+        "electrochemical impedance spectroscopy",
+        "impedance spectroscopy"
+      ],
+      "score": 78,
+      "url": "https://doi.org/10.1038/s41598-026-68500-y",
+      "archive": false,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
+    {
       "id": "W7211957930",
       "topic": "analysis",
       "badge": "最新研究",
@@ -229,7 +252,7 @@
       ],
       "score": 78,
       "url": "https://doi.org/10.26434/chemrxiv.15008452/v1",
-      "archive": false,
+      "archive": true,
       "impact_factor": null,
       "quartile": "Q —"
     },
