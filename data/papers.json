@@ -1,7 +1,7 @@
 {
-  "brief_date": "2026 · 09 · 14",
-  "last_updated": "2026-09-14",
-  "match_score": 94,
+  "brief_date": "2026 · 09 · 15",
+  "last_updated": "2026-09-15",
+  "match_score": 96,
   "trackers": [
     {
       "name": "Ni electrocarboxylation",
@@ -70,25 +70,25 @@
       "quartile": "Q —"
     },
     {
-      "id": "W7203889842",
+      "id": "W7212302114",
       "topic": "analysis",
       "badge": "最新研究",
       "read_minutes": 6,
-      "title": "Fine-tuning electrochemical properties of poly (3-aminophenylboronic acid) via optimization of electrodeposition",
-      "journal": "International Journal of Electrochemical Science",
+      "title": "Laboratory development of active material for lead-acid batteries. part i: kinetic study of the discharge of negative active material of lead-acid batteries produced from paste containing tribasic lead sulphate",
+      "journal": "Journal of Solid State Electrochemistry",
       "year": 2026,
-      "publication_date": "2026-08-21",
+      "publication_date": "2026-09-11",
       "summary_zh": "该研究聚焦电化学测试方法、反应机理或动力学分析。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
-      "abstract": "The electrochemical behaviour of electropolymerized poly (3-aminophenylboronic acid) [P(3-APBA)] is strongly dependent on the conditions under which it is formed. However, a systematic understanding of how electropolymerization parameters collectively govern the electrochemical properties of P(3-APBA) remains limited. In this work, the influence of electrolyte composition, supporting electrolyte concentration, fluoride concentration, monomer concentration, and electrodeposition parameters on the formation and electrochemical characteristics of P(3-APBA) films was systematically investigated. Polymer films were synthesized in hydrochloric acid (HCl), sulfuric acid (H 2 SO 4 ), and phosphate-buffered saline (PBS) using cyclic voltammetry under controlled potential windows, scan rates, and deposition cycles. The resulting materials were characterized using cyclic voltammetry (CV), differential pulse voltammetry (DPV), and electrochemical impedance spectroscopy (EIS), while ultraviolet-visible (UV-Vis) and Fourier Transform infrared (FTIR) spectroscopies confirmed polymer formation. The results show that electrolyte chemistry strongly influences polymer growth and electroactivity, with 0.5 M HCl producing films that exhibited the highest electroactive charge and the most defined redox transitions. In contrast, PBS-based systems showed significantly reduced electrochemical response, indicating suppressed charge transport and limited electroactive site accessibility. The monomer-to-fluoride ratio of 0.04:0.08 M was found to provide optimal balance between polymer formation and electrochemical performance, while a potential window of -0.1 to 1.0 V, an end potential of 0.5 V, and a scan rate of 20 mV/s promoted stable film growth. EIS analysis further revealed reduced charge-transfer resistance (Rct) under optimized conditions, consistent with enhanced electron-transfer kinetics within the polymer film. Collectively, these results demonstrate that electrolyte environment, fluoride-assisted activation, and deposition parameters act synergistically to govern the electrochemical properties of P(3-APBA), establishing a reproducible framework for controlled electropolymerization and electrochemical evaluation of this conducting polymer system.",
-      "relevance_reason": "命中 cyclic voltammetry、kinetic、electrochemical impedance spectroscopy、impedance spectroscopy，属于电化学方法/机理分析文献，可用于 CV、EIS、参比校准或动力学数据解释。",
+      "abstract": "This work presents a kinetic study of the discharge process of a laboratory-made negative plate for lead-acid batteries using cyclic voltammetry. Negative plates were prepared from a precursor paste based on tribasic lead sulfate (3BS), followed by curing and electrochemical formation. Voltammetric measurements were performed at scan rates ranging from 5 to 100 µV s⁻1 in 4.6 mol L⁻1 H₂SO₄, in triplicate. Results were interpreted through the Ohmic model for the growth of a continuous, ultrathin PbSO₄ film on the porous negative active material (NAM). The analysis, performed with specific quantities (per gram of NAM), revealed a stationary-state film growth and allowed to determine the average specific ionic resistance of the film (Rf = 1.88 ± 0.18 Ω g⁻1), the average Flade potential (EF = − 0.9429 ± 0.0040 V), the average transfer coefficient (αm/f = 1.03 ± 0.05), and the average exchange specific current (Ip,a0 = 65.06 ± 9.17 mA g⁻1). The porous nature of the 3BS-based plate and its consequences for local acid concentration and reaction-zone propagation are explicitly discussed. The average voltammetric specific charges reached stationary values of qp,a = 69.0 C g⁻1 and qa = 109 C g⁻1, corresponding to utilization coefficients of approximately 7.4% and 11.7%, respectively, relative to the theoretical specific charge of the Pb → PbSO₄ conversion. The average exchange current density, recalculated per unit BET area, falls in the range of 6.50–13.01 µA cm⁻2, consistent with the reaction-zone mechanism operating on a fraction of the total porous surface. The results validate the transposition of the Ohmic solid-state model from flat Pb electrodes to real porous negative plates. Graphical Abstract",
+      "relevance_reason": "命中 cyclic voltammetry、voltammetric、kinetic、mechanism，属于电化学方法/机理分析文献，可用于 CV、EIS、参比校准或动力学数据解释。",
       "tags": [
         "cyclic voltammetry",
+        "voltammetric",
         "kinetic",
-        "electrochemical impedance spectroscopy",
-        "impedance spectroscopy"
+        "mechanism"
       ],
-      "score": 94,
-      "url": "https://doi.org/10.1016/j.ijoes.2026.101480",
+      "score": 96,
+      "url": "https://doi.org/10.1007/s10008-026-06700-2",
       "archive": false,
       "impact_factor": null,
       "quartile": "Q —"
@@ -141,24 +141,25 @@
       "quartile": "Q —"
     },
     {
-      "id": "W7211991774",
+      "id": "W7203889842",
       "topic": "analysis",
       "badge": "最新研究",
       "read_minutes": 6,
-      "title": "Direct Determination of Tortuosity in Functional Lithium-Ion Electrodes via Full Insertion Transmission Line Modeling",
-      "journal": "Journal of The Electrochemical Society",
+      "title": "Fine-tuning electrochemical properties of poly (3-aminophenylboronic acid) via optimization of electrodeposition",
+      "journal": "International Journal of Electrochemical Science",
       "year": 2026,
-      "publication_date": "2026-09-09",
+      "publication_date": "2026-08-21",
       "summary_zh": "该研究聚焦电化学测试方法、反应机理或动力学分析。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
-      "abstract": "Abstract Electrochemical impedance spectroscopy (EIS) is widely used to probe transport and reaction kinetics in battery electrodes. In porous electrodes, however, these processes often overlap in the impedance response, making physical interpretation difficult. Conventional approaches for extracting electrode tortuosity usually rely on “reaction-blocking” conditions, such as non-intercalating salts or extreme states of charge, which differ substantially from the operating environment of a practical lithium-ion cell. Here, we introduce a fitting procedure using a Full Insertion Transmission Line Model (TLM), derived from Newman’s porous electrode theory, that enables physical parameters to be obtained directly from standard lithium-ion cells across a whole range of States-of-Charge (SoC). The method was validated using symmetric NMC–NMC cells through a three-way comparison between micro-computed tomography (XµCT), conventional EIS with a non-intercalating salt, and the Full Insertion TLM. By applying a fitting strategy in which non-identifiable solid-state transport parameters are fixed in advance, we extracted electrode tortuosity values of τ_EIS≈3.0±0.3. These values are in close agreement with both the established electrochemical reference method, τ_EIS^0≈3.5±0.2, and the effective geometric tortuosity obtained from XµCT analysis. In addition to tortuosity, the model provides simultaneous access to other relevant physical parameters, including charge-transfer resistance, contact resistance, and double-layer capacitances.",
-      "relevance_reason": "命中 kinetic、electrochemical impedance spectroscopy、impedance spectroscopy，属于电化学方法/机理分析文献，可用于 CV、EIS、参比校准或动力学数据解释。",
+      "abstract": "The electrochemical behaviour of electropolymerized poly (3-aminophenylboronic acid) [P(3-APBA)] is strongly dependent on the conditions under which it is formed. However, a systematic understanding of how electropolymerization parameters collectively govern the electrochemical properties of P(3-APBA) remains limited. In this work, the influence of electrolyte composition, supporting electrolyte concentration, fluoride concentration, monomer concentration, and electrodeposition parameters on the formation and electrochemical characteristics of P(3-APBA) films was systematically investigated. Polymer films were synthesized in hydrochloric acid (HCl), sulfuric acid (H 2 SO 4 ), and phosphate-buffered saline (PBS) using cyclic voltammetry under controlled potential windows, scan rates, and deposition cycles. The resulting materials were characterized using cyclic voltammetry (CV), differential pulse voltammetry (DPV), and electrochemical impedance spectroscopy (EIS), while ultraviolet-visible (UV-Vis) and Fourier Transform infrared (FTIR) spectroscopies confirmed polymer formation. The results show that electrolyte chemistry strongly influences polymer growth and electroactivity, with 0.5 M HCl producing films that exhibited the highest electroactive charge and the most defined redox transitions. In contrast, PBS-based systems showed significantly reduced electrochemical response, indicating suppressed charge transport and limited electroactive site accessibility. The monomer-to-fluoride ratio of 0.04:0.08 M was found to provide optimal balance between polymer formation and electrochemical performance, while a potential window of -0.1 to 1.0 V, an end potential of 0.5 V, and a scan rate of 20 mV/s promoted stable film growth. EIS analysis further revealed reduced charge-transfer resistance (Rct) under optimized conditions, consistent with enhanced electron-transfer kinetics within the polymer film. Collectively, these results demonstrate that electrolyte environment, fluoride-assisted activation, and deposition parameters act synergistically to govern the electrochemical properties of P(3-APBA), establishing a reproducible framework for controlled electropolymerization and electrochemical evaluation of this conducting polymer system.",
+      "relevance_reason": "命中 cyclic voltammetry、kinetic、electrochemical impedance spectroscopy、impedance spectroscopy，属于电化学方法/机理分析文献，可用于 CV、EIS、参比校准或动力学数据解释。",
       "tags": [
+        "cyclic voltammetry",
         "kinetic",
         "electrochemical impedance spectroscopy",
         "impedance spectroscopy"
       ],
-      "score": 78,
-      "url": "https://doi.org/10.1149/1945-7111/aea4fc",
+      "score": 94,
+      "url": "https://doi.org/10.1016/j.ijoes.2026.101480",
       "archive": false,
       "impact_factor": null,
       "quartile": "Q —"
@@ -211,6 +212,52 @@
       "quartile": "Q —"
     },
     {
+      "id": "W7212246316",
+      "topic": "analysis",
+      "badge": "最新研究",
+      "read_minutes": 6,
+      "title": "Dual mechanism enhanced capacitive storage and diffusion kinetics in hierarchically porous spherical cluster silicon nanoparticles-carbonized sucrose-activated charcoal anode enable high energy in lithium-ion CR2032 half-cell",
+      "journal": "Frontiers in Batteries and Electrochemistry",
+      "year": 2026,
+      "publication_date": "2026-09-11",
+      "summary_zh": "该研究聚焦电化学测试方法、反应机理或动力学分析。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
+      "abstract": "Silicon (Si) has a high theoretical capacity of 4200 mAh/g in lithium-ion batteries anode; however, it faces three main difficulties: an unstable Solid Electrolyte Interface (SEI), particle pulverization, and volume expansion. In this work, we present a highly efficient anode material for Lithium-Ion CR2032 3V half-cell using Activated Charcoal (AC), Carbonized Sucrose Powder (CSP), and Hierarchically Porous Spherical Cluster Silicon Nanoparticles (HPSC-SiNPs). This anode is designed using carbon to overcome three issues associated with Si. Additionally, the anode charge-storage behavior was examined using cyclic voltammetry (CV). The anode in this investigation showed outstanding electrochemical performance and structural stability. Additionally, Faradaic charge-storage behavior was demonstrated by CV analysis. At 0.56 C, the anode-specific capacity was 3,412.44 mA h/g, and the energy density was 204.74 W h/kg. The initial specific capacity of the half-cell, 3,103.42 mA h/g, decreased to 1,674.53 mA h/g after 200 cycles at a rate of 2.57 C. Initially, the capacity and efficiency of Si appear promising; however, they decline rapidly with increasing cycle number. In contrast, the HPSC-SiNPs-CSP-AC anode, incorporating activated charcoal and carbonized sucrose powder, demonstrated promising and effective performance.",
+      "relevance_reason": "命中 cyclic voltammetry、kinetic、mechanism，属于电化学方法/机理分析文献，可用于 CV、EIS、参比校准或动力学数据解释。",
+      "tags": [
+        "cyclic voltammetry",
+        "kinetic",
+        "mechanism"
+      ],
+      "score": 79,
+      "url": "https://doi.org/10.3389/fbael.2026.1913828",
+      "archive": false,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
+    {
+      "id": "W7211991774",
+      "topic": "analysis",
+      "badge": "最新研究",
+      "read_minutes": 6,
+      "title": "Direct Determination of Tortuosity in Functional Lithium-Ion Electrodes via Full Insertion Transmission Line Modeling",
+      "journal": "Journal of The Electrochemical Society",
+      "year": 2026,
+      "publication_date": "2026-09-09",
+      "summary_zh": "该研究聚焦电化学测试方法、反应机理或动力学分析。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
+      "abstract": "Abstract Electrochemical impedance spectroscopy (EIS) is widely used to probe transport and reaction kinetics in battery electrodes. In porous electrodes, however, these processes often overlap in the impedance response, making physical interpretation difficult. Conventional approaches for extracting electrode tortuosity usually rely on “reaction-blocking” conditions, such as non-intercalating salts or extreme states of charge, which differ substantially from the operating environment of a practical lithium-ion cell. Here, we introduce a fitting procedure using a Full Insertion Transmission Line Model (TLM), derived from Newman’s porous electrode theory, that enables physical parameters to be obtained directly from standard lithium-ion cells across a whole range of States-of-Charge (SoC). The method was validated using symmetric NMC–NMC cells through a three-way comparison between micro-computed tomography (XµCT), conventional EIS with a non-intercalating salt, and the Full Insertion TLM. By applying a fitting strategy in which non-identifiable solid-state transport parameters are fixed in advance, we extracted electrode tortuosity values of τ_EIS≈3.0±0.3. These values are in close agreement with both the established electrochemical reference method, τ_EIS^0≈3.5±0.2, and the effective geometric tortuosity obtained from XµCT analysis. In addition to tortuosity, the model provides simultaneous access to other relevant physical parameters, including charge-transfer resistance, contact resistance, and double-layer capacitances.",
+      "relevance_reason": "命中 kinetic、electrochemical impedance spectroscopy、impedance spectroscopy，属于电化学方法/机理分析文献，可用于 CV、EIS、参比校准或动力学数据解释。",
+      "tags": [
+        "kinetic",
+        "electrochemical impedance spectroscopy",
+        "impedance spectroscopy"
+      ],
+      "score": 78,
+      "url": "https://doi.org/10.1149/1945-7111/aea4fc",
+      "archive": true,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
+    {
       "id": "W7212080911",
       "topic": "analysis",
       "badge": "最新研究",
@@ -229,7 +276,7 @@
       ],
       "score": 78,
       "url": "https://doi.org/10.1016/j.electacta.2026.149955",
-      "archive": false,
+      "archive": true,
       "impact_factor": null,
       "quartile": "Q —"
     },
