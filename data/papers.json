@@ -1,6 +1,6 @@
 {
-  "brief_date": "2026 · 09 · 15",
-  "last_updated": "2026-09-15",
+  "brief_date": "2026 · 09 · 16",
+  "last_updated": "2026-09-16",
   "match_score": 96,
   "trackers": [
     {
@@ -117,25 +117,25 @@
       "quartile": "Q —"
     },
     {
-      "id": "W7161008332",
+      "id": "W7212032188",
       "topic": "gde",
       "badge": "最新研究",
       "read_minutes": 6,
-      "title": "Effects of cell design and operating parameters on oscillatory instability in an anion-exchange membrane CO2 electrolyzer",
-      "journal": "Chemical Engineering Journal",
+      "title": "Minireview and Outlook of Salt Precipitation in CO2 Electrolysis",
+      "journal": "Energy & Fuels",
       "year": 2026,
-      "publication_date": "2026-08-22",
+      "publication_date": "2026-09-09",
       "summary_zh": "该研究聚焦 GDE、孔结构或 X-ray/Micro-CT 三维表征。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
-      "abstract": "Periodic oscillations in cell voltage and CO2 reduction product selectivity are commonly observed in laboratory studies using membrane electrode assembly (MEA) CO2 electrolyzers with anion-exchange membranes (AEM). These oscillations hinder mechanistic studies and progress toward industrial deployment of CO2 electrolyzers. To understand how to mitigate these oscillations in laboratory experiments, we investigated the effects of three electrolyzer design parameters on system stability: (i) membrane type and thickness, (ii) gas diffusion layer (GDL) properties, and (iii) cell compression, characterized as a normalized thickness difference (NTD) between the GDL and gasket and assembly torque. In our system, we found pairing a higher ionic conductivity AEM with a GDL with a cracked microporous layer (MPL) at a medium cell compression (NTD: 40%, torque: 2 Nm), led to the most stable CO2 to CO electrolysis with pseudo-steady-state CO Faradaic efficiency of around 85% achieved at 100 mA cm–2 for over 50 h. In contrast, lower conductivity AEMs showed earlier and more frequent oscillations related to water flooding, enhanced K+ crossover, and eventual short-circuiting. A lower compression assembly (NTD: 0%, torque: 2 Nm) exhibited a higher initial CO selectivity (>95% for 50 h) but developed more frequent oscillations associated with salt accumulation in the cathode flow channel. Our hypotheses are further supported by tests of an ”over-compressed” cell (NTD: 40%, torque: 4 Nm), which exhibited poor water drainage, rapid salt accumulation in the cathode gas channel, and an increased risk of electrode short-circuiting. These observations lead to practical AEM electrolyzer design rules: pairing high-conductive AEMs with crack-rich MPLs and optimizing cell compression to balance membrane-electrode interfacial contact and water drainage to maintain selective and stable CO2 electrolysis.",
-      "relevance_reason": "命中 gas diffusion layer、gdl、flooding、co2 electrolysis，与 GDE 结构、润湿/淹没行为或 Micro-CT 三维表征相关，可用于结构—性能关联分析。",
+      "abstract": "Abstract CO2 electrolysis has progressed rapidly toward industrially relevant current densities, but its practical deployment is increasingly limited by reactor-level instabilities. Specifically, salt precipitation has emerged as a critical yet not well-understood challenge in high-rate CO2 electrolysis. Recent studies show that this phenomenon is governed not simply by bulk electrolyte composition, but by coupled interfacial properties including local alkalinity, cation migration and water distribution. The resulting bi(carbonate) accumulation can lead to supersaturation within the confined pore structures of the gas diffusion layer and subsequently salt nucleation and precipitation. These deposits reduce CO2 mass transport and eventually induce flooding that substantially compromise electrolyzer performance. In this minireview, we summarize the mechanistic origins, spatial distribution, and performance consequences of salt precipitation in CO2 electrolysis. We further assess emerging diagnostic tools and outline salt precipitation mitigation strategies towards the development of stable CO2 electrolyzers.",
+      "relevance_reason": "命中 gas diffusion layer、flooding、co2 electrolysis、co2 electroly，与 GDE 结构、润湿/淹没行为或 Micro-CT 三维表征相关，可用于结构—性能关联分析。",
       "tags": [
         "gas diffusion layer",
-        "gdl",
         "flooding",
-        "co2 electrolysis"
+        "co2 electrolysis",
+        "co2 electroly"
       ],
       "score": 99,
-      "url": "https://doi.org/10.1016/j.cej.2026.180975",
+      "url": "https://doi.org/10.1021/acs.energyfuels.6c03732",
       "archive": false,
       "impact_factor": null,
       "quartile": "Q —"
@@ -188,26 +188,72 @@
       "quartile": "Q —"
     },
     {
-      "id": "W7212032188",
+      "id": "W7211875689",
       "topic": "gde",
       "badge": "最新研究",
       "read_minutes": 6,
-      "title": "Minireview and Outlook of Salt Precipitation in CO2 Electrolysis",
-      "journal": "Energy & Fuels",
+      "title": "Microenvironment Engineering for High-Current-Density Electrochemical CO2 Reduction",
+      "journal": "Nanoenergy Advances",
       "year": 2026,
-      "publication_date": "2026-09-09",
+      "publication_date": "2026-09-07",
       "summary_zh": "该研究聚焦 GDE、孔结构或 X-ray/Micro-CT 三维表征。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
-      "abstract": "Abstract CO2 electrolysis has progressed rapidly toward industrially relevant current densities, but its practical deployment is increasingly limited by reactor-level instabilities. Specifically, salt precipitation has emerged as a critical yet not well-understood challenge in high-rate CO2 electrolysis. Recent studies show that this phenomenon is governed not simply by bulk electrolyte composition, but by coupled interfacial properties including local alkalinity, cation migration and water distribution. The resulting bi(carbonate) accumulation can lead to supersaturation within the confined pore structures of the gas diffusion layer and subsequently salt nucleation and precipitation. These deposits reduce CO2 mass transport and eventually induce flooding that substantially compromise electrolyzer performance. In this minireview, we summarize the mechanistic origins, spatial distribution, and performance consequences of salt precipitation in CO2 electrolysis. We further assess emerging diagnostic tools and outline salt precipitation mitigation strategies towards the development of stable CO2 electrolyzers.",
-      "relevance_reason": "命中 gas diffusion layer、flooding、co2 electrolysis、co2 electroly，与 GDE 结构、润湿/淹没行为或 Micro-CT 三维表征相关，可用于结构—性能关联分析。",
+      "abstract": "Electrochemical CO2 reduction reaction (ECO2RR) is a promising technology for converting rapidly rising atmospheric CO2—driven by fossil fuel consumption and industrial processes—into a circular carbon economy. In particular, ECO2RR is expected to enable renewable-based long-duration energy storage (LDES) systems through the highly efficient conversion of CO2 into high-value multi-carbon (C2+) compounds. However, scaling ECO2RR to the industrial level remains challenging because, under high-current operation, the CO2 consumption rate exceeds its supply rate, causing a sharp decline in local CO2 concentration. The resulting increase in local pH promotes both carbonate formation and electrode flooding within the gas diffusion electrode (GDE), creating a wetting-induced mass transfer bottleneck. To address this challenge, this review categorizes and analyzes recent strategies for CO2 microenvironment engineering that overcome mass transfer limitations at high-current densities, focusing on two complementary approaches: (1) enhancing gas-phase CO2 supply while suppressing flooding through nano/microscale hydrophobic polymers and structural gradient designs, and (2) enhancing active CO supply in the liquid phase through electrolyte composition optimization. We further show that these strategies are not mutually independent but create complementary structural and chemical synergies, and we propose future directions for simultaneously improving high-current operability and C2+ product selectivity.",
+      "relevance_reason": "命中 gas diffusion electrode、flooding、wetting，与 GDE 结构、润湿/淹没行为或 Micro-CT 三维表征相关，可用于结构—性能关联分析。",
+      "tags": [
+        "gas diffusion electrode",
+        "flooding",
+        "wetting"
+      ],
+      "score": 90,
+      "url": "https://doi.org/10.3390/nanoenergyadv6030026",
+      "archive": false,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
+    {
+      "id": "W7128534735",
+      "topic": "analysis",
+      "badge": "最新研究",
+      "read_minutes": 6,
+      "title": "Zwitterionic Polymer Coating Enabled Chronic Dopamine Sensing and Electrophysiology Recording in Free‐Moving Mice",
+      "journal": "Advanced Healthcare Materials",
+      "year": 2026,
+      "publication_date": "2026-09-13",
+      "summary_zh": "该研究聚焦电化学测试方法、反应机理或动力学分析。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
+      "abstract": "The brain's complex network relies on both electrical and chemical signaling to support its physiological and cognitive functions. To fully understand neural circuit dynamics and their dysfunctions, it is crucial to simultaneously detect neurotransmitters and modulators alongside electrophysiological signals. The striatal dopamine circuits are integral to neurological processes such as movement, reward, learning, and circadian rhythm regulation, making it highly desirable to monitor both neural activity and dopamine (DA) levels in freely behaving animals. One promising approach involves the implantation of multimodal microelectrode arrays (MEAs). However, chronic electrochemical sensing of DA in freely moving animals faces significant challenges, including biofouling of sensing electrodes and the instability of Ag/AgCl reference electrodes. In this study, we developed two complementary strategies-surface grafting and photo crosslinking-to coat the MEA and implanted Ag/AgCl reference electrodes, respectively, with zwitterionic poly(sulfobetaine methacrylate) (PSB). The surface-grafted thin PSB coating effectively inhibits protein fouling and inflammatory responses to the MEA, while the PSB hydrogel protects the Ag/AgCl electrodes from delamination in vivo, ensuring a stable reference potential. By coating both the Ag/AgCl reference electrodes and flexible polyimide MEAs with PSB and PEDOT/CNT, we achieved stable DA detection and electrophysiological recordings in freely moving mice over a four-week period. Weekly electrochemical impedance spectroscopy confirmed the long-term stability of the implanted electrodes. Our method enables multidimensional analysis of behavioral patterns, electrophysiological activity, and DA dynamics, providing a comprehensive approach for neuroscience research. This work advances neurochemical and electrophysiological methodologies by offering reliable tools for longitudinal investigations of brain function in freely behaving animals.",
+      "relevance_reason": "命中 reference electrode、electrochemical impedance spectroscopy、impedance spectroscopy，属于电化学方法/机理分析文献，可用于 CV、EIS、参比校准或动力学数据解释。",
+      "tags": [
+        "reference electrode",
+        "electrochemical impedance spectroscopy",
+        "impedance spectroscopy"
+      ],
+      "score": 90,
+      "url": "https://doi.org/10.1002/adhm.71688",
+      "archive": false,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
+    {
+      "id": "W7161008332",
+      "topic": "gde",
+      "badge": "最新研究",
+      "read_minutes": 6,
+      "title": "Effects of cell design and operating parameters on oscillatory instability in an anion-exchange membrane CO2 electrolyzer",
+      "journal": "Chemical Engineering Journal",
+      "year": 2026,
+      "publication_date": "2026-08-22",
+      "summary_zh": "该研究聚焦 GDE、孔结构或 X-ray/Micro-CT 三维表征。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
+      "abstract": "Periodic oscillations in cell voltage and CO2 reduction product selectivity are commonly observed in laboratory studies using membrane electrode assembly (MEA) CO2 electrolyzers with anion-exchange membranes (AEM). These oscillations hinder mechanistic studies and progress toward industrial deployment of CO2 electrolyzers. To understand how to mitigate these oscillations in laboratory experiments, we investigated the effects of three electrolyzer design parameters on system stability: (i) membrane type and thickness, (ii) gas diffusion layer (GDL) properties, and (iii) cell compression, characterized as a normalized thickness difference (NTD) between the GDL and gasket and assembly torque. In our system, we found pairing a higher ionic conductivity AEM with a GDL with a cracked microporous layer (MPL) at a medium cell compression (NTD: 40%, torque: 2 Nm), led to the most stable CO2 to CO electrolysis with pseudo-steady-state CO Faradaic efficiency of around 85% achieved at 100 mA cm–2 for over 50 h. In contrast, lower conductivity AEMs showed earlier and more frequent oscillations related to water flooding, enhanced K+ crossover, and eventual short-circuiting. A lower compression assembly (NTD: 0%, torque: 2 Nm) exhibited a higher initial CO selectivity (>95% for 50 h) but developed more frequent oscillations associated with salt accumulation in the cathode flow channel. Our hypotheses are further supported by tests of an ”over-compressed” cell (NTD: 40%, torque: 4 Nm), which exhibited poor water drainage, rapid salt accumulation in the cathode gas channel, and an increased risk of electrode short-circuiting. These observations lead to practical AEM electrolyzer design rules: pairing high-conductive AEMs with crack-rich MPLs and optimizing cell compression to balance membrane-electrode interfacial contact and water drainage to maintain selective and stable CO2 electrolysis.",
+      "relevance_reason": "命中 gas diffusion layer、gdl、flooding、co2 electrolysis，与 GDE 结构、润湿/淹没行为或 Micro-CT 三维表征相关，可用于结构—性能关联分析。",
       "tags": [
         "gas diffusion layer",
+        "gdl",
         "flooding",
-        "co2 electrolysis",
-        "co2 electroly"
+        "co2 electrolysis"
       ],
       "score": 99,
-      "url": "https://doi.org/10.1021/acs.energyfuels.6c03732",
-      "archive": false,
+      "url": "https://doi.org/10.1016/j.cej.2026.180975",
+      "archive": true,
       "impact_factor": null,
       "quartile": "Q —"
     },
@@ -230,7 +276,7 @@
       ],
       "score": 79,
       "url": "https://doi.org/10.3389/fbael.2026.1913828",
-      "archive": false,
+      "archive": true,
       "impact_factor": null,
       "quartile": "Q —"
     },
