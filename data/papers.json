@@ -1,7 +1,7 @@
 {
-  "brief_date": "2026 · 09 · 18",
-  "last_updated": "2026-09-18",
-  "match_score": 87,
+  "brief_date": "2026 · 09 · 21",
+  "last_updated": "2026-09-21",
+  "match_score": 95,
   "trackers": [
     {
       "name": "Ni electrocarboxylation",
@@ -21,6 +21,30 @@
     }
   ],
   "papers": [
+    {
+      "id": "W7204254964",
+      "topic": "organic",
+      "badge": "最新研究",
+      "read_minutes": 6,
+      "title": "Electrocarboxylation of 1,3-butadiene with CO2 to 3-hexenedioic acid: effect of operating parameters on product selectivity",
+      "journal": "ChemRxiv",
+      "year": 2026,
+      "publication_date": "2026-08-26",
+      "summary_zh": "该研究围绕有机电化学 CO₂ 羧化/还原羧化展开。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
+      "abstract": "The electrochemical carboxylation of alkenes using CO2 is a sustainable and promising approach for synthesizing a variety of organic compounds, especially carboxylic acid derivatives. These processes are of high scientific and commercial interest as only one or two electrons are required per CO2 molecule to produce value-added products. Here, we report on the electrochemical dicarboxylation of 1,3-butadiene with CO2 to obtain 3-hexenedioic acid, a key intermediate to produce adipic acid. The electrocarboxylation was performed in acetonitrile using a nickel cathode, an aluminium anode, and Ag/AgCl reference electrode in an undivided cell. We systematically explore how different operating conditions including the applied voltage, water content, and temperature affect the reaction performance and the product distribution. Importantly, we find that the water content significantly influences product formation, highlighting its critical role in optimizing the reaction conditions. Temperature was found to play a key role as a maximum Faradaic efficiency of 36% toward electrocarboxylation products was achieved under ambient conditions, which increased to 59% at 40 °C but decreased to 49% at 60 °C.",
+      "relevance_reason": "命中 electrocarboxylation、electrochemical carboxylation、carboxylation、co2，与有机电羧化、CO₂ 引入及 Ni/非水体系研究直接相关，优先检查底物、电极和反应条件。",
+      "tags": [
+        "electrocarboxylation",
+        "electrochemical carboxylation",
+        "carboxylation",
+        "co2"
+      ],
+      "score": 99,
+      "url": "https://doi.org/10.26434/chemrxiv.15007901/v1",
+      "archive": false,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
     {
       "id": "W7213314465",
       "topic": "gde",
@@ -46,24 +70,48 @@
       "quartile": "Q —"
     },
     {
-      "id": "W7128534735",
+      "id": "W7213528713",
       "topic": "analysis",
       "badge": "最新研究",
       "read_minutes": 6,
-      "title": "Zwitterionic Polymer Coating Enabled Chronic Dopamine Sensing and Electrophysiology Recording in Free‐Moving Mice",
-      "journal": "Advanced Healthcare Materials",
+      "title": "Kinetic Resolution of Alkaline Ethanol Dehydrogenation: Mass Transport and Oscillatory Dynamics at the RRDE",
+      "journal": "Electrochimica Acta",
       "year": 2026,
-      "publication_date": "2026-09-13",
+      "publication_date": "2026-09-01",
       "summary_zh": "该研究聚焦电化学测试方法、反应机理或动力学分析。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
-      "abstract": "The brain's complex network relies on both electrical and chemical signaling to support its physiological and cognitive functions. To fully understand neural circuit dynamics and their dysfunctions, it is crucial to simultaneously detect neurotransmitters and modulators alongside electrophysiological signals. The striatal dopamine circuits are integral to neurological processes such as movement, reward, learning, and circadian rhythm regulation, making it highly desirable to monitor both neural activity and dopamine (DA) levels in freely behaving animals. One promising approach involves the implantation of multimodal microelectrode arrays (MEAs). However, chronic electrochemical sensing of DA in freely moving animals faces significant challenges, including biofouling of sensing electrodes and the instability of Ag/AgCl reference electrodes. In this study, we developed two complementary strategies-surface grafting and photo crosslinking-to coat the MEA and implanted Ag/AgCl reference electrodes, respectively, with zwitterionic poly(sulfobetaine methacrylate) (PSB). The surface-grafted thin PSB coating effectively inhibits protein fouling and inflammatory responses to the MEA, while the PSB hydrogel protects the Ag/AgCl electrodes from delamination in vivo, ensuring a stable reference potential. By coating both the Ag/AgCl reference electrodes and flexible polyimide MEAs with PSB and PEDOT/CNT, we achieved stable DA detection and electrophysiological recordings in freely moving mice over a four-week period. Weekly electrochemical impedance spectroscopy confirmed the long-term stability of the implanted electrodes. Our method enables multidimensional analysis of behavioral patterns, electrophysiological activity, and DA dynamics, providing a comprehensive approach for neuroscience research. This work advances neurochemical and electrophysiological methodologies by offering reliable tools for longitudinal investigations of brain function in freely behaving animals.",
-      "relevance_reason": "命中 reference electrode、electrochemical impedance spectroscopy、impedance spectroscopy，属于电化学方法/机理分析文献，可用于 CV、EIS、参比校准或动力学数据解释。",
+      "abstract": "The mechanism of the ethanol electro-oxidation reaction (EEOR) on platinum in alkaline media remains contested. This is partly because the protons released during dehydrogenation are rapidly neutralized by the electrolyte, erasing the kinetic signal. Here, we use a rotating ring-disk electrode (RRDE) as an in situ probe of the dehydrogenation chemistry on polycrystalline Pt, where the ring—held at a reducing potential—detects the protons surviving transport across the inter-electrode gap. Under cyclic voltammetry in 0.1 M NaOH, the apparent proton collection efficiency remains below 2% at rotation rates up to 900 rpm. A Damköhler-type analysis indicates that homogeneous neutralization dominates over convective transport within the inter-electrode gap and argues against classical OH− mass-transport limitation of the EEOR current under these conditions. Driving the system into its oscillatory regime exposes dynamics inaccessible under conventional potentiodynamic conditions: sharp proton-related cathodic bursts at the ring are closely synchronized with potential drops at the disk within the experimental time resolution. Phase-space representations at 400 and 900 rpm reveal a broadly similar relaxation-like morphology despite substantial differences in temporal evolution. Comparison with a microkinetic model parameterized for acidic media identifies common qualitative slow–fast features, suggesting that related feedback motifs may operate across the two regimes. The RRDE thus emerges as a kinetically resolved probe for decoding EEOR dehydrogenation dynamics.",
+      "relevance_reason": "命中 cyclic voltammetry、kinetic、mechanism、rotating ring-disk，属于电化学方法/机理分析文献，可用于 CV、EIS、参比校准或动力学数据解释。",
       "tags": [
-        "reference electrode",
-        "electrochemical impedance spectroscopy",
-        "impedance spectroscopy"
+        "cyclic voltammetry",
+        "kinetic",
+        "mechanism",
+        "rotating ring-disk"
       ],
-      "score": 90,
-      "url": "https://doi.org/10.1002/adhm.71688",
+      "score": 99,
+      "url": "https://doi.org/10.1016/j.electacta.2026.150015",
+      "archive": false,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
+    {
+      "id": "W7203792896",
+      "topic": "organic",
+      "badge": "最新研究",
+      "read_minutes": 6,
+      "title": "Enhanced CO2 Activation and Ethylene Electrocarboxylation on Rare-Earth Doped Cu2S: Insights from Electronic and Geometric Modulation",
+      "journal": "Precision Chemistry",
+      "year": 2026,
+      "publication_date": "2026-08-19",
+      "summary_zh": "该研究围绕有机电化学 CO₂ 羧化/还原羧化展开。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
+      "abstract": "Abstract M@Cu2S electrocatalysts were theoretically designed by substituting a surface Cu atom on the Cu2S(111) facet with a rare-earth M atom. All M@Cu2S electrocatalysts exhibit favorable structural stability, with negative formation energies and binding energies. On M@Cu2S, the unique bridge-bonded adsorption configuration (both O atoms of *CO2 are bonded to M) enables effective activation of *CO2, with the hydrogenation step, rather than the C–C coupling step, identified as the potential-determining step (PDS) for ethylene electrocarboxylation. Notably, Eu@Cu2S and Yb@Cu2S exhibit limiting potentials (Ulimit) of 0.97 and 0.81 V versus the standard hydrogen electrode (SHE), respectively, which are lower than those of other M@Cu2S electrocatalysts, indicating their superior catalytic performance. Structure–activity relationship analysis reveals that, among all M@Cu2S electrocatalysts, rare-earth dopants M with higher third ionization energies and larger atomic radii deliver lower Ulimit and correspondingly superior electrocatalytic activity toward ethylene electrocarboxylation to succinic acid. This work confirms that rare-earth doping with optimized electronic and geometric characteristics enhances the catalytic performance of M@Cu2S for ethylene electrocarboxylation, laying a reliable theoretical foundation for developing efficient electrocatalysts for CO2 conversion and ethylene valorization.",
+      "relevance_reason": "命中 electrocarboxylation、carboxylation、co2，与有机电羧化、CO₂ 引入及 Ni/非水体系研究直接相关，优先检查底物、电极和反应条件。",
+      "tags": [
+        "electrocarboxylation",
+        "carboxylation",
+        "co2"
+      ],
+      "score": 99,
+      "url": "https://doi.org/10.1021/prechem.6c00086",
       "archive": false,
       "impact_factor": null,
       "quartile": "Q —"
@@ -93,23 +141,48 @@
       "quartile": "Q —"
     },
     {
-      "id": "W7212451170",
+      "id": "W7213446320",
       "topic": "analysis",
       "badge": "最新研究",
       "read_minutes": 6,
-      "title": "Synthesis and Pd(II) Complexes of an Unsymmetric and Flexible Ferrocene Bisphosphine",
-      "journal": "Zeitschrift für anorganische und allgemeine Chemie",
+      "title": "Electrochemical impedance spectroscopy analysis of electrodeposited WO₃ thin films under dark and illuminated conditions",
+      "journal": "Pamukkale University Journal of Engineering Sciences",
       "year": 2026,
-      "publication_date": "2026-09-13",
+      "publication_date": "2026-09-17",
       "summary_zh": "该研究聚焦电化学测试方法、反应机理或动力学分析。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
-      "abstract": "To expand the family of flexible homologated analogs of 1,1′‐bis(diphenylphosphino)ferrocene, the unsymmetric bisphosphine 1‐(diphenylphosphino)‐1′‐[2‐(diphenylphosphino)ethyl]ferrocene ( 1 ) was prepared and examined as a ligand in Pd(II) complexes. The compound was obtained by hydrophosphination of 1‐(diphenylphosphino)‐1′‐vinylferrocene ( 2 ) and was further converted to the corresponding bis(phosphine selenide) ( 3 ). While the reactions of 1 with [PdCl 2 (cod)] and [(L NC )Pd(MeCN) 2 ](ClO 4 ) (cod = cycloocta‐1,5‐diene, L NC = [2‐(dimethylamino)methyl]phenyl) were unselective and yielded no defined product, cleavage of the dimeric precursor [(L NC )Pd(μ‐Cl)] 2 cleanly produced the P,P′‐bridged palladium(II) complex [(μ(P,P′)‐ 1 ){Pd(L NC )Cl} 2 ] ( 4 ). These experiments suggested that 1 has a decreased ability to form chelate complexes, typical of the more rigid dppf. Compounds 1 , 3 , and 4 were characterized by spectroscopic methods, elemental analysis, and single‐crystal X‐ray diffraction, and the electrochemical properties of 1 and the dipalladium complex 4 were investigated using cyclic voltammetry.",
-      "relevance_reason": "命中 cyclic voltammetry、ferrocene，属于电化学方法/机理分析文献，可用于 CV、EIS、参比校准或动力学数据解释。",
+      "abstract": "Context—Tungsten oxide (WO₃) is widely recognized as a promising material for photoelectrochemical applications due to its favorable optical transparency, chemical stability, and suitable band gap. Understanding the relationship between deposition parameters and interfacial charge transfer behavior is essential for improving the performance of WO₃-based devices.Objective—In this study, tungsten oxide (WO₃) thin films were deposited on FTO-coated glass substrates at −0.6 V and −0.7 V using a potentiostatic electrodeposition technique. The effect of deposition potential on surface morphology, optical properties, and photoelectrochemical behavior was systematically investigated.Method—SEM analysis revealed that both films exhibit homogeneous and continuous structures, while the sample deposited at −0.7 V shows more pronounced agglomeration, indicating enhanced nucleation and growth kinetics at higher deposition potentials. UV–Vis measurements demonstrated that both samples exhibit high optical transmittance in the visible region (approximately 70–80%), whereas a slight decrease was observed for the −0.7 V sample due to increased light scattering associated with higher surface roughness. Electrochemical Impedance Spectroscopy (EIS) and Photoelectrochemical Impedance Spectroscopy (PEIS) measurements were carried out under dark conditions, as well as under 535 nm monochromatic and Xe lamp illumination. The impedance data was further analyzed using equivalent circuit modeling to evaluate interfacial parameters such as charge transfer resistance and capacitive behavior.Results—While predominantly capacitive behavior was observed under dark conditions, a significant decrease in impedance under illumination indicates the generation of photo-induced charge carriers and enhanced interfacial charge transfer processes. Comparative analysis showed that the sample deposited at −0.6 V exhibits lower impedance and a more stable interfacial response under illumination, indicating more efficient charge transfer. In contrast, the sample deposited at −0.7 V demonstrates a more complex impedance response associated with increased surface heterogeneity and recombination processes.Conclusion—These results demonstrate that the deposition potential plays a decisive role in determining the interfacial kinetics and electrochemical behavior of WO₃ thin films, and that a potential of −0.6 V enables more efficient charge transfer. These findings highlight the critical role of deposition parameter optimization in tailoring the interfacial properties of WO₃ thin films. This study positions EIS and PEIS techniques as indispensable characterization tools for advancing WO₃-based photoelectrochemical systems and provides a strong foundation for the design of next-generation smart window technologies and efficient solar-driven hydrogen production systems.",
+      "relevance_reason": "命中 kinetic、electrochemical impedance spectroscopy、impedance spectroscopy、equivalent circuit，属于电化学方法/机理分析文献，可用于 CV、EIS、参比校准或动力学数据解释。",
       "tags": [
-        "cyclic voltammetry",
-        "ferrocene"
+        "kinetic",
+        "electrochemical impedance spectroscopy",
+        "impedance spectroscopy",
+        "equivalent circuit"
       ],
-      "score": 79,
-      "url": "https://doi.org/10.1002/zaac.70201",
+      "score": 95,
+      "url": "https://doi.org/10.65206/pajes.1940800",
+      "archive": false,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
+    {
+      "id": "W7204037768",
+      "topic": "organic",
+      "badge": "最新研究",
+      "read_minutes": 8,
+      "title": "Promoting CO2 electrocarboxylation to C6+ dicarboxylic acids by tuning Co-Fe interactions",
+      "journal": "Science China Materials",
+      "year": 2026,
+      "publication_date": "2026-08-18",
+      "summary_zh": "该研究围绕有机电化学 CO₂ 羧化/还原羧化展开。 题目：Promoting CO2 electrocarboxylation to C6+ dicarboxylic acids by tuning Co-Fe interactions",
+      "abstract": "",
+      "relevance_reason": "命中 electrocarboxylation、carboxylation、co2，与有机电羧化、CO₂ 引入及 Ni/非水体系研究直接相关，优先检查底物、电极和反应条件。",
+      "tags": [
+        "electrocarboxylation",
+        "carboxylation",
+        "co2"
+      ],
+      "score": 99,
+      "url": "https://doi.org/10.1007/s40843-026-4278-0",
       "archive": false,
       "impact_factor": null,
       "quartile": "Q —"
@@ -138,6 +211,74 @@
       "quartile": "Q —"
     },
     {
+      "id": "W7213265733",
+      "topic": "analysis",
+      "badge": "最新研究",
+      "read_minutes": 6,
+      "title": "Cycling-Induced Interfacial Reconstruction and Lithium-Storage Kinetics in Additive-Free Electrophoretic Deposition-Derived Methylammonium Lead Bromide Electrodes",
+      "journal": "Batteries",
+      "year": 2026,
+      "publication_date": "2026-09-16",
+      "summary_zh": "该研究聚焦电化学测试方法、反应机理或动力学分析。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
+      "abstract": "Additive-free methylammonium lead bromide (MAPbBr3) electrodes were fabricated by electrophoretic deposition (EPD) directly on Cu foil to investigate Li-storage kinetics while minimizing electrochemical and interfacial contributions associated with polymer binders and conductive carbon additives. The EPD-derived film formed a porous particulate coating and exhibited an optical band gap of approximately 2.24 eV, confirming the retention of MAPbBr3 after deposition. Peak-resolved electrochemical analysis showed that Li storage does not proceed through a single intercalation pathway. The low-voltage cathodic peak showed mixed diffusion/interfacial behavior. In contrast, other redox peaks were mainly diffusion-controlled, with b-values close to 0.5. After cycling, energy dispersive spectroscopy revealed decreased N, Br, and Pb contents and increased F, P, and O signals, indicating MAPbBr3 reconstruction and electrolyte-derived interphase formation. Electrochemical impedance spectroscopy results showed that charge-transfer resistance decreased during discharge, suggesting kinetic activation of the reconstructed interface. This work establishes additive-free EPD as a powerful platform for revealing cycling-induced interfacial reconstruction and multistep Li-storage kinetics in MAPbBr3 perovskite electrodes.",
+      "relevance_reason": "命中 kinetic、electrochemical impedance spectroscopy、impedance spectroscopy，属于电化学方法/机理分析文献，可用于 CV、EIS、参比校准或动力学数据解释。",
+      "tags": [
+        "kinetic",
+        "electrochemical impedance spectroscopy",
+        "impedance spectroscopy"
+      ],
+      "score": 80,
+      "url": "https://doi.org/10.3390/batteries12090366",
+      "archive": false,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
+    {
+      "id": "W7128534735",
+      "topic": "analysis",
+      "badge": "最新研究",
+      "read_minutes": 6,
+      "title": "Zwitterionic Polymer Coating Enabled Chronic Dopamine Sensing and Electrophysiology Recording in Free‐Moving Mice",
+      "journal": "Advanced Healthcare Materials",
+      "year": 2026,
+      "publication_date": "2026-09-13",
+      "summary_zh": "该研究聚焦电化学测试方法、反应机理或动力学分析。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
+      "abstract": "The brain's complex network relies on both electrical and chemical signaling to support its physiological and cognitive functions. To fully understand neural circuit dynamics and their dysfunctions, it is crucial to simultaneously detect neurotransmitters and modulators alongside electrophysiological signals. The striatal dopamine circuits are integral to neurological processes such as movement, reward, learning, and circadian rhythm regulation, making it highly desirable to monitor both neural activity and dopamine (DA) levels in freely behaving animals. One promising approach involves the implantation of multimodal microelectrode arrays (MEAs). However, chronic electrochemical sensing of DA in freely moving animals faces significant challenges, including biofouling of sensing electrodes and the instability of Ag/AgCl reference electrodes. In this study, we developed two complementary strategies-surface grafting and photo crosslinking-to coat the MEA and implanted Ag/AgCl reference electrodes, respectively, with zwitterionic poly(sulfobetaine methacrylate) (PSB). The surface-grafted thin PSB coating effectively inhibits protein fouling and inflammatory responses to the MEA, while the PSB hydrogel protects the Ag/AgCl electrodes from delamination in vivo, ensuring a stable reference potential. By coating both the Ag/AgCl reference electrodes and flexible polyimide MEAs with PSB and PEDOT/CNT, we achieved stable DA detection and electrophysiological recordings in freely moving mice over a four-week period. Weekly electrochemical impedance spectroscopy confirmed the long-term stability of the implanted electrodes. Our method enables multidimensional analysis of behavioral patterns, electrophysiological activity, and DA dynamics, providing a comprehensive approach for neuroscience research. This work advances neurochemical and electrophysiological methodologies by offering reliable tools for longitudinal investigations of brain function in freely behaving animals.",
+      "relevance_reason": "命中 reference electrode、electrochemical impedance spectroscopy、impedance spectroscopy，属于电化学方法/机理分析文献，可用于 CV、EIS、参比校准或动力学数据解释。",
+      "tags": [
+        "reference electrode",
+        "electrochemical impedance spectroscopy",
+        "impedance spectroscopy"
+      ],
+      "score": 90,
+      "url": "https://doi.org/10.1002/adhm.71688",
+      "archive": true,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
+    {
+      "id": "W7212451170",
+      "topic": "analysis",
+      "badge": "最新研究",
+      "read_minutes": 6,
+      "title": "Synthesis and Pd(II) Complexes of an Unsymmetric and Flexible Ferrocene Bisphosphine",
+      "journal": "Zeitschrift für anorganische und allgemeine Chemie",
+      "year": 2026,
+      "publication_date": "2026-09-13",
+      "summary_zh": "该研究聚焦电化学测试方法、反应机理或动力学分析。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
+      "abstract": "To expand the family of flexible homologated analogs of 1,1′‐bis(diphenylphosphino)ferrocene, the unsymmetric bisphosphine 1‐(diphenylphosphino)‐1′‐[2‐(diphenylphosphino)ethyl]ferrocene ( 1 ) was prepared and examined as a ligand in Pd(II) complexes. The compound was obtained by hydrophosphination of 1‐(diphenylphosphino)‐1′‐vinylferrocene ( 2 ) and was further converted to the corresponding bis(phosphine selenide) ( 3 ). While the reactions of 1 with [PdCl 2 (cod)] and [(L NC )Pd(MeCN) 2 ](ClO 4 ) (cod = cycloocta‐1,5‐diene, L NC = [2‐(dimethylamino)methyl]phenyl) were unselective and yielded no defined product, cleavage of the dimeric precursor [(L NC )Pd(μ‐Cl)] 2 cleanly produced the P,P′‐bridged palladium(II) complex [(μ(P,P′)‐ 1 ){Pd(L NC )Cl} 2 ] ( 4 ). These experiments suggested that 1 has a decreased ability to form chelate complexes, typical of the more rigid dppf. Compounds 1 , 3 , and 4 were characterized by spectroscopic methods, elemental analysis, and single‐crystal X‐ray diffraction, and the electrochemical properties of 1 and the dipalladium complex 4 were investigated using cyclic voltammetry.",
+      "relevance_reason": "命中 cyclic voltammetry、ferrocene，属于电化学方法/机理分析文献，可用于 CV、EIS、参比校准或动力学数据解释。",
+      "tags": [
+        "cyclic voltammetry",
+        "ferrocene"
+      ],
+      "score": 79,
+      "url": "https://doi.org/10.1002/zaac.70201",
+      "archive": true,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
+    {
       "id": "W7204788644",
       "topic": "analysis",
       "badge": "最新研究",
@@ -156,7 +297,7 @@
       ],
       "score": 78,
       "url": "https://doi.org/10.59038/jjmie/200304",
-      "archive": false,
+      "archive": true,
       "impact_factor": null,
       "quartile": "Q —"
     },
@@ -178,7 +319,7 @@
       ],
       "score": 85,
       "url": "https://doi.org/10.1016/j.jcou.2026.103569",
-      "archive": false,
+      "archive": true,
       "impact_factor": null,
       "quartile": "Q —"
     },
@@ -200,7 +341,7 @@
       ],
       "score": 85,
       "url": "https://doi.org/10.1016/j.jcis.2026.141583",
-      "archive": false,
+      "archive": true,
       "impact_factor": null,
       "quartile": "Q —"
     },
@@ -222,30 +363,6 @@
       ],
       "score": 81,
       "url": "https://doi.org/10.1038/s41598-026-49097-8",
-      "archive": false,
-      "impact_factor": null,
-      "quartile": "Q —"
-    },
-    {
-      "id": "W7204254964",
-      "topic": "organic",
-      "badge": "最新研究",
-      "read_minutes": 6,
-      "title": "Electrocarboxylation of 1,3-butadiene with CO2 to 3-hexenedioic acid: effect of operating parameters on product selectivity",
-      "journal": "ChemRxiv",
-      "year": 2026,
-      "publication_date": "2026-08-26",
-      "summary_zh": "该研究围绕有机电化学 CO₂ 羧化/还原羧化展开。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
-      "abstract": "The electrochemical carboxylation of alkenes using CO2 is a sustainable and promising approach for synthesizing a variety of organic compounds, especially carboxylic acid derivatives. These processes are of high scientific and commercial interest as only one or two electrons are required per CO2 molecule to produce value-added products. Here, we report on the electrochemical dicarboxylation of 1,3-butadiene with CO2 to obtain 3-hexenedioic acid, a key intermediate to produce adipic acid. The electrocarboxylation was performed in acetonitrile using a nickel cathode, an aluminium anode, and Ag/AgCl reference electrode in an undivided cell. We systematically explore how different operating conditions including the applied voltage, water content, and temperature affect the reaction performance and the product distribution. Importantly, we find that the water content significantly influences product formation, highlighting its critical role in optimizing the reaction conditions. Temperature was found to play a key role as a maximum Faradaic efficiency of 36% toward electrocarboxylation products was achieved under ambient conditions, which increased to 59% at 40 °C but decreased to 49% at 60 °C.",
-      "relevance_reason": "命中 electrocarboxylation、electrochemical carboxylation、carboxylation、co2，与有机电羧化、CO₂ 引入及 Ni/非水体系研究直接相关，优先检查底物、电极和反应条件。",
-      "tags": [
-        "electrocarboxylation",
-        "electrochemical carboxylation",
-        "carboxylation",
-        "co2"
-      ],
-      "score": 99,
-      "url": "https://doi.org/10.26434/chemrxiv.15007901/v1",
       "archive": true,
       "impact_factor": null,
       "quartile": "Q —"
@@ -270,75 +387,6 @@
       ],
       "score": 94,
       "url": "https://doi.org/10.1016/j.ijoes.2026.101480",
-      "archive": true,
-      "impact_factor": null,
-      "quartile": "Q —"
-    },
-    {
-      "id": "W7203792896",
-      "topic": "organic",
-      "badge": "最新研究",
-      "read_minutes": 6,
-      "title": "Enhanced CO2 Activation and Ethylene Electrocarboxylation on Rare-Earth Doped Cu2S: Insights from Electronic and Geometric Modulation",
-      "journal": "Precision Chemistry",
-      "year": 2026,
-      "publication_date": "2026-08-19",
-      "summary_zh": "该研究围绕有机电化学 CO₂ 羧化/还原羧化展开。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
-      "abstract": "Abstract M@Cu2S electrocatalysts were theoretically designed by substituting a surface Cu atom on the Cu2S(111) facet with a rare-earth M atom. All M@Cu2S electrocatalysts exhibit favorable structural stability, with negative formation energies and binding energies. On M@Cu2S, the unique bridge-bonded adsorption configuration (both O atoms of *CO2 are bonded to M) enables effective activation of *CO2, with the hydrogenation step, rather than the C–C coupling step, identified as the potential-determining step (PDS) for ethylene electrocarboxylation. Notably, Eu@Cu2S and Yb@Cu2S exhibit limiting potentials (Ulimit) of 0.97 and 0.81 V versus the standard hydrogen electrode (SHE), respectively, which are lower than those of other M@Cu2S electrocatalysts, indicating their superior catalytic performance. Structure–activity relationship analysis reveals that, among all M@Cu2S electrocatalysts, rare-earth dopants M with higher third ionization energies and larger atomic radii deliver lower Ulimit and correspondingly superior electrocatalytic activity toward ethylene electrocarboxylation to succinic acid. This work confirms that rare-earth doping with optimized electronic and geometric characteristics enhances the catalytic performance of M@Cu2S for ethylene electrocarboxylation, laying a reliable theoretical foundation for developing efficient electrocatalysts for CO2 conversion and ethylene valorization.",
-      "relevance_reason": "命中 electrocarboxylation、carboxylation、co2，与有机电羧化、CO₂ 引入及 Ni/非水体系研究直接相关，优先检查底物、电极和反应条件。",
-      "tags": [
-        "electrocarboxylation",
-        "carboxylation",
-        "co2"
-      ],
-      "score": 99,
-      "url": "https://doi.org/10.1021/prechem.6c00086",
-      "archive": true,
-      "impact_factor": null,
-      "quartile": "Q —"
-    },
-    {
-      "id": "W7204037768",
-      "topic": "organic",
-      "badge": "最新研究",
-      "read_minutes": 8,
-      "title": "Promoting CO2 electrocarboxylation to C6+ dicarboxylic acids by tuning Co-Fe interactions",
-      "journal": "Science China Materials",
-      "year": 2026,
-      "publication_date": "2026-08-18",
-      "summary_zh": "该研究围绕有机电化学 CO₂ 羧化/还原羧化展开。 题目：Promoting CO2 electrocarboxylation to C6+ dicarboxylic acids by tuning Co-Fe interactions",
-      "abstract": "",
-      "relevance_reason": "命中 electrocarboxylation、carboxylation、co2，与有机电羧化、CO₂ 引入及 Ni/非水体系研究直接相关，优先检查底物、电极和反应条件。",
-      "tags": [
-        "electrocarboxylation",
-        "carboxylation",
-        "co2"
-      ],
-      "score": 99,
-      "url": "https://doi.org/10.1007/s40843-026-4278-0",
-      "archive": true,
-      "impact_factor": null,
-      "quartile": "Q —"
-    },
-    {
-      "id": "W7213265733",
-      "topic": "analysis",
-      "badge": "最新研究",
-      "read_minutes": 6,
-      "title": "Cycling-Induced Interfacial Reconstruction and Lithium-Storage Kinetics in Additive-Free Electrophoretic Deposition-Derived Methylammonium Lead Bromide Electrodes",
-      "journal": "Batteries",
-      "year": 2026,
-      "publication_date": "2026-09-16",
-      "summary_zh": "该研究聚焦电化学测试方法、反应机理或动力学分析。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
-      "abstract": "Additive-free methylammonium lead bromide (MAPbBr3) electrodes were fabricated by electrophoretic deposition (EPD) directly on Cu foil to investigate Li-storage kinetics while minimizing electrochemical and interfacial contributions associated with polymer binders and conductive carbon additives. The EPD-derived film formed a porous particulate coating and exhibited an optical band gap of approximately 2.24 eV, confirming the retention of MAPbBr3 after deposition. Peak-resolved electrochemical analysis showed that Li storage does not proceed through a single intercalation pathway. The low-voltage cathodic peak showed mixed diffusion/interfacial behavior. In contrast, other redox peaks were mainly diffusion-controlled, with b-values close to 0.5. After cycling, energy dispersive spectroscopy revealed decreased N, Br, and Pb contents and increased F, P, and O signals, indicating MAPbBr3 reconstruction and electrolyte-derived interphase formation. Electrochemical impedance spectroscopy results showed that charge-transfer resistance decreased during discharge, suggesting kinetic activation of the reconstructed interface. This work establishes additive-free EPD as a powerful platform for revealing cycling-induced interfacial reconstruction and multistep Li-storage kinetics in MAPbBr3 perovskite electrodes.",
-      "relevance_reason": "命中 kinetic、electrochemical impedance spectroscopy、impedance spectroscopy，属于电化学方法/机理分析文献，可用于 CV、EIS、参比校准或动力学数据解释。",
-      "tags": [
-        "kinetic",
-        "electrochemical impedance spectroscopy",
-        "impedance spectroscopy"
-      ],
-      "score": 80,
-      "url": "https://doi.org/10.3390/batteries12090366",
       "archive": true,
       "impact_factor": null,
       "quartile": "Q —"
