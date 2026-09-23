@@ -1,7 +1,7 @@
 {
-  "brief_date": "2026 · 09 · 22",
-  "last_updated": "2026-09-22",
-  "match_score": 97,
+  "brief_date": "2026 · 09 · 23",
+  "last_updated": "2026-09-23",
+  "match_score": 85,
   "trackers": [
     {
       "name": "Ni electrocarboxylation",
@@ -22,30 +22,6 @@
   ],
   "papers": [
     {
-      "id": "W7204254964",
-      "topic": "organic",
-      "badge": "最新研究",
-      "read_minutes": 6,
-      "title": "Electrocarboxylation of 1,3-butadiene with CO2 to 3-hexenedioic acid: effect of operating parameters on product selectivity",
-      "journal": "ChemRxiv",
-      "year": 2026,
-      "publication_date": "2026-08-26",
-      "summary_zh": "该研究围绕有机电化学 CO₂ 羧化/还原羧化展开。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
-      "abstract": "The electrochemical carboxylation of alkenes using CO2 is a sustainable and promising approach for synthesizing a variety of organic compounds, especially carboxylic acid derivatives. These processes are of high scientific and commercial interest as only one or two electrons are required per CO2 molecule to produce value-added products. Here, we report on the electrochemical dicarboxylation of 1,3-butadiene with CO2 to obtain 3-hexenedioic acid, a key intermediate to produce adipic acid. The electrocarboxylation was performed in acetonitrile using a nickel cathode, an aluminium anode, and Ag/AgCl reference electrode in an undivided cell. We systematically explore how different operating conditions including the applied voltage, water content, and temperature affect the reaction performance and the product distribution. Importantly, we find that the water content significantly influences product formation, highlighting its critical role in optimizing the reaction conditions. Temperature was found to play a key role as a maximum Faradaic efficiency of 36% toward electrocarboxylation products was achieved under ambient conditions, which increased to 59% at 40 °C but decreased to 49% at 60 °C.",
-      "relevance_reason": "命中 electrocarboxylation、electrochemical carboxylation、carboxylation、co2，与有机电羧化、CO₂ 引入及 Ni/非水体系研究直接相关，优先检查底物、电极和反应条件。",
-      "tags": [
-        "electrocarboxylation",
-        "electrochemical carboxylation",
-        "carboxylation",
-        "co2"
-      ],
-      "score": 99,
-      "url": "https://doi.org/10.26434/chemrxiv.15007901/v1",
-      "archive": false,
-      "impact_factor": null,
-      "quartile": "Q —"
-    },
-    {
       "id": "W7213314465",
       "topic": "gde",
       "badge": "最新研究",
@@ -65,77 +41,6 @@
       ],
       "score": 99,
       "url": "https://doi.org/10.1002/celc.70303",
-      "archive": false,
-      "impact_factor": null,
-      "quartile": "Q —"
-    },
-    {
-      "id": "W7213528713",
-      "topic": "analysis",
-      "badge": "最新研究",
-      "read_minutes": 6,
-      "title": "Kinetic Resolution of Alkaline Ethanol Dehydrogenation: Mass Transport and Oscillatory Dynamics at the RRDE",
-      "journal": "Electrochimica Acta",
-      "year": 2026,
-      "publication_date": "2026-09-01",
-      "summary_zh": "该研究聚焦电化学测试方法、反应机理或动力学分析。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
-      "abstract": "The mechanism of the ethanol electro-oxidation reaction (EEOR) on platinum in alkaline media remains contested. This is partly because the protons released during dehydrogenation are rapidly neutralized by the electrolyte, erasing the kinetic signal. Here, we use a rotating ring-disk electrode (RRDE) as an in situ probe of the dehydrogenation chemistry on polycrystalline Pt, where the ring—held at a reducing potential—detects the protons surviving transport across the inter-electrode gap. Under cyclic voltammetry in 0.1 M NaOH, the apparent proton collection efficiency remains below 2% at rotation rates up to 900 rpm. A Damköhler-type analysis indicates that homogeneous neutralization dominates over convective transport within the inter-electrode gap and argues against classical OH− mass-transport limitation of the EEOR current under these conditions. Driving the system into its oscillatory regime exposes dynamics inaccessible under conventional potentiodynamic conditions: sharp proton-related cathodic bursts at the ring are closely synchronized with potential drops at the disk within the experimental time resolution. Phase-space representations at 400 and 900 rpm reveal a broadly similar relaxation-like morphology despite substantial differences in temporal evolution. Comparison with a microkinetic model parameterized for acidic media identifies common qualitative slow–fast features, suggesting that related feedback motifs may operate across the two regimes. The RRDE thus emerges as a kinetically resolved probe for decoding EEOR dehydrogenation dynamics.",
-      "relevance_reason": "命中 cyclic voltammetry、kinetic、mechanism、rotating ring-disk，属于电化学方法/机理分析文献，可用于 CV、EIS、参比校准或动力学数据解释。",
-      "tags": [
-        "cyclic voltammetry",
-        "kinetic",
-        "mechanism",
-        "rotating ring-disk"
-      ],
-      "score": 99,
-      "url": "https://doi.org/10.1016/j.electacta.2026.150015",
-      "archive": false,
-      "impact_factor": null,
-      "quartile": "Q —"
-    },
-    {
-      "id": "W7203792896",
-      "topic": "organic",
-      "badge": "最新研究",
-      "read_minutes": 6,
-      "title": "Enhanced CO2 Activation and Ethylene Electrocarboxylation on Rare-Earth Doped Cu2S: Insights from Electronic and Geometric Modulation",
-      "journal": "Precision Chemistry",
-      "year": 2026,
-      "publication_date": "2026-08-19",
-      "summary_zh": "该研究围绕有机电化学 CO₂ 羧化/还原羧化展开。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
-      "abstract": "Abstract M@Cu2S electrocatalysts were theoretically designed by substituting a surface Cu atom on the Cu2S(111) facet with a rare-earth M atom. All M@Cu2S electrocatalysts exhibit favorable structural stability, with negative formation energies and binding energies. On M@Cu2S, the unique bridge-bonded adsorption configuration (both O atoms of *CO2 are bonded to M) enables effective activation of *CO2, with the hydrogenation step, rather than the C–C coupling step, identified as the potential-determining step (PDS) for ethylene electrocarboxylation. Notably, Eu@Cu2S and Yb@Cu2S exhibit limiting potentials (Ulimit) of 0.97 and 0.81 V versus the standard hydrogen electrode (SHE), respectively, which are lower than those of other M@Cu2S electrocatalysts, indicating their superior catalytic performance. Structure–activity relationship analysis reveals that, among all M@Cu2S electrocatalysts, rare-earth dopants M with higher third ionization energies and larger atomic radii deliver lower Ulimit and correspondingly superior electrocatalytic activity toward ethylene electrocarboxylation to succinic acid. This work confirms that rare-earth doping with optimized electronic and geometric characteristics enhances the catalytic performance of M@Cu2S for ethylene electrocarboxylation, laying a reliable theoretical foundation for developing efficient electrocatalysts for CO2 conversion and ethylene valorization.",
-      "relevance_reason": "命中 electrocarboxylation、carboxylation、co2，与有机电羧化、CO₂ 引入及 Ni/非水体系研究直接相关，优先检查底物、电极和反应条件。",
-      "tags": [
-        "electrocarboxylation",
-        "carboxylation",
-        "co2"
-      ],
-      "score": 99,
-      "url": "https://doi.org/10.1021/prechem.6c00086",
-      "archive": false,
-      "impact_factor": null,
-      "quartile": "Q —"
-    },
-    {
-      "id": "W7212032188",
-      "topic": "gde",
-      "badge": "最新研究",
-      "read_minutes": 6,
-      "title": "Minireview and Outlook of Salt Precipitation in CO2 Electrolysis",
-      "journal": "Energy & Fuels",
-      "year": 2026,
-      "publication_date": "2026-09-09",
-      "summary_zh": "该研究聚焦 GDE、孔结构或 X-ray/Micro-CT 三维表征。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
-      "abstract": "Abstract CO2 electrolysis has progressed rapidly toward industrially relevant current densities, but its practical deployment is increasingly limited by reactor-level instabilities. Specifically, salt precipitation has emerged as a critical yet not well-understood challenge in high-rate CO2 electrolysis. Recent studies show that this phenomenon is governed not simply by bulk electrolyte composition, but by coupled interfacial properties including local alkalinity, cation migration and water distribution. The resulting bi(carbonate) accumulation can lead to supersaturation within the confined pore structures of the gas diffusion layer and subsequently salt nucleation and precipitation. These deposits reduce CO2 mass transport and eventually induce flooding that substantially compromise electrolyzer performance. In this minireview, we summarize the mechanistic origins, spatial distribution, and performance consequences of salt precipitation in CO2 electrolysis. We further assess emerging diagnostic tools and outline salt precipitation mitigation strategies towards the development of stable CO2 electrolyzers.",
-      "relevance_reason": "命中 gas diffusion layer、flooding、co2 electrolysis、co2 electroly，与 GDE 结构、润湿/淹没行为或 Micro-CT 三维表征相关，可用于结构—性能关联分析。",
-      "tags": [
-        "gas diffusion layer",
-        "flooding",
-        "co2 electrolysis",
-        "co2 electroly"
-      ],
-      "score": 99,
-      "url": "https://doi.org/10.1021/acs.energyfuels.6c03732",
       "archive": false,
       "impact_factor": null,
       "quartile": "Q —"
@@ -165,29 +70,6 @@
       "quartile": "Q —"
     },
     {
-      "id": "W7204037768",
-      "topic": "organic",
-      "badge": "最新研究",
-      "read_minutes": 8,
-      "title": "Promoting CO2 electrocarboxylation to C6+ dicarboxylic acids by tuning Co-Fe interactions",
-      "journal": "Science China Materials",
-      "year": 2026,
-      "publication_date": "2026-08-18",
-      "summary_zh": "该研究围绕有机电化学 CO₂ 羧化/还原羧化展开。 题目：Promoting CO2 electrocarboxylation to C6+ dicarboxylic acids by tuning Co-Fe interactions",
-      "abstract": "",
-      "relevance_reason": "命中 electrocarboxylation、carboxylation、co2，与有机电羧化、CO₂ 引入及 Ni/非水体系研究直接相关，优先检查底物、电极和反应条件。",
-      "tags": [
-        "electrocarboxylation",
-        "carboxylation",
-        "co2"
-      ],
-      "score": 99,
-      "url": "https://doi.org/10.1007/s40843-026-4278-0",
-      "archive": false,
-      "impact_factor": null,
-      "quartile": "Q —"
-    },
-    {
       "id": "W7211875689",
       "topic": "gde",
       "badge": "最新研究",
@@ -211,6 +93,233 @@
       "quartile": "Q —"
     },
     {
+      "id": "W7212451170",
+      "topic": "analysis",
+      "badge": "最新研究",
+      "read_minutes": 6,
+      "title": "Synthesis and Pd(II) Complexes of an Unsymmetric and Flexible Ferrocene Bisphosphine",
+      "journal": "Zeitschrift für anorganische und allgemeine Chemie",
+      "year": 2026,
+      "publication_date": "2026-09-13",
+      "summary_zh": "该研究聚焦电化学测试方法、反应机理或动力学分析。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
+      "abstract": "To expand the family of flexible homologated analogs of 1,1′‐bis(diphenylphosphino)ferrocene, the unsymmetric bisphosphine 1‐(diphenylphosphino)‐1′‐[2‐(diphenylphosphino)ethyl]ferrocene ( 1 ) was prepared and examined as a ligand in Pd(II) complexes. The compound was obtained by hydrophosphination of 1‐(diphenylphosphino)‐1′‐vinylferrocene ( 2 ) and was further converted to the corresponding bis(phosphine selenide) ( 3 ). While the reactions of 1 with [PdCl 2 (cod)] and [(L NC )Pd(MeCN) 2 ](ClO 4 ) (cod = cycloocta‐1,5‐diene, L NC = [2‐(dimethylamino)methyl]phenyl) were unselective and yielded no defined product, cleavage of the dimeric precursor [(L NC )Pd(μ‐Cl)] 2 cleanly produced the P,P′‐bridged palladium(II) complex [(μ(P,P′)‐ 1 ){Pd(L NC )Cl} 2 ] ( 4 ). These experiments suggested that 1 has a decreased ability to form chelate complexes, typical of the more rigid dppf. Compounds 1 , 3 , and 4 were characterized by spectroscopic methods, elemental analysis, and single‐crystal X‐ray diffraction, and the electrochemical properties of 1 and the dipalladium complex 4 were investigated using cyclic voltammetry.",
+      "relevance_reason": "命中 cyclic voltammetry、ferrocene，属于电化学方法/机理分析文献，可用于 CV、EIS、参比校准或动力学数据解释。",
+      "tags": [
+        "cyclic voltammetry",
+        "ferrocene"
+      ],
+      "score": 79,
+      "url": "https://doi.org/10.1002/zaac.70201",
+      "archive": false,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
+    {
+      "id": "W7213221707",
+      "topic": "gde",
+      "badge": "最新研究",
+      "read_minutes": 6,
+      "title": "Upcycling photovoltaic silver waste into hierarchically structured electrocatalysts for flooding-resistant zero-gap CO2-to-CO electrolysis",
+      "journal": "Journal of CO2 Utilization",
+      "year": 2026,
+      "publication_date": "2026-09-15",
+      "summary_zh": "该研究聚焦 GDE、孔结构或 X-ray/Micro-CT 三维表征。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
+      "abstract": "Electrochemical CO 2 reduction reaction (CO 2 RR) offers a highly sustainable pathway for converting carbon emissions into valuable chemicals; however, developing robust catalysts from secondary resources that can withstand electrolyte flooding in zero-gap membrane electrode assemblies (MEAs) remain a significant challenge. Herein, we demonstrate a practical strategy by upcycling high-purity (~99.9%) silver nanoparticles (EoL-Ag NPs) reclaimed from end-of-life silicon solar panels into durable electrocatalysts for high-rate CO production. The EoL-Ag NPs, synthesized via a scalable laser-assisted photoreduction process following selective hydrometallurgical impurity extraction, exhibit an exceptionally pristine metallic state (Ag 0 ). Crucially, this upcycling route naturally imparts a multi-scale, polydisperse nano-to-micro morphology to the EoL-Ag NPs. This structural roughness establishes a robust hydrophobic microenvironment within the gas diffusion electrode, lowering the water adhesive force by 2.7-fold and enhancing localized affinity for gaseous CO 2 . Evaluated in a 10 cm 2 zero-gap MEA electrolyzer, the EoL-Ag catalyst outlasts conventional commercial counterparts, delivering a maximum CO partial current density of 296 mA cm −2 at a total current density of 400 mA cm −2 . Most importantly, the flooding-resistant electrode exhibits unprecedented stability, operating continuously for over 600 h at 100 mA cm −2 and for 55 h at an industrially demanding 200 mA cm −2 with a stable CO Faradaic efficiency of ~95%. This work proves that upcycled solar waste can serve as a highly durable alternative to commercial noble catalysts, simultaneously resolving PV waste accumulation and advancing scalable carbon utilization.",
+      "relevance_reason": "命中 gas diffusion electrode、flooding，与 GDE 结构、润湿/淹没行为或 Micro-CT 三维表征相关，可用于结构—性能关联分析。",
+      "tags": [
+        "gas diffusion electrode",
+        "flooding"
+      ],
+      "score": 85,
+      "url": "https://doi.org/10.1016/j.jcou.2026.103569",
+      "archive": false,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
+    {
+      "id": "W7213472476",
+      "topic": "analysis",
+      "badge": "最新研究",
+      "read_minutes": 6,
+      "title": "Potential‐Controlled Ammonium‐Assisted Reversible Electrodeposition of Polyoxometalates for Hybrid Redox Flow Batteries",
+      "journal": "Advanced Science",
+      "year": 2026,
+      "publication_date": "2026-09-16",
+      "summary_zh": "该研究聚焦电化学测试方法、反应机理或动力学分析。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
+      "abstract": "ABSTRACT Counter‐cations play a key role in modulating the redox chemistry and phase behavior of polyoxometalates (POMs). In this study, we report a potential‐controlled, ammonium‐assisted electrodeposition of POMs from nonaqueous electrolytes. Owing to its tetrahedral geometry and hydrogen‐bonding capability, NH 4 + uniquely stabilizes reduced POM clusters at the electrode interface, enabling reversible solid‐to‐solution transitions. Using the mixed‐valence vanadium cluster [V 18 O 46 (NO 3 )] 5− and Keggin‐type POM cluster, [PMo 12 O 40 ] 3− as model systems, we demonstrate controlled reversible charge‐transfer dynamics, including effective mass deposition under reductive potentials and complete dissolution upon oxidation, as confirmed by cyclic voltammetry and electrochemical quartz crystal microbalance (EQCM) measurements. Microscopic and spectroscopic investigations reveal that electrodeposition at low potentials involves partial reduction of redox‐active metal centers within the POM framework, accompanied by NH 4 + incorporation via hydrogen‐bonded networks, forming NH 4 + ‐coupled POM‐derived deposits, which exhibit a significantly different pathway from the classic metal electrodeposition (metal plating). Leveraging this reversible behavior, we propose the design of POM electrodeposition‐based hybrid redox flow battery (RFB), where NH 4 + ‐driven POM electrodeposition/dissolution in the negative half‐cell enables electron storage/release during charge/discharge processes, and validate the design through proof‐of‐concept battery demonstrations. These findings provide important initial insights into NH 4 + ‐driven reversible POM electrodeposition and highlight its potential in advancing electrochemical energy storage technologies.",
+      "relevance_reason": "命中 cyclic voltammetry、nonaqueous，属于电化学方法/机理分析文献，可用于 CV、EIS、参比校准或动力学数据解释。",
+      "tags": [
+        "cyclic voltammetry",
+        "nonaqueous"
+      ],
+      "score": 72,
+      "url": "https://doi.org/10.1002/advs.77673",
+      "archive": false,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
+    {
+      "id": "W7212271305",
+      "topic": "gde",
+      "badge": "最新研究",
+      "read_minutes": 6,
+      "title": "Fluorine-free gas diffusion layers via covalent hydrocarbon grafting",
+      "journal": "Journal of Colloid and Interface Science",
+      "year": 2026,
+      "publication_date": "2026-09-11",
+      "summary_zh": "该研究聚焦 GDE、孔结构或 X-ray/Micro-CT 三维表征。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
+      "abstract": "Hypothesis Covalent grafting of linear hydrocarbon chains onto carbon surfaces can provide a controllable route to hydrophobic interfaces, in which chain length governs surface energetics and liquid repellency while improving coating robustness relative to non-covalent hydrophobization approaches. This fluorine-free strategy is therefore hypothesized to provide a fundamentally relevant route for re-engineering porous transport materials, where fluoropolymer-based wetting control remains the prevailing paradigm in electrochemical energy systems. Experiments A chemical grafting route using an 18‑carbon alkyl chain was evaluated, while electrochemical grafting was systematically applied to unbranched hydrocarbon chains containing 10, 14, 16, and 18 carbon atoms. The resulting interfaces were analyzed by microscopy and spectroscopy to verify coating formation, and by contact-angle and electrochemical measurements to relate molecular structure to wettability, surface energy, and transport-relevant behavior. Findings Within the electrografted series, the grafted layers establish a clear chain length-dependent evolution of interfacial properties. Increasing alkyl chain length progressively lowers the solid surface energy and enhances liquid repellency, demonstrating that hydrophobicity can be tuned through molecular design of the grafted interface. The electrografted C18 surface reaches a surface energy of 22.3 mJ m −2 , close to that of polytetrafluoroethylene (20.4 mJ m −2 ), despite being fluorine-free. These results show that covalent hydrocarbon grafting offers a robust platform for engineering low-energy carbon interfaces and establish molecular chain length as a key parameter governing the macroscopic wetting behavior of porous carbon materials.",
+      "relevance_reason": "命中 gas diffusion layer、wetting，与 GDE 结构、润湿/淹没行为或 Micro-CT 三维表征相关，可用于结构—性能关联分析。",
+      "tags": [
+        "gas diffusion layer",
+        "wetting"
+      ],
+      "score": 85,
+      "url": "https://doi.org/10.1016/j.jcis.2026.141583",
+      "archive": false,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
+    {
+      "id": "W7210286027",
+      "topic": "gde",
+      "badge": "最新研究",
+      "read_minutes": 6,
+      "title": "Air-breathing polymer electrolyte fuel cells: A critical review of recent progress and future research needs",
+      "journal": "Chemical Physics Impact",
+      "year": 2026,
+      "publication_date": "2026-09-06",
+      "summary_zh": "该研究聚焦 GDE、孔结构或 X-ray/Micro-CT 三维表征。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
+      "abstract": "Air-breathing polymer electrolyte fuel cells (PEFCs) are a simplified alternative to conventional forced-convection PEFC systems, eliminating external air-supply devices to reduce system complexity, weight, and cost, and to minimise parasitic losses. Despite these advantages, their passive configuration poses critical challenges in oxygen mass transport, water management, thermal regulation, and environmental sensitivity. This study presents a comprehensive bibliometric and systematic review of air-breathing PEFC research published between 2000 and 2025. Using the Scopus database and a PRISMA-guided screening framework, 224 relevant documents were analysed through the Bibliometrix package in RStudio and VOSviewer to map publication trends, international collaborations, keyword evolution, and thematic research clusters. The results indicate irregular but sustained growth in research output, with an annual growth rate of 8.67%. Keyword co-occurrence analysis identified major research themes centred on water management, gas diffusion layer optimisation, flow-field design, numerical modelling, thermal diagnostics, and durability enhancement. Emerging niches include piezoelectric-assisted mass transport and advanced membrane materials for high-temperature and miniature systems. The findings highlight that future technological progress depends on improved mass-transport engineering, enhanced membrane stability, optimised passive flow architectures, and integrated stack-level thermal management. For researchers, the study clarifies the field's conceptual evolution and highlights the most critical research gaps. For industry stakeholders, it provides strategic insights into design priorities for compact, reliable hydrogen-powered systems suitable for portable, off-grid, and unmanned aerial vehicle applications.",
+      "relevance_reason": "命中 gas diffusion layer，与 GDE 结构、润湿/淹没行为或 Micro-CT 三维表征相关，可用于结构—性能关联分析。",
+      "tags": [
+        "gas diffusion layer"
+      ],
+      "score": 73,
+      "url": "https://doi.org/10.1016/j.chphi.2026.101159",
+      "archive": false,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
+    {
+      "id": "W7204254964",
+      "topic": "organic",
+      "badge": "最新研究",
+      "read_minutes": 6,
+      "title": "Electrocarboxylation of 1,3-butadiene with CO2 to 3-hexenedioic acid: effect of operating parameters on product selectivity",
+      "journal": "ChemRxiv",
+      "year": 2026,
+      "publication_date": "2026-08-26",
+      "summary_zh": "该研究围绕有机电化学 CO₂ 羧化/还原羧化展开。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
+      "abstract": "The electrochemical carboxylation of alkenes using CO2 is a sustainable and promising approach for synthesizing a variety of organic compounds, especially carboxylic acid derivatives. These processes are of high scientific and commercial interest as only one or two electrons are required per CO2 molecule to produce value-added products. Here, we report on the electrochemical dicarboxylation of 1,3-butadiene with CO2 to obtain 3-hexenedioic acid, a key intermediate to produce adipic acid. The electrocarboxylation was performed in acetonitrile using a nickel cathode, an aluminium anode, and Ag/AgCl reference electrode in an undivided cell. We systematically explore how different operating conditions including the applied voltage, water content, and temperature affect the reaction performance and the product distribution. Importantly, we find that the water content significantly influences product formation, highlighting its critical role in optimizing the reaction conditions. Temperature was found to play a key role as a maximum Faradaic efficiency of 36% toward electrocarboxylation products was achieved under ambient conditions, which increased to 59% at 40 °C but decreased to 49% at 60 °C.",
+      "relevance_reason": "命中 electrocarboxylation、electrochemical carboxylation、carboxylation、co2，与有机电羧化、CO₂ 引入及 Ni/非水体系研究直接相关，优先检查底物、电极和反应条件。",
+      "tags": [
+        "electrocarboxylation",
+        "electrochemical carboxylation",
+        "carboxylation",
+        "co2"
+      ],
+      "score": 99,
+      "url": "https://doi.org/10.26434/chemrxiv.15007901/v1",
+      "archive": true,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
+    {
+      "id": "W7213528713",
+      "topic": "analysis",
+      "badge": "最新研究",
+      "read_minutes": 6,
+      "title": "Kinetic Resolution of Alkaline Ethanol Dehydrogenation: Mass Transport and Oscillatory Dynamics at the RRDE",
+      "journal": "Electrochimica Acta",
+      "year": 2026,
+      "publication_date": "2026-09-01",
+      "summary_zh": "该研究聚焦电化学测试方法、反应机理或动力学分析。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
+      "abstract": "The mechanism of the ethanol electro-oxidation reaction (EEOR) on platinum in alkaline media remains contested. This is partly because the protons released during dehydrogenation are rapidly neutralized by the electrolyte, erasing the kinetic signal. Here, we use a rotating ring-disk electrode (RRDE) as an in situ probe of the dehydrogenation chemistry on polycrystalline Pt, where the ring—held at a reducing potential—detects the protons surviving transport across the inter-electrode gap. Under cyclic voltammetry in 0.1 M NaOH, the apparent proton collection efficiency remains below 2% at rotation rates up to 900 rpm. A Damköhler-type analysis indicates that homogeneous neutralization dominates over convective transport within the inter-electrode gap and argues against classical OH− mass-transport limitation of the EEOR current under these conditions. Driving the system into its oscillatory regime exposes dynamics inaccessible under conventional potentiodynamic conditions: sharp proton-related cathodic bursts at the ring are closely synchronized with potential drops at the disk within the experimental time resolution. Phase-space representations at 400 and 900 rpm reveal a broadly similar relaxation-like morphology despite substantial differences in temporal evolution. Comparison with a microkinetic model parameterized for acidic media identifies common qualitative slow–fast features, suggesting that related feedback motifs may operate across the two regimes. The RRDE thus emerges as a kinetically resolved probe for decoding EEOR dehydrogenation dynamics.",
+      "relevance_reason": "命中 cyclic voltammetry、kinetic、mechanism、rotating ring-disk，属于电化学方法/机理分析文献，可用于 CV、EIS、参比校准或动力学数据解释。",
+      "tags": [
+        "cyclic voltammetry",
+        "kinetic",
+        "mechanism",
+        "rotating ring-disk"
+      ],
+      "score": 99,
+      "url": "https://doi.org/10.1016/j.electacta.2026.150015",
+      "archive": true,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
+    {
+      "id": "W7203792896",
+      "topic": "organic",
+      "badge": "最新研究",
+      "read_minutes": 6,
+      "title": "Enhanced CO2 Activation and Ethylene Electrocarboxylation on Rare-Earth Doped Cu2S: Insights from Electronic and Geometric Modulation",
+      "journal": "Precision Chemistry",
+      "year": 2026,
+      "publication_date": "2026-08-19",
+      "summary_zh": "该研究围绕有机电化学 CO₂ 羧化/还原羧化展开。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
+      "abstract": "Abstract M@Cu2S electrocatalysts were theoretically designed by substituting a surface Cu atom on the Cu2S(111) facet with a rare-earth M atom. All M@Cu2S electrocatalysts exhibit favorable structural stability, with negative formation energies and binding energies. On M@Cu2S, the unique bridge-bonded adsorption configuration (both O atoms of *CO2 are bonded to M) enables effective activation of *CO2, with the hydrogenation step, rather than the C–C coupling step, identified as the potential-determining step (PDS) for ethylene electrocarboxylation. Notably, Eu@Cu2S and Yb@Cu2S exhibit limiting potentials (Ulimit) of 0.97 and 0.81 V versus the standard hydrogen electrode (SHE), respectively, which are lower than those of other M@Cu2S electrocatalysts, indicating their superior catalytic performance. Structure–activity relationship analysis reveals that, among all M@Cu2S electrocatalysts, rare-earth dopants M with higher third ionization energies and larger atomic radii deliver lower Ulimit and correspondingly superior electrocatalytic activity toward ethylene electrocarboxylation to succinic acid. This work confirms that rare-earth doping with optimized electronic and geometric characteristics enhances the catalytic performance of M@Cu2S for ethylene electrocarboxylation, laying a reliable theoretical foundation for developing efficient electrocatalysts for CO2 conversion and ethylene valorization.",
+      "relevance_reason": "命中 electrocarboxylation、carboxylation、co2，与有机电羧化、CO₂ 引入及 Ni/非水体系研究直接相关，优先检查底物、电极和反应条件。",
+      "tags": [
+        "electrocarboxylation",
+        "carboxylation",
+        "co2"
+      ],
+      "score": 99,
+      "url": "https://doi.org/10.1021/prechem.6c00086",
+      "archive": true,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
+    {
+      "id": "W7212032188",
+      "topic": "gde",
+      "badge": "最新研究",
+      "read_minutes": 6,
+      "title": "Minireview and Outlook of Salt Precipitation in CO2 Electrolysis",
+      "journal": "Energy & Fuels",
+      "year": 2026,
+      "publication_date": "2026-09-09",
+      "summary_zh": "该研究聚焦 GDE、孔结构或 X-ray/Micro-CT 三维表征。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
+      "abstract": "Abstract CO2 electrolysis has progressed rapidly toward industrially relevant current densities, but its practical deployment is increasingly limited by reactor-level instabilities. Specifically, salt precipitation has emerged as a critical yet not well-understood challenge in high-rate CO2 electrolysis. Recent studies show that this phenomenon is governed not simply by bulk electrolyte composition, but by coupled interfacial properties including local alkalinity, cation migration and water distribution. The resulting bi(carbonate) accumulation can lead to supersaturation within the confined pore structures of the gas diffusion layer and subsequently salt nucleation and precipitation. These deposits reduce CO2 mass transport and eventually induce flooding that substantially compromise electrolyzer performance. In this minireview, we summarize the mechanistic origins, spatial distribution, and performance consequences of salt precipitation in CO2 electrolysis. We further assess emerging diagnostic tools and outline salt precipitation mitigation strategies towards the development of stable CO2 electrolyzers.",
+      "relevance_reason": "命中 gas diffusion layer、flooding、co2 electrolysis、co2 electroly，与 GDE 结构、润湿/淹没行为或 Micro-CT 三维表征相关，可用于结构—性能关联分析。",
+      "tags": [
+        "gas diffusion layer",
+        "flooding",
+        "co2 electrolysis",
+        "co2 electroly"
+      ],
+      "score": 99,
+      "url": "https://doi.org/10.1021/acs.energyfuels.6c03732",
+      "archive": true,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
+    {
+      "id": "W7204037768",
+      "topic": "organic",
+      "badge": "最新研究",
+      "read_minutes": 8,
+      "title": "Promoting CO2 electrocarboxylation to C6+ dicarboxylic acids by tuning Co-Fe interactions",
+      "journal": "Science China Materials",
+      "year": 2026,
+      "publication_date": "2026-08-18",
+      "summary_zh": "该研究围绕有机电化学 CO₂ 羧化/还原羧化展开。 题目：Promoting CO2 electrocarboxylation to C6+ dicarboxylic acids by tuning Co-Fe interactions",
+      "abstract": "",
+      "relevance_reason": "命中 electrocarboxylation、carboxylation、co2，与有机电羧化、CO₂ 引入及 Ni/非水体系研究直接相关，优先检查底物、电极和反应条件。",
+      "tags": [
+        "electrocarboxylation",
+        "carboxylation",
+        "co2"
+      ],
+      "score": 99,
+      "url": "https://doi.org/10.1007/s40843-026-4278-0",
+      "archive": true,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
+    {
       "id": "W7213446320",
       "topic": "analysis",
       "badge": "最新研究",
@@ -230,7 +339,7 @@
       ],
       "score": 95,
       "url": "https://doi.org/10.65206/pajes.1940800",
-      "archive": false,
+      "archive": true,
       "impact_factor": null,
       "quartile": "Q —"
     },
@@ -281,28 +390,6 @@
       "quartile": "Q —"
     },
     {
-      "id": "W7212451170",
-      "topic": "analysis",
-      "badge": "最新研究",
-      "read_minutes": 6,
-      "title": "Synthesis and Pd(II) Complexes of an Unsymmetric and Flexible Ferrocene Bisphosphine",
-      "journal": "Zeitschrift für anorganische und allgemeine Chemie",
-      "year": 2026,
-      "publication_date": "2026-09-13",
-      "summary_zh": "该研究聚焦电化学测试方法、反应机理或动力学分析。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
-      "abstract": "To expand the family of flexible homologated analogs of 1,1′‐bis(diphenylphosphino)ferrocene, the unsymmetric bisphosphine 1‐(diphenylphosphino)‐1′‐[2‐(diphenylphosphino)ethyl]ferrocene ( 1 ) was prepared and examined as a ligand in Pd(II) complexes. The compound was obtained by hydrophosphination of 1‐(diphenylphosphino)‐1′‐vinylferrocene ( 2 ) and was further converted to the corresponding bis(phosphine selenide) ( 3 ). While the reactions of 1 with [PdCl 2 (cod)] and [(L NC )Pd(MeCN) 2 ](ClO 4 ) (cod = cycloocta‐1,5‐diene, L NC = [2‐(dimethylamino)methyl]phenyl) were unselective and yielded no defined product, cleavage of the dimeric precursor [(L NC )Pd(μ‐Cl)] 2 cleanly produced the P,P′‐bridged palladium(II) complex [(μ(P,P′)‐ 1 ){Pd(L NC )Cl} 2 ] ( 4 ). These experiments suggested that 1 has a decreased ability to form chelate complexes, typical of the more rigid dppf. Compounds 1 , 3 , and 4 were characterized by spectroscopic methods, elemental analysis, and single‐crystal X‐ray diffraction, and the electrochemical properties of 1 and the dipalladium complex 4 were investigated using cyclic voltammetry.",
-      "relevance_reason": "命中 cyclic voltammetry、ferrocene，属于电化学方法/机理分析文献，可用于 CV、EIS、参比校准或动力学数据解释。",
-      "tags": [
-        "cyclic voltammetry",
-        "ferrocene"
-      ],
-      "score": 79,
-      "url": "https://doi.org/10.1002/zaac.70201",
-      "archive": true,
-      "impact_factor": null,
-      "quartile": "Q —"
-    },
-    {
       "id": "W7204788644",
       "topic": "analysis",
       "badge": "最新研究",
@@ -321,50 +408,6 @@
       ],
       "score": 78,
       "url": "https://doi.org/10.59038/jjmie/200304",
-      "archive": true,
-      "impact_factor": null,
-      "quartile": "Q —"
-    },
-    {
-      "id": "W7213221707",
-      "topic": "gde",
-      "badge": "最新研究",
-      "read_minutes": 6,
-      "title": "Upcycling photovoltaic silver waste into hierarchically structured electrocatalysts for flooding-resistant zero-gap CO2-to-CO electrolysis",
-      "journal": "Journal of CO2 Utilization",
-      "year": 2026,
-      "publication_date": "2026-09-15",
-      "summary_zh": "该研究聚焦 GDE、孔结构或 X-ray/Micro-CT 三维表征。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
-      "abstract": "Electrochemical CO 2 reduction reaction (CO 2 RR) offers a highly sustainable pathway for converting carbon emissions into valuable chemicals; however, developing robust catalysts from secondary resources that can withstand electrolyte flooding in zero-gap membrane electrode assemblies (MEAs) remain a significant challenge. Herein, we demonstrate a practical strategy by upcycling high-purity (~99.9%) silver nanoparticles (EoL-Ag NPs) reclaimed from end-of-life silicon solar panels into durable electrocatalysts for high-rate CO production. The EoL-Ag NPs, synthesized via a scalable laser-assisted photoreduction process following selective hydrometallurgical impurity extraction, exhibit an exceptionally pristine metallic state (Ag 0 ). Crucially, this upcycling route naturally imparts a multi-scale, polydisperse nano-to-micro morphology to the EoL-Ag NPs. This structural roughness establishes a robust hydrophobic microenvironment within the gas diffusion electrode, lowering the water adhesive force by 2.7-fold and enhancing localized affinity for gaseous CO 2 . Evaluated in a 10 cm 2 zero-gap MEA electrolyzer, the EoL-Ag catalyst outlasts conventional commercial counterparts, delivering a maximum CO partial current density of 296 mA cm −2 at a total current density of 400 mA cm −2 . Most importantly, the flooding-resistant electrode exhibits unprecedented stability, operating continuously for over 600 h at 100 mA cm −2 and for 55 h at an industrially demanding 200 mA cm −2 with a stable CO Faradaic efficiency of ~95%. This work proves that upcycled solar waste can serve as a highly durable alternative to commercial noble catalysts, simultaneously resolving PV waste accumulation and advancing scalable carbon utilization.",
-      "relevance_reason": "命中 gas diffusion electrode、flooding，与 GDE 结构、润湿/淹没行为或 Micro-CT 三维表征相关，可用于结构—性能关联分析。",
-      "tags": [
-        "gas diffusion electrode",
-        "flooding"
-      ],
-      "score": 85,
-      "url": "https://doi.org/10.1016/j.jcou.2026.103569",
-      "archive": true,
-      "impact_factor": null,
-      "quartile": "Q —"
-    },
-    {
-      "id": "W7212271305",
-      "topic": "gde",
-      "badge": "最新研究",
-      "read_minutes": 6,
-      "title": "Fluorine-free gas diffusion layers via covalent hydrocarbon grafting",
-      "journal": "Journal of Colloid and Interface Science",
-      "year": 2026,
-      "publication_date": "2026-09-01",
-      "summary_zh": "该研究聚焦 GDE、孔结构或 X-ray/Micro-CT 三维表征。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
-      "abstract": "Hypothesis Covalent grafting of linear hydrocarbon chains onto carbon surfaces can provide a controllable route to hydrophobic interfaces, in which chain length governs surface energetics and liquid repellency while improving coating robustness relative to non-covalent hydrophobization approaches. This fluorine-free strategy is therefore hypothesized to provide a fundamentally relevant route for re-engineering porous transport materials, where fluoropolymer-based wetting control remains the prevailing paradigm in electrochemical energy systems. Experiments A chemical grafting route using an 18‑carbon alkyl chain was evaluated, while electrochemical grafting was systematically applied to unbranched hydrocarbon chains containing 10, 14, 16, and 18 carbon atoms. The resulting interfaces were analyzed by microscopy and spectroscopy to verify coating formation, and by contact-angle and electrochemical measurements to relate molecular structure to wettability, surface energy, and transport-relevant behavior. Findings Within the electrografted series, the grafted layers establish a clear chain length-dependent evolution of interfacial properties. Increasing alkyl chain length progressively lowers the solid surface energy and enhances liquid repellency, demonstrating that hydrophobicity can be tuned through molecular design of the grafted interface. The electrografted C18 surface reaches a surface energy of 22.3 mJ m −2 , close to that of polytetrafluoroethylene (20.4 mJ m −2 ), despite being fluorine-free. These results show that covalent hydrocarbon grafting offers a robust platform for engineering low-energy carbon interfaces and establish molecular chain length as a key parameter governing the macroscopic wetting behavior of porous carbon materials.",
-      "relevance_reason": "命中 gas diffusion layer、wetting，与 GDE 结构、润湿/淹没行为或 Micro-CT 三维表征相关，可用于结构—性能关联分析。",
-      "tags": [
-        "gas diffusion layer",
-        "wetting"
-      ],
-      "score": 85,
-      "url": "https://doi.org/10.1016/j.jcis.2026.141583",
       "archive": true,
       "impact_factor": null,
       "quartile": "Q —"
