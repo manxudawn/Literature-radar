@@ -31,3 +31,5 @@ GitHub Actions 的 cron 使用 UTC，且不理解欧洲夏令时，所以 workfl
 
 ## 期刊 IF / 分区
 JCR 数据不是 OpenAlex 的开放字段，因此采用 `data/journal_metrics.json` 白名单。遇到新期刊时页面会显示 `IF — · Q —`，直到你手动补入指标，避免错误数据。
+
+Last deployment test.
