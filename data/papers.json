@@ -1,7 +1,7 @@
 {
-  "brief_date": "2026 · 09 · 28",
-  "last_updated": "2026-09-28",
-  "match_score": 89,
+  "brief_date": "2026 · 09 · 29",
+  "last_updated": "2026-09-29",
+  "match_score": 88,
   "trackers": [
     {
       "name": "Ni electrocarboxylation",
@@ -22,28 +22,6 @@
   ],
   "papers": [
     {
-      "id": "W7213913198",
-      "topic": "organic",
-      "badge": "最新研究",
-      "read_minutes": 6,
-      "title": "Fe3O4@TpBD–Ni Nanocomposite Electrode for Electrochemical CO2 in Kolb-Schmitt C-H Carboxylation in a Reusable ChCl/EG DES",
-      "journal": "Nano Trends",
-      "year": 2026,
-      "publication_date": "2026-09-01",
-      "summary_zh": "该研究围绕有机电化学 CO₂ 羧化/还原羧化展开。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
-      "abstract": "A magnetically recoverable Fe₃O₄@TpBD–Ni nanocomposite electrode was developed as a heterogeneous electrocatalyst for the electro-organic C–H carboxylation of aromatic substrates using CO₂ as a C1 feedstock. The material integrates catalytically active Ni sites within a porous β-ketoenamine-linked TpBD covalent organic framework supported on Fe₃O₄ nanoparticles, combining an accessible catalytic environment, efficient charge-transfer pathways, and magnetic responsiveness. Comprehensive characterization by FT-IR, SEM, XRD, EDX, VSM, and TGA confirmed the formation, structural integrity, Ni incorporation, and magnetic stability of the composite. The Fe₃O₄@TpBD–Ni electrode enabled efficient Kolbe–Schmitt-type carboxylation in a choline chloride/ethylene glycol (ChCl/EG, 1:2) deep eutectic solvent (DES) under mild conditions (room temperature, 12 mA, 1.5 h), affording the corresponding aromatic carboxylic acids in 90–98% isolated yields. Notably, the optimized composite electrode exhibited superior performance compared with conventional Ni rod, Ni foam, and graphite electrodes, highlighting the beneficial synergistic effect of the porous magnetic COF–Ni architecture. The catalyst could be readily separated by an external magnetic field and retained its catalytic activity upon repeated use, with limited Ni leaching, demonstrating good operational stability and recyclability. Moreover, the process showed high atom economy and low E-factor values, further supporting its sustainability. Overall, Fe₃O₄@TpBD–Ni provides a robust and recyclable heterogeneous electrocatalytic platform for CO₂ incorporation into aromatic carboxylic acids and offers a promising approach to sustainable electrochemical CO₂ valorization.",
-      "relevance_reason": "命中 carboxylation、co2，与有机电羧化、CO₂ 引入及 Ni/非水体系研究直接相关，优先检查底物、电极和反应条件。",
-      "tags": [
-        "carboxylation",
-        "co2"
-      ],
-      "score": 73,
-      "url": "https://doi.org/10.1016/j.nwnano.2026.100245",
-      "archive": false,
-      "impact_factor": null,
-      "quartile": "Q —"
-    },
-    {
       "id": "W7213314465",
       "topic": "gde",
       "badge": "最新研究",
@@ -63,30 +41,6 @@
       ],
       "score": 99,
       "url": "https://doi.org/10.1002/celc.70303",
-      "archive": false,
-      "impact_factor": null,
-      "quartile": "Q —"
-    },
-    {
-      "id": "W7213528713",
-      "topic": "analysis",
-      "badge": "最新研究",
-      "read_minutes": 6,
-      "title": "Kinetic resolution of alkaline ethanol dehydrogenation: Mass transport and oscillatory dynamics at the RRDE",
-      "journal": "Electrochimica Acta",
-      "year": 2026,
-      "publication_date": "2026-09-17",
-      "summary_zh": "该研究聚焦电化学测试方法、反应机理或动力学分析。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
-      "abstract": "The mechanism of the ethanol electro-oxidation reaction (EEOR) on platinum in alkaline media remains contested. This is partly because the protons released during dehydrogenation are rapidly neutralized by the electrolyte, erasing the kinetic signal. Here, we use a rotating ring-disk electrode (RRDE) as an in situ probe of the dehydrogenation chemistry on polycrystalline Pt, where the ring—held at a reducing potential—detects the protons surviving transport across the inter-electrode gap. Under cyclic voltammetry in 0.1 M NaOH, the apparent proton collection efficiency remains below 2% at rotation rates up to 900 rpm. A Damköhler-type analysis indicates that homogeneous neutralization dominates over convective transport within the inter-electrode gap and argues against classical OH− mass-transport limitation of the EEOR current under these conditions. Driving the system into its oscillatory regime exposes dynamics inaccessible under conventional potentiodynamic conditions: sharp proton-related cathodic bursts at the ring are closely synchronized with potential drops at the disk within the experimental time resolution. Phase-space representations at 400 and 900 rpm reveal a broadly similar relaxation-like morphology despite substantial differences in temporal evolution. Comparison with a microkinetic model parameterized for acidic media identifies common qualitative slow–fast features, suggesting that related feedback motifs may operate across the two regimes. The RRDE thus emerges as a kinetically resolved probe for decoding EEOR dehydrogenation dynamics.",
-      "relevance_reason": "命中 cyclic voltammetry、kinetic、mechanism、rotating ring-disk，属于电化学方法/机理分析文献，可用于 CV、EIS、参比校准或动力学数据解释。",
-      "tags": [
-        "cyclic voltammetry",
-        "kinetic",
-        "mechanism",
-        "rotating ring-disk"
-      ],
-      "score": 99,
-      "url": "https://doi.org/10.1016/j.electacta.2026.150015",
       "archive": false,
       "impact_factor": null,
       "quartile": "Q —"
@@ -114,76 +68,6 @@
       "archive": false,
       "impact_factor": null,
       "quartile": "Q —"
-    },
-    {
-      "id": "W7214465541",
-      "topic": "analysis",
-      "badge": "最新研究",
-      "read_minutes": 6,
-      "title": "Screen-Printed Potassium-Selective Organic Electrochemical Transistors: Electrical and Electrochemical Investigation of Ion-Sensing Mechanisms",
-      "journal": "Unknown journal",
-      "year": 2026,
-      "publication_date": "2026-09-26",
-      "summary_zh": "该研究聚焦电化学测试方法、反应机理或动力学分析。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
-      "abstract": "Potassium-selective organic electrochemical transistors (OECTs) provide a route for coupling ion recognition with amplified electronic readout in low-voltage sensing platforms. Here, we report a multilayer screen-printed OECT incorporating Ag/AgCl contacts, carbon conductors, a polyethylene glycol (PEG)- and Tween 80-modified PEDOT:PSS channel, dielectric encapsulation, and a potassium ionophore III-based ion-selective membrane. The electrical and electrochemical response of the device was investigated over KCl concentrations from 1.0 × 10⁻⁴ to 1.67 M using output and transfer characteristics, transient gate modulation, cyclic voltammetry, electrochemical impedance spectroscopy, and interference measurements. Increasing K⁺ concentration produced progressively stronger drain-current modulation, yielding a current sensitivity of 4.61 µA decade⁻¹ (R² = 0.9918) and an equivalent gate-voltage-shift sensitivity of 137.7 mV decade⁻¹ (R² = 0.9953). Transient measurements showed reversible and concentration-dependent switching, while cyclic voltammetry revealed increasing anodic and cathodic current magnitudes with increasing KCl concentration. Impedance spectroscopy further showed a concentration-dependent reduction in effective electrochemical impedance and enhanced low-frequency capacitive behavior. The device exhibited preferential response to K⁺ over NH₄⁺, Na⁺, Mg²⁺, and Ca²⁺, with drain-current modulation approximately 1.3–4.8 times larger than that of the tested interferents. The combined measurements establish a direct relationship between selective K⁺ transport, interfacial electrochemical processes, and modulation of electronic conduction in the PEDOT:PSS channel, providing mechanistic insight into ion sensing in screen-printed OECTs.",
-      "relevance_reason": "命中 cyclic voltammetry、mechanism、electrochemical impedance spectroscopy、impedance spectroscopy，属于电化学方法/机理分析文献，可用于 CV、EIS、参比校准或动力学数据解释。",
-      "tags": [
-        "cyclic voltammetry",
-        "mechanism",
-        "electrochemical impedance spectroscopy",
-        "impedance spectroscopy"
-      ],
-      "score": 96,
-      "url": "https://doi.org/10.31224/8334",
-      "archive": false,
-      "impact_factor": null,
-      "quartile": "Q —"
-    },
-    {
-      "id": "W7211875689",
-      "topic": "gde",
-      "badge": "最新研究",
-      "read_minutes": 6,
-      "title": "Microenvironment Engineering for High-Current-Density Electrochemical CO2 Reduction",
-      "journal": "Nanoenergy Advances",
-      "year": 2026,
-      "publication_date": "2026-09-07",
-      "summary_zh": "该研究聚焦 GDE、孔结构或 X-ray/Micro-CT 三维表征。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
-      "abstract": "Electrochemical CO2 reduction reaction (ECO2RR) is a promising technology for converting rapidly rising atmospheric CO2—driven by fossil fuel consumption and industrial processes—into a circular carbon economy. In particular, ECO2RR is expected to enable renewable-based long-duration energy storage (LDES) systems through the highly efficient conversion of CO2 into high-value multi-carbon (C2+) compounds. However, scaling ECO2RR to the industrial level remains challenging because, under high-current operation, the CO2 consumption rate exceeds its supply rate, causing a sharp decline in local CO2 concentration. The resulting increase in local pH promotes both carbonate formation and electrode flooding within the gas diffusion electrode (GDE), creating a wetting-induced mass transfer bottleneck. To address this challenge, this review categorizes and analyzes recent strategies for CO2 microenvironment engineering that overcome mass transfer limitations at high-current densities, focusing on two complementary approaches: (1) enhancing gas-phase CO2 supply while suppressing flooding through nano/microscale hydrophobic polymers and structural gradient designs, and (2) enhancing active CO supply in the liquid phase through electrolyte composition optimization. We further show that these strategies are not mutually independent but create complementary structural and chemical synergies, and we propose future directions for simultaneously improving high-current operability and C2+ product selectivity.",
-      "relevance_reason": "命中 gas diffusion electrode、flooding、wetting，与 GDE 结构、润湿/淹没行为或 Micro-CT 三维表征相关，可用于结构—性能关联分析。",
-      "tags": [
-        "gas diffusion electrode",
-        "flooding",
-        "wetting"
-      ],
-      "score": 90,
-      "url": "https://doi.org/10.3390/nanoenergyadv6030026",
-      "archive": false,
-      "impact_factor": null,
-      "quartile": "Q —"
-    },
-    {
-      "id": "W7208757425",
-      "topic": "analysis",
-      "badge": "最新研究",
-      "read_minutes": 6,
-      "title": "Local pH Control Promotes Oxygen-Atom Transfer Electrosynthesis",
-      "journal": "Journal of the American Chemical Society",
-      "year": 2026,
-      "publication_date": "2026-09-04",
-      "summary_zh": "该研究聚焦电化学测试方法、反应机理或动力学分析。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
-      "abstract": "Abstract Control of the local reaction environment at electrified interfaces is central to electrocatalysis, yet this principle has rarely been integrated into electro-organic synthesis. Electro-organic transformations are not governed by electron transfer alone; reaction turnover is often coupled to ion transfer and, in particular, proton transfer across aqueous, mixed, and nonaqueous media. Under high-rate operation, these fluxes polarize proton activity near electrodes. Although such concentration polarization is expected to be widespread and consequential, it has been largely neglected in electrosynthesis design. Here we establish a mechanistically distinct, oxygen-driven electrosynthetic pathway for Baeyer–Villiger oxidation (BVO) and use it to develop a local-pH design framework for electro-organic synthesis. Isotope labeling shows that O2 supplies the inserted oxygen atom, and radical trapping, operando EPR spectroscopy, rotating ring–disk electrode analysis, and H2O2-additivity experiments support a paired mechanism in which O2-derived hydroperoxyl-radical equivalents enter acetonitrile-assisted oxygen transfer while anodic oxidation of electrogenerated H2O2 sustains radical flux. This productive pathway is intrinsically coupled to proton activity: the proton-coupled electrode reactions that generate oxygenating equivalents also impose local pH gradients that attenuate reactive oxygen species availability, divert ketone substrates through α-enolization/tautomerization, and accelerate lactone hydrolysis under nominally neutral bulk conditions. Electrometric local pH estimations, together with molecular α-deuteration reporters and transport simulations, link these local pH swings to reaction performance. By tuning electrode spacing and convective flow, these opposing proton-activity gradients are attenuated, enabling high-yield BVO across diverse ketones at elevated substrate loading. The same local-pH control strategy is further extended to electrochemical epoxidation.",
-      "relevance_reason": "命中 mechanism、nonaqueous、rotating ring-disk，属于电化学方法/机理分析文献，可用于 CV、EIS、参比校准或动力学数据解释。",
-      "tags": [
-        "mechanism",
-        "nonaqueous",
-        "rotating ring-disk"
-      ],
-      "score": 76,
-      "url": "https://doi.org/10.1021/jacs.6c12994",
-      "archive": false,
-      "impact_factor": "15.6",
-      "quartile": "JCR Q1"
     },
     {
       "id": "W7213221707",
@@ -228,6 +112,166 @@
       "archive": false,
       "impact_factor": null,
       "quartile": "Q —"
+    },
+    {
+      "id": "W7213759149",
+      "topic": "gde",
+      "badge": "最新研究",
+      "read_minutes": 6,
+      "title": "Micro-computed-tomography-guided multiphysics simulation: insights into enclosed microelectrochemical flow cells",
+      "journal": "ChemRxiv",
+      "year": 2026,
+      "publication_date": "2026-09-24",
+      "summary_zh": "该研究聚焦 GDE、孔结构或 X-ray/Micro-CT 三维表征。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
+      "abstract": "Quantitative interpretation of hydrodynamic electrochemical measurements commonly relies on analytical models that assume idealized device geometries. However, verifying the internal geometry of fully enclosed, single-step-3D-printed electrochemical flow cells is challenging because the devices cannot be taken apart without being destroyed. Herein, X-ray micro-computed tomography (micro-CT) is used to non-destructively characterize 3D channel architectures with sub-10 µm voxel resolution. The 3D-printed channels deviate substantially from the as-designed rectangular geometry, showing corrugated sloping sidewalls and a sagging, undulating ceiling. Yet, employing true (micro-CT-generated) geometries in three-dimensional multiphysics models of fluid flow and mass transport yielded currents in agreement with the channel flow electrode limiting current equation (based on flux equations formalized by Levich) for rectangular channels! This agreement and analysis of transport demonstrate that sidewall corrugation/slope and ceiling sag/undulation do not account for experimental deviations from ideal hydrodynamic behavior. Yet both the simulated and theory results deviate by 30-40% from experimental voltammetry, indicating a discrepancy that geometric non-idealities do not explain. Together, this suggests the disagreement between theory and experiment arises from incomplete consumption of the redox probe at the electrode surface, a condition consistent with the 3D-printed composite electrodes being partially blocked. More broadly, the work establishes the combination of micro-CT, multiphysics simulation, and experiment as a general, non-destructive framework for characterizing complex hydrodynamic electrochemical systems.",
+      "relevance_reason": "命中 micro-ct、tomography，与 GDE 结构、润湿/淹没行为或 Micro-CT 三维表征相关，可用于结构—性能关联分析。",
+      "tags": [
+        "micro-ct",
+        "tomography"
+      ],
+      "score": 82,
+      "url": "https://doi.org/10.26434/chemrxiv.15009425/v1",
+      "archive": false,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
+    {
+      "id": "W7204988593",
+      "topic": "gde",
+      "badge": "最新研究",
+      "read_minutes": 6,
+      "title": "Morpho-electrochemical behavior of particulate Zn electrodes revealed by X-ray and neutron tomography",
+      "journal": "Scientific Reports",
+      "year": 2026,
+      "publication_date": "2026-09-02",
+      "summary_zh": "该研究聚焦 GDE、孔结构或 X-ray/Micro-CT 三维表征。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
+      "abstract": "Aqueous rechargeable Zn-based batteries are gaining attention for their sustainability, safety, and cost-effectiveness; however, no industrially viable solutions are yet available, due to the synergistic issues of passivation and shape change. In particular, flow batteries with particulate Zn anodes are attractive for long-term stationary storage, at the cost of additional morpho-chemical processes involving the Zn particle bed and the interparticle space (IPS). Thus, the understanding of this system requires space-dependent information about the arrangement, dimensions, and chemical states of Zn and its discharge products. To this aim, we employ dual-probe chemically sensitive X-ray and thermal neutron tomography and radiography. Specifically, we analyzed an in situ anode in both pristine and discharged states, and we followed its self-discharge process in operando. In situ X-ray tomography reveals the advancement of Zn particle consumption and IPS development. In situ neutron tomography shows the formation and distribution of hydroxides. In operando, neutron radiography gives access to hydrogen bubble formation and dynamics. This first-of-its-kind analysis provides crucial insights, directly informing anode design strategies. Our findings contribute to paving the way for next-generation Zn flow batteries with improved efficiency and longevity.",
+      "relevance_reason": "命中 x-ray tomography、tomography，与 GDE 结构、润湿/淹没行为或 Micro-CT 三维表征相关，可用于结构—性能关联分析。",
+      "tags": [
+        "x-ray tomography",
+        "tomography"
+      ],
+      "score": 81,
+      "url": "https://doi.org/10.1038/s41598-026-49097-8",
+      "archive": false,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
+    {
+      "id": "W7213913198",
+      "topic": "organic",
+      "badge": "最新研究",
+      "read_minutes": 6,
+      "title": "Fe3O4@TpBD–Ni Nanocomposite Electrode for Electrochemical CO2 in Kolb-Schmitt C-H Carboxylation in a Reusable ChCl/EG DES",
+      "journal": "Nano Trends",
+      "year": 2026,
+      "publication_date": "2026-09-01",
+      "summary_zh": "该研究围绕有机电化学 CO₂ 羧化/还原羧化展开。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
+      "abstract": "A magnetically recoverable Fe₃O₄@TpBD–Ni nanocomposite electrode was developed as a heterogeneous electrocatalyst for the electro-organic C–H carboxylation of aromatic substrates using CO₂ as a C1 feedstock. The material integrates catalytically active Ni sites within a porous β-ketoenamine-linked TpBD covalent organic framework supported on Fe₃O₄ nanoparticles, combining an accessible catalytic environment, efficient charge-transfer pathways, and magnetic responsiveness. Comprehensive characterization by FT-IR, SEM, XRD, EDX, VSM, and TGA confirmed the formation, structural integrity, Ni incorporation, and magnetic stability of the composite. The Fe₃O₄@TpBD–Ni electrode enabled efficient Kolbe–Schmitt-type carboxylation in a choline chloride/ethylene glycol (ChCl/EG, 1:2) deep eutectic solvent (DES) under mild conditions (room temperature, 12 mA, 1.5 h), affording the corresponding aromatic carboxylic acids in 90–98% isolated yields. Notably, the optimized composite electrode exhibited superior performance compared with conventional Ni rod, Ni foam, and graphite electrodes, highlighting the beneficial synergistic effect of the porous magnetic COF–Ni architecture. The catalyst could be readily separated by an external magnetic field and retained its catalytic activity upon repeated use, with limited Ni leaching, demonstrating good operational stability and recyclability. Moreover, the process showed high atom economy and low E-factor values, further supporting its sustainability. Overall, Fe₃O₄@TpBD–Ni provides a robust and recyclable heterogeneous electrocatalytic platform for CO₂ incorporation into aromatic carboxylic acids and offers a promising approach to sustainable electrochemical CO₂ valorization.",
+      "relevance_reason": "命中 carboxylation、co2，与有机电羧化、CO₂ 引入及 Ni/非水体系研究直接相关，优先检查底物、电极和反应条件。",
+      "tags": [
+        "carboxylation",
+        "co2"
+      ],
+      "score": 73,
+      "url": "https://doi.org/10.1016/j.nwnano.2026.100245",
+      "archive": true,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
+    {
+      "id": "W7213528713",
+      "topic": "analysis",
+      "badge": "最新研究",
+      "read_minutes": 6,
+      "title": "Kinetic resolution of alkaline ethanol dehydrogenation: Mass transport and oscillatory dynamics at the RRDE",
+      "journal": "Electrochimica Acta",
+      "year": 2026,
+      "publication_date": "2026-09-17",
+      "summary_zh": "该研究聚焦电化学测试方法、反应机理或动力学分析。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
+      "abstract": "The mechanism of the ethanol electro-oxidation reaction (EEOR) on platinum in alkaline media remains contested. This is partly because the protons released during dehydrogenation are rapidly neutralized by the electrolyte, erasing the kinetic signal. Here, we use a rotating ring-disk electrode (RRDE) as an in situ probe of the dehydrogenation chemistry on polycrystalline Pt, where the ring—held at a reducing potential—detects the protons surviving transport across the inter-electrode gap. Under cyclic voltammetry in 0.1 M NaOH, the apparent proton collection efficiency remains below 2% at rotation rates up to 900 rpm. A Damköhler-type analysis indicates that homogeneous neutralization dominates over convective transport within the inter-electrode gap and argues against classical OH− mass-transport limitation of the EEOR current under these conditions. Driving the system into its oscillatory regime exposes dynamics inaccessible under conventional potentiodynamic conditions: sharp proton-related cathodic bursts at the ring are closely synchronized with potential drops at the disk within the experimental time resolution. Phase-space representations at 400 and 900 rpm reveal a broadly similar relaxation-like morphology despite substantial differences in temporal evolution. Comparison with a microkinetic model parameterized for acidic media identifies common qualitative slow–fast features, suggesting that related feedback motifs may operate across the two regimes. The RRDE thus emerges as a kinetically resolved probe for decoding EEOR dehydrogenation dynamics.",
+      "relevance_reason": "命中 cyclic voltammetry、kinetic、mechanism、rotating ring-disk，属于电化学方法/机理分析文献，可用于 CV、EIS、参比校准或动力学数据解释。",
+      "tags": [
+        "cyclic voltammetry",
+        "kinetic",
+        "mechanism",
+        "rotating ring-disk"
+      ],
+      "score": 99,
+      "url": "https://doi.org/10.1016/j.electacta.2026.150015",
+      "archive": true,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
+    {
+      "id": "W7214465541",
+      "topic": "analysis",
+      "badge": "最新研究",
+      "read_minutes": 6,
+      "title": "Screen-Printed Potassium-Selective Organic Electrochemical Transistors: Electrical and Electrochemical Investigation of Ion-Sensing Mechanisms",
+      "journal": "Unknown journal",
+      "year": 2026,
+      "publication_date": "2026-09-26",
+      "summary_zh": "该研究聚焦电化学测试方法、反应机理或动力学分析。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
+      "abstract": "Potassium-selective organic electrochemical transistors (OECTs) provide a route for coupling ion recognition with amplified electronic readout in low-voltage sensing platforms. Here, we report a multilayer screen-printed OECT incorporating Ag/AgCl contacts, carbon conductors, a polyethylene glycol (PEG)- and Tween 80-modified PEDOT:PSS channel, dielectric encapsulation, and a potassium ionophore III-based ion-selective membrane. The electrical and electrochemical response of the device was investigated over KCl concentrations from 1.0 × 10⁻⁴ to 1.67 M using output and transfer characteristics, transient gate modulation, cyclic voltammetry, electrochemical impedance spectroscopy, and interference measurements. Increasing K⁺ concentration produced progressively stronger drain-current modulation, yielding a current sensitivity of 4.61 µA decade⁻¹ (R² = 0.9918) and an equivalent gate-voltage-shift sensitivity of 137.7 mV decade⁻¹ (R² = 0.9953). Transient measurements showed reversible and concentration-dependent switching, while cyclic voltammetry revealed increasing anodic and cathodic current magnitudes with increasing KCl concentration. Impedance spectroscopy further showed a concentration-dependent reduction in effective electrochemical impedance and enhanced low-frequency capacitive behavior. The device exhibited preferential response to K⁺ over NH₄⁺, Na⁺, Mg²⁺, and Ca²⁺, with drain-current modulation approximately 1.3–4.8 times larger than that of the tested interferents. The combined measurements establish a direct relationship between selective K⁺ transport, interfacial electrochemical processes, and modulation of electronic conduction in the PEDOT:PSS channel, providing mechanistic insight into ion sensing in screen-printed OECTs.",
+      "relevance_reason": "命中 cyclic voltammetry、mechanism、electrochemical impedance spectroscopy、impedance spectroscopy，属于电化学方法/机理分析文献，可用于 CV、EIS、参比校准或动力学数据解释。",
+      "tags": [
+        "cyclic voltammetry",
+        "mechanism",
+        "electrochemical impedance spectroscopy",
+        "impedance spectroscopy"
+      ],
+      "score": 96,
+      "url": "https://doi.org/10.31224/8334",
+      "archive": true,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
+    {
+      "id": "W7211875689",
+      "topic": "gde",
+      "badge": "最新研究",
+      "read_minutes": 6,
+      "title": "Microenvironment Engineering for High-Current-Density Electrochemical CO2 Reduction",
+      "journal": "Nanoenergy Advances",
+      "year": 2026,
+      "publication_date": "2026-09-07",
+      "summary_zh": "该研究聚焦 GDE、孔结构或 X-ray/Micro-CT 三维表征。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
+      "abstract": "Electrochemical CO2 reduction reaction (ECO2RR) is a promising technology for converting rapidly rising atmospheric CO2—driven by fossil fuel consumption and industrial processes—into a circular carbon economy. In particular, ECO2RR is expected to enable renewable-based long-duration energy storage (LDES) systems through the highly efficient conversion of CO2 into high-value multi-carbon (C2+) compounds. However, scaling ECO2RR to the industrial level remains challenging because, under high-current operation, the CO2 consumption rate exceeds its supply rate, causing a sharp decline in local CO2 concentration. The resulting increase in local pH promotes both carbonate formation and electrode flooding within the gas diffusion electrode (GDE), creating a wetting-induced mass transfer bottleneck. To address this challenge, this review categorizes and analyzes recent strategies for CO2 microenvironment engineering that overcome mass transfer limitations at high-current densities, focusing on two complementary approaches: (1) enhancing gas-phase CO2 supply while suppressing flooding through nano/microscale hydrophobic polymers and structural gradient designs, and (2) enhancing active CO supply in the liquid phase through electrolyte composition optimization. We further show that these strategies are not mutually independent but create complementary structural and chemical synergies, and we propose future directions for simultaneously improving high-current operability and C2+ product selectivity.",
+      "relevance_reason": "命中 gas diffusion electrode、flooding、wetting，与 GDE 结构、润湿/淹没行为或 Micro-CT 三维表征相关，可用于结构—性能关联分析。",
+      "tags": [
+        "gas diffusion electrode",
+        "flooding",
+        "wetting"
+      ],
+      "score": 90,
+      "url": "https://doi.org/10.3390/nanoenergyadv6030026",
+      "archive": true,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
+    {
+      "id": "W7208757425",
+      "topic": "analysis",
+      "badge": "最新研究",
+      "read_minutes": 6,
+      "title": "Local pH Control Promotes Oxygen-Atom Transfer Electrosynthesis",
+      "journal": "Journal of the American Chemical Society",
+      "year": 2026,
+      "publication_date": "2026-09-04",
+      "summary_zh": "该研究聚焦电化学测试方法、反应机理或动力学分析。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
+      "abstract": "Abstract Control of the local reaction environment at electrified interfaces is central to electrocatalysis, yet this principle has rarely been integrated into electro-organic synthesis. Electro-organic transformations are not governed by electron transfer alone; reaction turnover is often coupled to ion transfer and, in particular, proton transfer across aqueous, mixed, and nonaqueous media. Under high-rate operation, these fluxes polarize proton activity near electrodes. Although such concentration polarization is expected to be widespread and consequential, it has been largely neglected in electrosynthesis design. Here we establish a mechanistically distinct, oxygen-driven electrosynthetic pathway for Baeyer–Villiger oxidation (BVO) and use it to develop a local-pH design framework for electro-organic synthesis. Isotope labeling shows that O2 supplies the inserted oxygen atom, and radical trapping, operando EPR spectroscopy, rotating ring–disk electrode analysis, and H2O2-additivity experiments support a paired mechanism in which O2-derived hydroperoxyl-radical equivalents enter acetonitrile-assisted oxygen transfer while anodic oxidation of electrogenerated H2O2 sustains radical flux. This productive pathway is intrinsically coupled to proton activity: the proton-coupled electrode reactions that generate oxygenating equivalents also impose local pH gradients that attenuate reactive oxygen species availability, divert ketone substrates through α-enolization/tautomerization, and accelerate lactone hydrolysis under nominally neutral bulk conditions. Electrometric local pH estimations, together with molecular α-deuteration reporters and transport simulations, link these local pH swings to reaction performance. By tuning electrode spacing and convective flow, these opposing proton-activity gradients are attenuated, enabling high-yield BVO across diverse ketones at elevated substrate loading. The same local-pH control strategy is further extended to electrochemical epoxidation.",
+      "relevance_reason": "命中 mechanism、nonaqueous、rotating ring-disk，属于电化学方法/机理分析文献，可用于 CV、EIS、参比校准或动力学数据解释。",
+      "tags": [
+        "mechanism",
+        "nonaqueous",
+        "rotating ring-disk"
+      ],
+      "score": 76,
+      "url": "https://doi.org/10.1021/jacs.6c12994",
+      "archive": true,
+      "impact_factor": "15.6",
+      "quartile": "JCR Q1"
     },
     {
       "id": "W7204254964",
@@ -366,28 +410,6 @@
       ],
       "score": 78,
       "url": "https://doi.org/10.59038/jjmie/200304",
-      "archive": true,
-      "impact_factor": null,
-      "quartile": "Q —"
-    },
-    {
-      "id": "W7204988593",
-      "topic": "gde",
-      "badge": "最新研究",
-      "read_minutes": 6,
-      "title": "Morpho-electrochemical behavior of particulate Zn electrodes revealed by X-ray and neutron tomography",
-      "journal": "Scientific Reports",
-      "year": 2026,
-      "publication_date": "2026-09-02",
-      "summary_zh": "该研究聚焦 GDE、孔结构或 X-ray/Micro-CT 三维表征。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
-      "abstract": "Aqueous rechargeable Zn-based batteries are gaining attention for their sustainability, safety, and cost-effectiveness; however, no industrially viable solutions are yet available, due to the synergistic issues of passivation and shape change. In particular, flow batteries with particulate Zn anodes are attractive for long-term stationary storage, at the cost of additional morpho-chemical processes involving the Zn particle bed and the interparticle space (IPS). Thus, the understanding of this system requires space-dependent information about the arrangement, dimensions, and chemical states of Zn and its discharge products. To this aim, we employ dual-probe chemically sensitive X-ray and thermal neutron tomography and radiography. Specifically, we analyzed an in situ anode in both pristine and discharged states, and we followed its self-discharge process in operando. In situ X-ray tomography reveals the advancement of Zn particle consumption and IPS development. In situ neutron tomography shows the formation and distribution of hydroxides. In operando, neutron radiography gives access to hydrogen bubble formation and dynamics. This first-of-its-kind analysis provides crucial insights, directly informing anode design strategies. Our findings contribute to paving the way for next-generation Zn flow batteries with improved efficiency and longevity.",
-      "relevance_reason": "命中 x-ray tomography、tomography，与 GDE 结构、润湿/淹没行为或 Micro-CT 三维表征相关，可用于结构—性能关联分析。",
-      "tags": [
-        "x-ray tomography",
-        "tomography"
-      ],
-      "score": 81,
-      "url": "https://doi.org/10.1038/s41598-026-49097-8",
       "archive": true,
       "impact_factor": null,
       "quartile": "Q —"
