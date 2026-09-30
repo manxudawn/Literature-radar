@@ -1,7 +1,7 @@
 {
-  "brief_date": "2026 · 09 · 29",
-  "last_updated": "2026-09-29",
-  "match_score": 88,
+  "brief_date": "2026 · 09 · 30",
+  "last_updated": "2026-09-30",
+  "match_score": 86,
   "trackers": [
     {
       "name": "Ni electrocarboxylation",
@@ -22,6 +22,52 @@
   ],
   "papers": [
     {
+      "id": "W7168181748",
+      "topic": "organic",
+      "badge": "近期精选",
+      "read_minutes": 6,
+      "title": "Electrochemical Carboxylation of Organic Halides at Preparative Scale Using Recirculation Flow Process",
+      "journal": "ACS electrochemistry.",
+      "year": 2026,
+      "publication_date": "2026-07-13",
+      "summary_zh": "该研究围绕有机电化学 CO₂ 羧化/还原羧化展开。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
+      "abstract": "Abstract The direct electrochemical carboxylation of aryl chlorides and bromides by CO2 using a recirculation flow cell is described. The process employs a Mg sacrificial rod anode surrounded by a cylindrical shaped nickel foam cathode. The reactions are simply carried out with common and affordable equipment under galvanostatic mode at –10 °C, using DMF as the solvent and carbon dioxide at atmospheric pressure. Under these smooth conditions, an important range of carboxylic acids is accessible at a 100 mmol scale. The global superiority of the flow technology over the batch process is underlined by the statistical comparison of the results obtained in both conditions and the calculation of the molar electric consumption for conversion.",
+      "relevance_reason": "命中 electrochemical carboxylation、carboxylation、carbon dioxide、co2，与有机电羧化、CO₂ 引入及 Ni/非水体系研究直接相关，优先检查底物、电极和反应条件。",
+      "tags": [
+        "electrochemical carboxylation",
+        "carboxylation",
+        "carbon dioxide",
+        "co2"
+      ],
+      "score": 99,
+      "url": "https://doi.org/10.1021/acselectrochem.6c00241",
+      "archive": false,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
+    {
+      "id": "W7213913198",
+      "topic": "organic",
+      "badge": "最新研究",
+      "read_minutes": 6,
+      "title": "Fe3O4@TpBD–Ni nanocomposite electrode for electrochemical CO2 in Kolb-Schmitt C-H carboxylation in a reusable ChCl/EG DES",
+      "journal": "Nano Trends",
+      "year": 2026,
+      "publication_date": "2026-09-21",
+      "summary_zh": "该研究围绕有机电化学 CO₂ 羧化/还原羧化展开。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
+      "abstract": "A magnetically recoverable Fe₃O₄@TpBD–Ni nanocomposite electrode was developed as a heterogeneous electrocatalyst for the electro-organic C–H carboxylation of aromatic substrates using CO₂ as a C1 feedstock. The material integrates catalytically active Ni sites within a porous β-ketoenamine-linked TpBD covalent organic framework supported on Fe₃O₄ nanoparticles, combining an accessible catalytic environment, efficient charge-transfer pathways, and magnetic responsiveness. Comprehensive characterization by FT-IR, SEM, XRD, EDX, VSM, and TGA confirmed the formation, structural integrity, Ni incorporation, and magnetic stability of the composite. The Fe₃O₄@TpBD–Ni electrode enabled efficient Kolbe–Schmitt-type carboxylation in a choline chloride/ethylene glycol (ChCl/EG, 1:2) deep eutectic solvent (DES) under mild conditions (room temperature, 12 mA, 1.5 h), affording the corresponding aromatic carboxylic acids in 90–98% isolated yields. Notably, the optimized composite electrode exhibited superior performance compared with conventional Ni rod, Ni foam, and graphite electrodes, highlighting the beneficial synergistic effect of the porous magnetic COF–Ni architecture. The catalyst could be readily separated by an external magnetic field and retained its catalytic activity upon repeated use, with limited Ni leaching, demonstrating good operational stability and recyclability. Moreover, the process showed high atom economy and low E-factor values, further supporting its sustainability. Overall, Fe₃O₄@TpBD–Ni provides a robust and recyclable heterogeneous electrocatalytic platform for CO₂ incorporation into aromatic carboxylic acids and offers a promising approach to sustainable electrochemical CO₂ valorization.",
+      "relevance_reason": "命中 carboxylation、co2，与有机电羧化、CO₂ 引入及 Ni/非水体系研究直接相关，优先检查底物、电极和反应条件。",
+      "tags": [
+        "carboxylation",
+        "co2"
+      ],
+      "score": 73,
+      "url": "https://doi.org/10.1016/j.nwnano.2026.100245",
+      "archive": false,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
+    {
       "id": "W7213314465",
       "topic": "gde",
       "badge": "最新研究",
@@ -41,7 +87,7 @@
       ],
       "score": 99,
       "url": "https://doi.org/10.1002/celc.70303",
-      "archive": false,
+      "archive": true,
       "impact_factor": null,
       "quartile": "Q —"
     },
@@ -65,7 +111,7 @@
       ],
       "score": 99,
       "url": "https://doi.org/10.1021/acs.energyfuels.6c03732",
-      "archive": false,
+      "archive": true,
       "impact_factor": null,
       "quartile": "Q —"
     },
@@ -87,7 +133,7 @@
       ],
       "score": 85,
       "url": "https://doi.org/10.1016/j.jcou.2026.103569",
-      "archive": false,
+      "archive": true,
       "impact_factor": null,
       "quartile": "Q —"
     },
@@ -109,7 +155,7 @@
       ],
       "score": 85,
       "url": "https://doi.org/10.1016/j.jcis.2026.141583",
-      "archive": false,
+      "archive": true,
       "impact_factor": null,
       "quartile": "Q —"
     },
@@ -131,7 +177,7 @@
       ],
       "score": 82,
       "url": "https://doi.org/10.26434/chemrxiv.15009425/v1",
-      "archive": false,
+      "archive": true,
       "impact_factor": null,
       "quartile": "Q —"
     },
@@ -153,28 +199,6 @@
       ],
       "score": 81,
       "url": "https://doi.org/10.1038/s41598-026-49097-8",
-      "archive": false,
-      "impact_factor": null,
-      "quartile": "Q —"
-    },
-    {
-      "id": "W7213913198",
-      "topic": "organic",
-      "badge": "最新研究",
-      "read_minutes": 6,
-      "title": "Fe3O4@TpBD–Ni Nanocomposite Electrode for Electrochemical CO2 in Kolb-Schmitt C-H Carboxylation in a Reusable ChCl/EG DES",
-      "journal": "Nano Trends",
-      "year": 2026,
-      "publication_date": "2026-09-01",
-      "summary_zh": "该研究围绕有机电化学 CO₂ 羧化/还原羧化展开。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
-      "abstract": "A magnetically recoverable Fe₃O₄@TpBD–Ni nanocomposite electrode was developed as a heterogeneous electrocatalyst for the electro-organic C–H carboxylation of aromatic substrates using CO₂ as a C1 feedstock. The material integrates catalytically active Ni sites within a porous β-ketoenamine-linked TpBD covalent organic framework supported on Fe₃O₄ nanoparticles, combining an accessible catalytic environment, efficient charge-transfer pathways, and magnetic responsiveness. Comprehensive characterization by FT-IR, SEM, XRD, EDX, VSM, and TGA confirmed the formation, structural integrity, Ni incorporation, and magnetic stability of the composite. The Fe₃O₄@TpBD–Ni electrode enabled efficient Kolbe–Schmitt-type carboxylation in a choline chloride/ethylene glycol (ChCl/EG, 1:2) deep eutectic solvent (DES) under mild conditions (room temperature, 12 mA, 1.5 h), affording the corresponding aromatic carboxylic acids in 90–98% isolated yields. Notably, the optimized composite electrode exhibited superior performance compared with conventional Ni rod, Ni foam, and graphite electrodes, highlighting the beneficial synergistic effect of the porous magnetic COF–Ni architecture. The catalyst could be readily separated by an external magnetic field and retained its catalytic activity upon repeated use, with limited Ni leaching, demonstrating good operational stability and recyclability. Moreover, the process showed high atom economy and low E-factor values, further supporting its sustainability. Overall, Fe₃O₄@TpBD–Ni provides a robust and recyclable heterogeneous electrocatalytic platform for CO₂ incorporation into aromatic carboxylic acids and offers a promising approach to sustainable electrochemical CO₂ valorization.",
-      "relevance_reason": "命中 carboxylation、co2，与有机电羧化、CO₂ 引入及 Ni/非水体系研究直接相关，优先检查底物、电极和反应条件。",
-      "tags": [
-        "carboxylation",
-        "co2"
-      ],
-      "score": 73,
-      "url": "https://doi.org/10.1016/j.nwnano.2026.100245",
       "archive": true,
       "impact_factor": null,
       "quartile": "Q —"
@@ -1224,30 +1248,6 @@
       ],
       "score": 88,
       "url": "https://doi.org/10.1016/j.microc.2026.119365",
-      "archive": true,
-      "impact_factor": null,
-      "quartile": "Q —"
-    },
-    {
-      "id": "W7168181748",
-      "topic": "organic",
-      "badge": "最新研究",
-      "read_minutes": 6,
-      "title": "Electrochemical Carboxylation of Organic Halides at Preparative Scale Using Recirculation Flow Process",
-      "journal": "ACS electrochemistry.",
-      "year": 2026,
-      "publication_date": "2026-07-13",
-      "summary_zh": "该研究围绕有机电化学 CO₂ 羧化/还原羧化展开。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
-      "abstract": "Abstract The direct electrochemical carboxylation of aryl chlorides and bromides by CO2 using a recirculation flow cell is described. The process employs a Mg sacrificial rod anode surrounded by a cylindrical shaped nickel foam cathode. The reactions are simply carried out with common and affordable equipment under galvanostatic mode at –10 °C, using DMF as the solvent and carbon dioxide at atmospheric pressure. Under these smooth conditions, an important range of carboxylic acids is accessible at a 100 mmol scale. The global superiority of the flow technology over the batch process is underlined by the statistical comparison of the results obtained in both conditions and the calculation of the molar electric consumption for conversion.",
-      "relevance_reason": "命中 electrochemical carboxylation、carboxylation、carbon dioxide、co2，与有机电羧化、CO₂ 引入及 Ni/非水体系研究直接相关，优先检查底物、电极和反应条件。",
-      "tags": [
-        "electrochemical carboxylation",
-        "carboxylation",
-        "carbon dioxide",
-        "co2"
-      ],
-      "score": 99,
-      "url": "https://doi.org/10.1021/acselectrochem.6c00241",
       "archive": true,
       "impact_factor": null,
       "quartile": "Q —"
