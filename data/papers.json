@@ -1,7 +1,7 @@
 {
-  "brief_date": "2026 · 10 · 02",
-  "last_updated": "2026-10-02",
-  "match_score": 92,
+  "brief_date": "2026 · 10 · 05",
+  "last_updated": "2026-10-05",
+  "match_score": 93,
   "trackers": [
     {
       "name": "Ni electrocarboxylation",
@@ -116,25 +116,25 @@
       "quartile": "Q —"
     },
     {
-      "id": "W7212032188",
+      "id": "W7214760572",
       "topic": "gde",
       "badge": "最新研究",
       "read_minutes": 6,
-      "title": "Minireview and Outlook of Salt Precipitation in CO2 Electrolysis",
-      "journal": "Energy & Fuels",
+      "title": "Phase-field simulation of interfacial stability in structured gas-liquid contactors: design rules for gas diffusion electrodes",
+      "journal": "arXiv (Cornell University)",
       "year": 2026,
-      "publication_date": "2026-09-09",
+      "publication_date": "2026-09-28",
       "summary_zh": "该研究聚焦 GDE、孔结构或 X-ray/Micro-CT 三维表征。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
-      "abstract": "Abstract CO2 electrolysis has progressed rapidly toward industrially relevant current densities, but its practical deployment is increasingly limited by reactor-level instabilities. Specifically, salt precipitation has emerged as a critical yet not well-understood challenge in high-rate CO2 electrolysis. Recent studies show that this phenomenon is governed not simply by bulk electrolyte composition, but by coupled interfacial properties including local alkalinity, cation migration and water distribution. The resulting bi(carbonate) accumulation can lead to supersaturation within the confined pore structures of the gas diffusion layer and subsequently salt nucleation and precipitation. These deposits reduce CO2 mass transport and eventually induce flooding that substantially compromise electrolyzer performance. In this minireview, we summarize the mechanistic origins, spatial distribution, and performance consequences of salt precipitation in CO2 electrolysis. We further assess emerging diagnostic tools and outline salt precipitation mitigation strategies towards the development of stable CO2 electrolyzers.",
-      "relevance_reason": "命中 gas diffusion layer、flooding、co2 electrolysis、co2 electroly，与 GDE 结构、润湿/淹没行为或 Micro-CT 三维表征相关，可用于结构—性能关联分析。",
+      "abstract": "Many process engineering applications hold a gas-liquid interface stationary inside a structured solid by a controlled pressure difference. Gas diffusion electrodes (GDEs) are one such case, where the interface separates the liquid electrolyte from the gaseous reactant. Maintaining it is particularly challenging in organic electrosynthesis, where low surface tensions lower the admissible pressures throughout and small contact angles leave the electrode with little margin against flooding. Here, we quantify how the shape, wettability, and three-dimensional topology of a structured medium set this window, using phase-field simulations of the Cahn-Hilliard-Navier-Stokes equations. Each geometry is characterised by its Laplace pressure curve, which yields both the maximum admissible pressure difference and the stiffness of the interface against pressure fluctuations. For single flat orifices at constant open area, elongating the opening from an aspect ratio of one to six raises the admissible pressure difference by 40 % and the stiffness by a factor of 3.3. Comparison with slits of equal width shows that this gain originates entirely from the reduced opening width. Sheared, diamond shaped openings are markedly less effective. In woven meshes, the wettability displaces the operating window several times as far as it stretches it. A less wetting surface therefore buys flooding margin largely at the expense of breakthrough margin, whereas the geometric route, established here for flat openings, widens the window itself. From these results we derive design rules for structured gas-liquid contactors and improved GDE architectures for organic electrosynthesis.",
+      "relevance_reason": "命中 gas diffusion electrode、gde、flooding、wetting，与 GDE 结构、润湿/淹没行为或 Micro-CT 三维表征相关，可用于结构—性能关联分析。",
       "tags": [
-        "gas diffusion layer",
+        "gas diffusion electrode",
+        "gde",
         "flooding",
-        "co2 electrolysis",
-        "co2 electroly"
+        "wetting"
       ],
       "score": 99,
-      "url": "https://doi.org/10.1021/acs.energyfuels.6c03732",
+      "url": "https://doi.org/10.48550/arxiv.2609.34755",
       "archive": false,
       "impact_factor": null,
       "quartile": "Q —"
@@ -159,6 +159,54 @@
       ],
       "score": 96,
       "url": "https://doi.org/10.65382/2221-8688-2027-1-149-169",
+      "archive": false,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
+    {
+      "id": "W7212032188",
+      "topic": "gde",
+      "badge": "最新研究",
+      "read_minutes": 6,
+      "title": "Minireview and Outlook of Salt Precipitation in CO2 Electrolysis",
+      "journal": "Energy & Fuels",
+      "year": 2026,
+      "publication_date": "2026-09-09",
+      "summary_zh": "该研究聚焦 GDE、孔结构或 X-ray/Micro-CT 三维表征。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
+      "abstract": "Abstract CO2 electrolysis has progressed rapidly toward industrially relevant current densities, but its practical deployment is increasingly limited by reactor-level instabilities. Specifically, salt precipitation has emerged as a critical yet not well-understood challenge in high-rate CO2 electrolysis. Recent studies show that this phenomenon is governed not simply by bulk electrolyte composition, but by coupled interfacial properties including local alkalinity, cation migration and water distribution. The resulting bi(carbonate) accumulation can lead to supersaturation within the confined pore structures of the gas diffusion layer and subsequently salt nucleation and precipitation. These deposits reduce CO2 mass transport and eventually induce flooding that substantially compromise electrolyzer performance. In this minireview, we summarize the mechanistic origins, spatial distribution, and performance consequences of salt precipitation in CO2 electrolysis. We further assess emerging diagnostic tools and outline salt precipitation mitigation strategies towards the development of stable CO2 electrolyzers.",
+      "relevance_reason": "命中 gas diffusion layer、flooding、co2 electrolysis、co2 electroly，与 GDE 结构、润湿/淹没行为或 Micro-CT 三维表征相关，可用于结构—性能关联分析。",
+      "tags": [
+        "gas diffusion layer",
+        "flooding",
+        "co2 electrolysis",
+        "co2 electroly"
+      ],
+      "score": 99,
+      "url": "https://doi.org/10.1021/acs.energyfuels.6c03732",
+      "archive": false,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
+    {
+      "id": "W7216242715",
+      "topic": "analysis",
+      "badge": "最新研究",
+      "read_minutes": 6,
+      "title": "Enhanced Hydrogen Evolution Activity of MoS 2 Through Solid Solution Modification of Its Edge Sites With Ruthenium",
+      "journal": "Angewandte Chemie",
+      "year": 2026,
+      "publication_date": "2026-10-02",
+      "summary_zh": "该研究聚焦电化学测试方法、反应机理或动力学分析。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
+      "abstract": "ABSTRACT In hydrogen production, electrocatalysts featuring edge sites as active centers, modulation of its edge site coordination environment could greatly improve the reaction kinetics by effectively reducing the energy barrier. Here, we report a novel catalyst formulation obtained by the electrochemical deposition of ruthenium onto the edge sites and near‐edge basal plane of MoS 2 to yield Ru‐coordinated solid solution species. The Ru atom acts as a site for water dissociation, increasing the proton supply rate and, in turn, the catalytic activity of MoS 2 . Based on the Tafel slope, in situ Raman, and electrochemical impedance spectroscopy (EIS) analysis, the edge solid solution creates a locally acidic chemical environment, enhancing the kinetics of the hydrogen evolution reaction by altering the reaction pathway from Volmer–Heyrovsky observed for pristine MoS 2 to Volmer–Tafel. Edge‐coordinated Ru solid solution catalyst features a very high current density in anion exchange membrane water electrolysis (AEMWE) and demonstrates excellent long‐term stability when compared with other reported MoS 2 ‐ and Ru‐based catalysts. Overall, our studies demonstrate that modification of MoS 2 by the incorporation of an edge solid solution can markedly improve its catalytic activity and, therefore, represents a promising strategy for materials design in the field of renewable fuel generation.",
+      "relevance_reason": "命中 kinetic、electrochemical impedance spectroscopy、impedance spectroscopy、tafel，属于电化学方法/机理分析文献，可用于 CV、EIS、参比校准或动力学数据解释。",
+      "tags": [
+        "kinetic",
+        "electrochemical impedance spectroscopy",
+        "impedance spectroscopy",
+        "tafel"
+      ],
+      "score": 85,
+      "url": "https://doi.org/10.1002/ange.1871980",
       "archive": false,
       "impact_factor": null,
       "quartile": "Q —"
@@ -206,7 +254,7 @@
       ],
       "score": 94,
       "url": "https://doi.org/10.17675/2305-6894-2026-15-3-23",
-      "archive": false,
+      "archive": true,
       "impact_factor": null,
       "quartile": "Q —"
     },
@@ -228,7 +276,7 @@
       ],
       "score": 85,
       "url": "https://doi.org/10.1016/j.jcou.2026.103569",
-      "archive": false,
+      "archive": true,
       "impact_factor": null,
       "quartile": "Q —"
     },
