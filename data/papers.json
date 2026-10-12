@@ -1,7 +1,7 @@
 {
-  "brief_date": "2026 · 10 · 09",
-  "last_updated": "2026-10-09",
-  "match_score": 90,
+  "brief_date": "2026 · 10 · 12",
+  "last_updated": "2026-10-12",
+  "match_score": 92,
   "trackers": [
     {
       "name": "Ni electrocarboxylation",
@@ -142,25 +142,25 @@
       "quartile": "Q —"
     },
     {
-      "id": "W7213999376",
+      "id": "W2409743990",
       "topic": "analysis",
       "badge": "最新研究",
-      "read_minutes": 6,
-      "title": "Analysis of Sumoxen drug via electrochemically reduced graphene oxide sensor: Experimental investigation and molecular docking insights into sensor-analyte interactions",
-      "journal": "Talanta Open",
+      "read_minutes": 7,
+      "title": "Electron transfer on graphene and graphite : theoretical and experimental study",
+      "journal": "Warwick Research Archive Portal (University of Warwick)",
       "year": 2026,
-      "publication_date": "2026-09-22",
+      "publication_date": "2026-09-14",
       "summary_zh": "该研究聚焦电化学测试方法、反应机理或动力学分析。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
-      "abstract": "This study presents the electrochemical determination of the anti-migraine pharmaceutical formulation; Sumoxen® (sumatriptan/naproxen) using an electrochemically reduced graphene oxide-modified glassy carbon electrode (erGO/GCE) sensor, with molecular docking employed to elucidate the underlying sensing mechanism. Cyclic voltammetry, differential pulse voltammetry and chronoamperometric techniques were used to assess the performance of fabricated erGO/GCE electrochemical sensor in acetate buffer system (AcBS; pH 5.0) and phosphate buffer system (PBS; pH 6.8). For analytical validation of the fabricated sensor, the limit of detection (LOD), limit of quantification (LOQ), sensitivity, and linear dynamic range were evaluated in the selected buffer systems. At pH 5.0, the sensor exhibited LOD of 1.22 μM, LOQ of 4.07 μM, and an excellent sensitivity of 0.022 μA μM⁻¹ cm⁻². Correspondingly, for naproxen (NPX), the LOD, LOQ and sensitivity were found as 1.881 μM, 6.271 μM and 0.0257 μA μM⁻¹ cm⁻², respectively. At pH 6.8, only NPX produced a measurable electrochemical response, yielding an excellent LOD and LOQ of 23.57 nM and 78.57 nM respectively, and sensitivity of 0.0346 μA μM⁻¹ cm⁻². Kinetic studies have also been done using Tafel analysis and Laviron equation. The standard rate constant (k°) was found to be 1.02 × 10 –4 s -1 . The docking conformation was carried out by calculating binding affinities of erGO model and analytes SUM/NPX and were found as -8.676 kcal/mol and -10.08 kcal/mol respectively, which verified the strong and stable bond interaction between analyte and erGO nanomaterial. The electrochemical method was also assessed for greenness using Analytical Eco-Scale (AES = 97), Analytical Greenness Metric (AGREE = 0.74), and complex Green Analytical Procedure Index (complexGAPI), yielding excellent compliance with green chemistry principles. The relatively low RSD values obtained for repeatability (2.25%) and reproducibility (3.98%), together with the prolonged stability, demonstrate that the proposed erGO/GCE sensor provides a consistent and reasonably stable electrochemical response towards Sumoxen.",
-      "relevance_reason": "命中 cyclic voltammetry、kinetic、mechanism、tafel，属于电化学方法/机理分析文献，可用于 CV、EIS、参比校准或动力学数据解释。",
+      "abstract": "The redox behaviour of several couples on highly oriented pyrolytic graphite (HOPG) and graphene has been studied using both micro- and macroscopic measurements supported by detailed analysis. The ET kinetics of Ru(NH3)6 3+/2+ , (ferrocenylmethyl)trimethylammonium (FcTMA2+/+ ), and ferrocenylcarboxylic acid (FcCOO-/0 ) was found fast, on the time-scale of voltammetric measurements, on a freshly cleaved HOPG surface, but on “aged” one, Ru(NH3)6 3+/2+ exhibited sluggish ET, showing quite unusual macroscopic cyclic voltammograms. The other two couples retained their fast response on an “aged” surface. The surface of “aged” HOPG is proposed to consist of graphene layers of different thicknesses, which, from graphite to monolayer graphene, have progressively diminishing capacity to support fast ET specifically for Ru(NH3)6 3+/2+ . Such a redox-selectivity correlates with the position of formal potentials of the three redox couples relative to the band structure of graphene, with Ru(NH3)6 3+/2+ being most close to the minimum in density of states (DOS) of undoped monolayer graphene. Based on macroscopic voltammetry, low grade HOPG, whose surface is abundant with step edges, was found not to be redox-selective in the sense described above, meaning that its “aged” surface was as good as fresh one. It is highly likely that step edges being a type of crystal lattice defects, retain their capacity for fast ET, which correlates with their elevated DOS, and, thus, secure fast voltammetric response of low grade HOPG in macroscopic experiments on these complex “aged” surfaces. IrCl6 2-/3- , Fe(CN)6 3-/4- and the three couples discussed above were all found to have fast electrochemistry on freshly cleaved surfaces of high grade HOPG. Estimated heterogeneous rate constants were > 0.1 cm s- 1 for Ru(NH3)6 3+/2+ and > 1.7 cm s- 1 for IrCl6 2-/3-and Fe(CN)6 3-/4 . This suggests that basal planes of graphite have, though low, but sufficient DOS to perform ET at a rate comparable with that on some metals. Furthermore, these results unarguably defy those opinions, that have been long circulating in the published literature, stating that basal plane of HOPG (and also sidewalls of carbon nanotubes) are nearly inert towards ET and that the defects were solely responsible for the observed electrochemical activity of this material. The study of adsorption of three ferrocene derivatives on HOPG revealed FcTMA+ and FcCOO- adsorb weakly and approximately equally whereas zero-charged FcCH2OH adsorbs notably more strongly. The adsorption was studied with cyclic voltammetry and quantitative information was extracted from the experimental data basing on a simple dedicated theory developed in this thesis. The “aged” surface of high grade HOPG exhibited enhanced adsorption as compared to fresh one, but low grade HOPG did not show the difference. It is suggested that the highly flat surface of high grade HOPG (large terraces widths) facilitates formation of airborne contaminating fil",
+      "relevance_reason": "命中 cyclic voltammetry、voltammetric、kinetic、ferrocene，属于电化学方法/机理分析文献，可用于 CV、EIS、参比校准或动力学数据解释。",
       "tags": [
         "cyclic voltammetry",
+        "voltammetric",
         "kinetic",
-        "mechanism",
-        "tafel"
+        "ferrocene"
       ],
-      "score": 81,
-      "url": "https://doi.org/10.1016/j.talo.2026.100689",
+      "score": 90,
+      "url": "https://doi.org/10.82444/warw.33719902",
       "archive": false,
       "impact_factor": null,
       "quartile": "Q —"
@@ -210,6 +210,54 @@
       "quartile": "Q —"
     },
     {
+      "id": "W7221027144",
+      "topic": "analysis",
+      "badge": "最新研究",
+      "read_minutes": 6,
+      "title": "Voltammetric studies of TiO2-nanographite based composites",
+      "journal": "Journal of Solid State Electrochemistry",
+      "year": 2026,
+      "publication_date": "2026-10-09",
+      "summary_zh": "该研究聚焦电化学测试方法、反应机理或动力学分析。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
+      "abstract": "Titanium dioxide (TiO 2 ) is a promising electrode material for use as an electrode in electrochemical energy storage. However, its low electrical conductivity limits its performance. This study investigated the influence of nanographite incorporation and ionic liquid (IL) addition on the structural and electrochemical properties of TiO 2 . Hydrothermally synthesized TiO 2 nanoparticles and TiO 2 modified with the ILs triethylammonium-propane-sulfonic acid tetrafluoroborate ([TEA-PS][BF 4 ]) (TB) and 1-butyl-3-methylimidazolium hydrogen sulfate ([BMIM][HSO 4 ]) (BM) were used to prepare thick-film electrodes of pure TiO 2 (T) and TiO 2 /nanographite (T/NG) composites. Diffractograms revealed TiO 2 oxide phases in the anatase form, along with characteristic graphite peaks. Scanning electron microscopy revealed porous films composed of agglomerated TiO 2 , while Raman spectroscopy confirmed the integrity of the graphitic framework through the characteristic D, G, and 2D bands. Cyclic voltammetry showed that the incorporation of nanographite increased the voltammetric charge by up to three orders of magnitude compared with pure TiO 2 . After normalization by the active mass, the T/NG/BM electrode exhibited the highest specific charge, reaching 6.93 C g −1 under cathodic polarization, whereas pure TiO 2 remained below 0.22 C g −1 . The distinct electrochemical responses obtained for the two ionic liquids indicate that they modify the interfacial charge-storage mechanism through different kinetic pathways. Overall, the results support a hybrid charge-storage mechanism involving surface-confined Faradaic reactions coupled with pseudocapacitive contributions at the TiO 2 /nanographite interface.",
+      "relevance_reason": "命中 cyclic voltammetry、voltammetric、kinetic、mechanism，属于电化学方法/机理分析文献，可用于 CV、EIS、参比校准或动力学数据解释。",
+      "tags": [
+        "cyclic voltammetry",
+        "voltammetric",
+        "kinetic",
+        "mechanism"
+      ],
+      "score": 87,
+      "url": "https://doi.org/10.1007/s10008-026-06715-9",
+      "archive": false,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
+    {
+      "id": "W7213999376",
+      "topic": "analysis",
+      "badge": "最新研究",
+      "read_minutes": 6,
+      "title": "Analysis of Sumoxen drug via electrochemically reduced graphene oxide sensor: Experimental investigation and molecular docking insights into sensor-analyte interactions",
+      "journal": "Talanta Open",
+      "year": 2026,
+      "publication_date": "2026-09-22",
+      "summary_zh": "该研究聚焦电化学测试方法、反应机理或动力学分析。 当前为规则筛选摘要；打开原文可查看完整实验设计与结论。",
+      "abstract": "This study presents the electrochemical determination of the anti-migraine pharmaceutical formulation; Sumoxen® (sumatriptan/naproxen) using an electrochemically reduced graphene oxide-modified glassy carbon electrode (erGO/GCE) sensor, with molecular docking employed to elucidate the underlying sensing mechanism. Cyclic voltammetry, differential pulse voltammetry and chronoamperometric techniques were used to assess the performance of fabricated erGO/GCE electrochemical sensor in acetate buffer system (AcBS; pH 5.0) and phosphate buffer system (PBS; pH 6.8). For analytical validation of the fabricated sensor, the limit of detection (LOD), limit of quantification (LOQ), sensitivity, and linear dynamic range were evaluated in the selected buffer systems. At pH 5.0, the sensor exhibited LOD of 1.22 μM, LOQ of 4.07 μM, and an excellent sensitivity of 0.022 μA μM⁻¹ cm⁻². Correspondingly, for naproxen (NPX), the LOD, LOQ and sensitivity were found as 1.881 μM, 6.271 μM and 0.0257 μA μM⁻¹ cm⁻², respectively. At pH 6.8, only NPX produced a measurable electrochemical response, yielding an excellent LOD and LOQ of 23.57 nM and 78.57 nM respectively, and sensitivity of 0.0346 μA μM⁻¹ cm⁻². Kinetic studies have also been done using Tafel analysis and Laviron equation. The standard rate constant (k°) was found to be 1.02 × 10 –4 s -1 . The docking conformation was carried out by calculating binding affinities of erGO model and analytes SUM/NPX and were found as -8.676 kcal/mol and -10.08 kcal/mol respectively, which verified the strong and stable bond interaction between analyte and erGO nanomaterial. The electrochemical method was also assessed for greenness using Analytical Eco-Scale (AES = 97), Analytical Greenness Metric (AGREE = 0.74), and complex Green Analytical Procedure Index (complexGAPI), yielding excellent compliance with green chemistry principles. The relatively low RSD values obtained for repeatability (2.25%) and reproducibility (3.98%), together with the prolonged stability, demonstrate that the proposed erGO/GCE sensor provides a consistent and reasonably stable electrochemical response towards Sumoxen.",
+      "relevance_reason": "命中 cyclic voltammetry、kinetic、mechanism、tafel，属于电化学方法/机理分析文献，可用于 CV、EIS、参比校准或动力学数据解释。",
+      "tags": [
+        "cyclic voltammetry",
+        "kinetic",
+        "mechanism",
+        "tafel"
+      ],
+      "score": 81,
+      "url": "https://doi.org/10.1016/j.talo.2026.100689",
+      "archive": true,
+      "impact_factor": null,
+      "quartile": "Q —"
+    },
+    {
       "id": "W7212451170",
       "topic": "analysis",
       "badge": "最新研究",
@@ -227,7 +275,7 @@
       ],
       "score": 79,
       "url": "https://doi.org/10.1002/zaac.70201",
-      "archive": false,
+      "archive": true,
       "impact_factor": null,
       "quartile": "Q —"
     },
